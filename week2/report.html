@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>report.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" integrity="sha384-nB0miv6/jRmo5UMMR1wu3Gz6NLsoTkbqJghGIsx//Rlm+ZU03BU6SQNC66uf4l5+" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" integrity="sha384-7zkQWkzuo3B5mTepMUcHkMB5jZaolc2xDwL6VFqjFALcbeS9Ggm/Yr2r3Dy4lfFg" crossorigin="anonymous"></script>
+<h1 id="%E5%AF%BB%E6%89%BE%E6%A0%B7%E6%9C%ACdna%E5%BA%8F%E5%88%97%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E7%89%87%E6%AE%B5">寻找样本DNA序列中的重复片段</h1>
+<h2 id="%E5%AF%B9%E4%BA%8E%E4%B8%8B%E5%8F%91%E7%9A%84%E6%A0%B7%E4%BE%8B%E7%9A%84%E8%BE%93%E5%87%BA">对于下发的样例的输出</h2>
+<pre class="hljs"><code><div>|--------------------------------------------------|
+|                    Statistics                    |
+|--------------------------------------------------|
+| Pos in Ref | Pattern | Length | Inverted | Count |
+|--------------------------------------------------|
+| 400 -  799 | CT...AT |    400 |    False |     1 |
+| 301 -  399 | AG...CG |     99 |     True |     1 |
+| 330 -  399 | TA...CG |     70 |    False |     3 |
+| 300 -  400 | CA...CC |    101 |     True |     1 |
+| 350 -  399 | CT...CG |     50 |    False |     4 |
+|   0 -  399 | CT...CG |    400 |    False |     1 |
+|--------------------------------------------------|
+</div></code></pre>
+<p><img src="im.png" alt=""></p>
+<h2 id="%E6%80%9D%E8%B7%AF">思路</h2>
+<p>以下约定：$s$ 表示 reference 串，$t$ 表示 query 串。$s[i]$ 表示 reference 串的第 $i$ 个字符（从 $0$ 开始），$t[i:j]$ 表示 query 串的第 $i$ 到第 $j$ 个字符（包括首尾）。</p>
+<p>$s$ 和 $t$ 的长度分别为 $n$ 和 $m$。</p>
+<p>使用哈希表保存所有 reference 串的子串（以及逆转后的子串）。</p>
+<p>使用 $f[k]$ 表示从 $t[k]$ 到 $t[n]$ （注意不是 $n-1$）的<strong>最少跳转次数</strong>（保证平均每个片段最长）。初始化 $f[k]$ 为无穷大，$f[n]$ 为 $0$。</p>
+<p>对于 query 串的每个子串 $t[i:j]$，寻找其是否在 reference 中出现过。若出现过则尝试更新 $f[j]$。</p>
+<p><strong>重点</strong></p>
+<p>遍历 query 串每个子串的顺序非常重要。其实这里存在两种思路：从前往后扫和从后往前扫，理论上效果是一致的。此处使用从后往前扫。即先遍历所有 query 的后缀，然后是去掉最后一个字符的后缀，然后是去掉最后两个字符的后缀，以此类推。</p>
+<p><strong>精细化处理</strong></p>
+<ul>
+<li>保存是从哪里跳的，简单记录即可，以下不再介绍。</li>
+<li>$\Theta(1)$ 求子串哈希，以下将介绍。</li>
+<li>美观输出，与算法无关，以下不再介绍。</li>
+</ul>
+<h2 id="%E7%A8%8B%E5%BA%8F">程序</h2>
+<p><code>final.cpp</code> <strong>需要使用 C++20 编译，因为使用了 std::unordered_map::contains 这个语法糖，若没有对应环境请改成std::unordered_map::find != std::unordered_map::end</strong>
+<code>plot.py</code> 用于画图。</p>
+<h2 id="%E4%BC%AA%E4%BB%A3%E7%A0%81">伪代码</h2>
+<pre class="pseudocode">
+\begin{algorithm}
+\caption{PreHash}
+\begin{algorithmic}
+\PROCEDURE{PreHash}{$s, l, r, ht$}
+    \STATE $h \gets 0$
+    \FOR{$i \gets l$ \TO $r - 1$}
+        \STATE $h \gets h \times 131 + s[i]$
+        \STATE $ht[i] \gets h$
+    \ENDFOR
+\ENDPROCEDURE
+\end{algorithmic}
+\end{algorithm}
+</pre>
+<pre class="pseudocode">
+\begin{algorithm}
+\caption{PreHashInv}
+\begin{algorithmic}
+\PROCEDURE{PreHashInv}{$l, r, s, ht$}
+    \STATE $n \gets$ \CALL{Length}{$s$}
+    \FOR{$i \gets 0$ \TO $n - 1$}
+        \STATE $reference\_rc[i] \gets s[n - i - 1]$
+    \ENDFOR
+    \STATE $reference\_rc[n] \gets \text{NULL}$
+    \FOR{$i \gets 0$ \TO $n - 1$}
+        \IF{$reference\_rc[i] = 'A'$}
+            \STATE $reference\_rc[i] \gets 'T'$
+        \ELIF{$reference\_rc[i] = 'T'$}
+            \STATE $reference\_rc[i] \gets 'A'$
+        \ELIF{$reference\_rc[i] = 'C'$}
+            \STATE $reference\_rc[i] \gets 'G'$
+        \ELSE
+            \STATE $reference\_rc[i] \gets 'C'$
+        \ENDIF
+    \ENDFOR
+    \STATE \CALL{Hash}{$0, n, reference\_rc, ht$}
+\ENDPROCEDURE
+\end{algorithmic}
+\end{algorithm}
+</pre>
+<pre class="pseudocode">
+\begin{algorithm}
+\caption{PartialHash}
+\begin{algorithmic}
+\FUNCTION{PartialHash}{$l, r, ht$}
+    \IF{$l = 0$}
+        \RETURN $ht[r]$
+    \ENDIF
+    \RETURN $ht[r] - ht[l - 1] \times pow131[r - l + 1]$
+\ENDFUNCTION
+\FUNCTION{PartialHashInv}{$l, r, n, htinv$}
+    \RETURN \CALL{PartialHash}{$n - r - 1, n - l - 1, htinv$}
+\ENDFUNCTION
+\end{algorithmic}
+\end{algorithm}
+</pre>
+<pre class="pseudocode">
+\begin{algorithm}
+\caption{PartialHash}
+\begin{algorithmic}
+\PROCEDURE{ComputeF}{$query\_len, hash\_query, substrings, f, f\_from$}
+    \STATE \CALL{Memset}{$f, \infty, \text{SizeOf}(f)$}
+    \STATE $f[query\_len] \gets 0$
+
+    \FOR{$i \gets query\_len - 1$ \TO $0$}
+        \FOR{$j \gets i$ \TO $query\_len - 1$}
+            \STATE $h \gets$ \CALL{PartialHash}{$i, j, hash\_query$}
+            \IF{$h \in substrings$}
+                \STATE $jump\_from \gets j + 1$
+                \IF{$f[i] > 1 + f[jump\_from]$}
+                    \STATE $f[i] \gets 1 + f[jump\_from]$
+                    \STATE $begin \gets substrings[h].begin$
+                    \STATE $inverted \gets substrings[h].inverted$
+                    \STATE $f\_from[i] \gets \{jump\_from, begin, inverted\}$
+                \ENDIF
+            \ENDIF
+        \ENDFOR
+    \ENDFOR
+\ENDPROCEDURE
+\end{algorithmic}
+\end{algorithm}
+</pre>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous" onload="renderMathInElement(document.body, {delimiters: [{left: '$$', right: '$$', display: true},{left: '$', right: '$', display: false},{left: '\\(', right: '\\)', display: false},{left: '\\[', right: '\\]', display: true}],throwOnError : false});"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pseudocode@latest/build/pseudocode.min.css">
+<script src="https://cdn.jsdelivr.net/npm/pseudocode@latest/build/pseudocode.min.js" onload="pseudocode.renderClass('pseudocode')"></script>
+</body>
+</html>

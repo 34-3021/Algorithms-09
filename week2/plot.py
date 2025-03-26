@@ -6,20 +6,19 @@ x = []
 y = []
 
 with open('result.txt', 'r') as f:
+
     # 散点
     for line in f:
         line = line.strip()
-        cury = float(line.split(',')[0])
-        curx = float(line.split(',')[1])
-        inverted = int(line.split(',')[2])
-        lasty = y[-1] if y else 0
-        lastx = x[-1] if x else 0
-        if (lasty != cury+1 or lastx != curx+1) and (lasty != 0 and lastx != 0):
-            yfrom = lasty if inverted else cury-(lastx-curx)
-            yto = cury-(lastx-curx) if inverted else lasty
-            plt.plot([lastx, curx+1], [yto, yfrom])
-        y.append(cury)
-        x.append(curx)
+        ybegin = float(line.split(',')[0])
+        xbegin = float(line.split(',')[1])
+        yend = float(line.split(',')[2])
+        xend = float(line.split(',')[3])
+        if (xbegin == xend and ybegin == yend):
+            x.append(xbegin)
+            y.append(ybegin)
+        plt.plot([xbegin, xend], [ybegin, yend])
 
 plt.scatter(x, y)
+plt.axis('scaled')
 plt.show()
