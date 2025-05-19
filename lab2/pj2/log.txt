@@ -1,0 +1,7006 @@
+Estimated worst ans: -10000
+Processing row 0 of 1700
+Skipped 0 cells
+Estimated worst ans: -1000
+Processing row 1 of 1700
+Skipped 0 cells
+Estimated worst ans: -995
+Processing row 2 of 1700
+Skipped 0 cells
+Estimated worst ans: -990
+Processing row 3 of 1700
+Skipped 0 cells
+Estimated worst ans: -985
+Processing row 4 of 1700
+Skipped 0 cells
+Estimated worst ans: -980
+Processing row 5 of 1700
+Skipped 0 cells
+Estimated worst ans: -975
+Processing row 6 of 1700
+Skipped 0 cells
+Estimated worst ans: -970
+Processing row 7 of 1700
+Skipped 0 cells
+Estimated worst ans: -965
+Processing row 8 of 1700
+Skipped 0 cells
+Estimated worst ans: -960
+Processing row 9 of 1700
+Skipped 0 cells
+Estimated worst ans: -955
+Processing row 10 of 1700
+Skipped 0 cells
+Estimated worst ans: -950
+Processing row 11 of 1700
+Skipped 0 cells
+Estimated worst ans: -945
+Processing row 12 of 1700
+Skipped 0 cells
+Estimated worst ans: -940
+Processing row 13 of 1700
+Skipped 0 cells
+Estimated worst ans: -935
+Processing row 14 of 1700
+Skipped 0 cells
+Estimated worst ans: -930
+Processing row 15 of 1700
+Skipped 0 cells
+Estimated worst ans: -925
+Processing row 16 of 1700
+Skipped 0 cells
+Estimated worst ans: -920
+Processing row 17 of 1700
+Skipped 0 cells
+Estimated worst ans: -915
+Processing row 18 of 1700
+Skipped 0 cells
+Estimated worst ans: -910
+Processing row 19 of 1700
+Skipped 0 cells
+Estimated worst ans: -905
+Processing row 20 of 1700
+Skipped 0 cells
+Estimated worst ans: -900
+Processing row 21 of 1700
+Skipped 0 cells
+Estimated worst ans: -895
+Processing row 22 of 1700
+Skipped 0 cells
+Estimated worst ans: -889
+Processing row 23 of 1700
+Skipped 0 cells
+Estimated worst ans: -882
+Processing row 24 of 1700
+Skipped 0 cells
+Estimated worst ans: -876
+Processing row 25 of 1700
+Skipped 0 cells
+Estimated worst ans: -869
+Processing row 26 of 1700
+Skipped 0 cells
+Estimated worst ans: -863
+Processing row 27 of 1700
+Skipped 0 cells
+Estimated worst ans: -856
+Processing row 28 of 1700
+Skipped 0 cells
+Estimated worst ans: -850
+Processing row 29 of 1700
+Skipped 0 cells
+Estimated worst ans: -843
+Processing row 30 of 1700
+Skipped 0 cells
+Estimated worst ans: -837
+Processing row 31 of 1700
+Skipped 0 cells
+Estimated worst ans: -830
+Processing row 32 of 1700
+Skipped 0 cells
+Estimated worst ans: -823
+Processing row 33 of 1700
+Skipped 0 cells
+Estimated worst ans: -817
+Processing row 34 of 1700
+Skipped 0 cells
+Estimated worst ans: -809
+Processing row 35 of 1700
+Skipped 0 cells
+Estimated worst ans: -803
+Processing row 36 of 1700
+Skipped 0 cells
+Estimated worst ans: -796
+Processing row 37 of 1700
+Skipped 0 cells
+Estimated worst ans: -789
+Processing row 38 of 1700
+Skipped 0 cells
+Estimated worst ans: -783
+Processing row 39 of 1700
+Skipped 0 cells
+Estimated worst ans: -776
+Processing row 40 of 1700
+Skipped 0 cells
+Estimated worst ans: -769
+Processing row 41 of 1700
+Skipped 0 cells
+Estimated worst ans: -762
+Processing row 42 of 1700
+Skipped 0 cells
+Estimated worst ans: -755
+Processing row 43 of 1700
+Skipped 0 cells
+Estimated worst ans: -748
+Processing row 44 of 1700
+Skipped 0 cells
+Estimated worst ans: -741
+Processing row 45 of 1700
+Skipped 0 cells
+Estimated worst ans: -734
+Processing row 46 of 1700
+Skipped 0 cells
+Estimated worst ans: -727
+Processing row 47 of 1700
+Skipped 0 cells
+Estimated worst ans: -720
+Processing row 48 of 1700
+Skipped 0 cells
+Estimated worst ans: -713
+Processing row 49 of 1700
+Skipped 0 cells
+Estimated worst ans: -706
+Processing row 50 of 1700
+Skipped 0 cells
+Estimated worst ans: -699
+Processing row 51 of 1700
+Skipped 0 cells
+Estimated worst ans: -692
+Processing row 52 of 1700
+Skipped 0 cells
+Estimated worst ans: -685
+Processing row 53 of 1700
+Skipped 0 cells
+Estimated worst ans: -677
+Processing row 54 of 1700
+Skipped 0 cells
+Estimated worst ans: -670
+Processing row 55 of 1700
+Skipped 0 cells
+Estimated worst ans: -663
+Processing row 56 of 1700
+Skipped 0 cells
+Estimated worst ans: -656
+Processing row 57 of 1700
+Skipped 0 cells
+Estimated worst ans: -648
+Processing row 58 of 1700
+Skipped 0 cells
+Estimated worst ans: -641
+Processing row 59 of 1700
+Skipped 0 cells
+Estimated worst ans: -634
+Processing row 60 of 1700
+Skipped 0 cells
+Estimated worst ans: -627
+Processing row 61 of 1700
+Skipped 0 cells
+Estimated worst ans: -619
+Processing row 62 of 1700
+Skipped 0 cells
+Estimated worst ans: -612
+Processing row 63 of 1700
+Skipped 0 cells
+Estimated worst ans: -604
+Processing row 64 of 1700
+Skipped 0 cells
+Estimated worst ans: -597
+Processing row 65 of 1700
+Skipped 0 cells
+Estimated worst ans: -590
+Processing row 66 of 1700
+Skipped 0 cells
+Estimated worst ans: -582
+Processing row 67 of 1700
+Skipped 0 cells
+Estimated worst ans: -575
+Processing row 68 of 1700
+Skipped 0 cells
+Estimated worst ans: -567
+Processing row 69 of 1700
+Skipped 0 cells
+Estimated worst ans: -560
+Processing row 70 of 1700
+Skipped 0 cells
+Estimated worst ans: -545
+Processing row 71 of 1700
+Skipped 0 cells
+Estimated worst ans: -545
+Processing row 72 of 1700
+Skipped 0 cells
+Estimated worst ans: -537
+Processing row 73 of 1700
+Skipped 0 cells
+Estimated worst ans: -530
+Processing row 74 of 1700
+Skipped 0 cells
+Estimated worst ans: -522
+Processing row 75 of 1700
+Skipped 0 cells
+Estimated worst ans: -515
+Processing row 76 of 1700
+Skipped 0 cells
+Estimated worst ans: -507
+Processing row 77 of 1700
+Skipped 0 cells
+Estimated worst ans: -499
+Processing row 78 of 1700
+Skipped 0 cells
+Estimated worst ans: -492
+Processing row 79 of 1700
+Skipped 0 cells
+Estimated worst ans: -484
+Processing row 80 of 1700
+Skipped 0 cells
+Estimated worst ans: -476
+Processing row 81 of 1700
+Skipped 0 cells
+Estimated worst ans: -469
+Processing row 82 of 1700
+Skipped 0 cells
+Estimated worst ans: -469
+Processing row 83 of 1700
+Skipped 0 cells
+Estimated worst ans: -467
+Processing row 84 of 1700
+Skipped 0 cells
+Estimated worst ans: -462
+Processing row 85 of 1700
+Skipped 0 cells
+Estimated worst ans: -457
+Processing row 86 of 1700
+Skipped 0 cells
+Estimated worst ans: -452
+Processing row 87 of 1700
+Skipped 0 cells
+Estimated worst ans: -447
+Processing row 88 of 1700
+Skipped 0 cells
+Estimated worst ans: -442
+Processing row 89 of 1700
+Skipped 0 cells
+Estimated worst ans: -437
+Processing row 90 of 1700
+Skipped 0 cells
+Estimated worst ans: -432
+Processing row 91 of 1700
+Skipped 0 cells
+Estimated worst ans: -427
+Processing row 92 of 1700
+Skipped 0 cells
+Estimated worst ans: -422
+Processing row 93 of 1700
+Skipped 0 cells
+Estimated worst ans: -417
+Processing row 94 of 1700
+Skipped 0 cells
+Estimated worst ans: -412
+Processing row 95 of 1700
+Skipped 0 cells
+Estimated worst ans: -407
+Processing row 96 of 1700
+Skipped 0 cells
+Estimated worst ans: -402
+Processing row 97 of 1700
+Skipped 0 cells
+Estimated worst ans: -397
+Processing row 98 of 1700
+Skipped 0 cells
+Estimated worst ans: -392
+Processing row 99 of 1700
+Skipped 0 cells
+Estimated worst ans: -387
+Processing row 100 of 1700
+Skipped 0 cells
+Estimated worst ans: -382
+Processing row 101 of 1700
+Skipped 0 cells
+Estimated worst ans: -377
+Processing row 102 of 1700
+Skipped 0 cells
+Estimated worst ans: -372
+Processing row 103 of 1700
+Skipped 0 cells
+Estimated worst ans: -367
+Processing row 104 of 1700
+Skipped 0 cells
+Estimated worst ans: -362
+Processing row 105 of 1700
+Skipped 0 cells
+Estimated worst ans: -357
+Processing row 106 of 1700
+Skipped 0 cells
+Estimated worst ans: -352
+Processing row 107 of 1700
+Skipped 0 cells
+Estimated worst ans: -347
+Processing row 108 of 1700
+Skipped 0 cells
+Estimated worst ans: -342
+Processing row 109 of 1700
+Skipped 0 cells
+Estimated worst ans: -337
+Processing row 110 of 1700
+Skipped 0 cells
+Estimated worst ans: -332
+Processing row 111 of 1700
+Skipped 0 cells
+Estimated worst ans: -327
+Processing row 112 of 1700
+Skipped 0 cells
+Estimated worst ans: -322
+Processing row 113 of 1700
+Skipped 0 cells
+Estimated worst ans: -317
+Processing row 114 of 1700
+Skipped 0 cells
+Estimated worst ans: -312
+Processing row 115 of 1700
+Skipped 0 cells
+Estimated worst ans: -307
+Processing row 116 of 1700
+Skipped 0 cells
+Estimated worst ans: -302
+Processing row 117 of 1700
+Skipped 0 cells
+Estimated worst ans: -297
+Processing row 118 of 1700
+Skipped 0 cells
+Estimated worst ans: -292
+Processing row 119 of 1700
+Skipped 0 cells
+Estimated worst ans: -287
+Processing row 120 of 1700
+Skipped 0 cells
+Estimated worst ans: -282
+Processing row 121 of 1700
+Skipped 0 cells
+Estimated worst ans: -277
+Processing row 122 of 1700
+Skipped 0 cells
+Estimated worst ans: -272
+Processing row 123 of 1700
+Skipped 0 cells
+Estimated worst ans: -267
+Processing row 124 of 1700
+Skipped 0 cells
+Estimated worst ans: -262
+Processing row 125 of 1700
+Skipped 0 cells
+Estimated worst ans: -257
+Processing row 126 of 1700
+Skipped 0 cells
+Estimated worst ans: -252
+Processing row 127 of 1700
+Skipped 0 cells
+Estimated worst ans: -247
+Processing row 128 of 1700
+Skipped 0 cells
+Estimated worst ans: -242
+Processing row 129 of 1700
+Skipped 0 cells
+Estimated worst ans: -237
+Processing row 130 of 1700
+Skipped 0 cells
+Estimated worst ans: -232
+Processing row 131 of 1700
+Skipped 0 cells
+Estimated worst ans: -227
+Processing row 132 of 1700
+Skipped 0 cells
+Estimated worst ans: -227
+Processing row 133 of 1700
+Skipped 0 cells
+Estimated worst ans: -225
+Processing row 134 of 1700
+Skipped 0 cells
+Estimated worst ans: -220
+Processing row 135 of 1700
+Skipped 0 cells
+Estimated worst ans: -215
+Processing row 136 of 1700
+Skipped 0 cells
+Estimated worst ans: -210
+Processing row 137 of 1700
+Skipped 0 cells
+Estimated worst ans: -205
+Processing row 138 of 1700
+Skipped 0 cells
+Estimated worst ans: -200
+Processing row 139 of 1700
+Skipped 0 cells
+Estimated worst ans: -195
+Processing row 140 of 1700
+Skipped 0 cells
+Estimated worst ans: -190
+Processing row 141 of 1700
+Skipped 0 cells
+Estimated worst ans: -185
+Processing row 142 of 1700
+Skipped 0 cells
+Estimated worst ans: -180
+Processing row 143 of 1700
+Skipped 0 cells
+Estimated worst ans: -175
+Processing row 144 of 1700
+Skipped 0 cells
+Estimated worst ans: -170
+Processing row 145 of 1700
+Skipped 0 cells
+Estimated worst ans: -165
+Processing row 146 of 1700
+Skipped 0 cells
+Estimated worst ans: -160
+Processing row 147 of 1700
+Skipped 0 cells
+Estimated worst ans: -155
+Processing row 148 of 1700
+Skipped 0 cells
+Estimated worst ans: -150
+Processing row 149 of 1700
+Skipped 0 cells
+Estimated worst ans: -145
+Processing row 150 of 1700
+Skipped 0 cells
+Estimated worst ans: -137
+Processing row 151 of 1700
+Skipped 0 cells
+Estimated worst ans: -134
+Processing row 152 of 1700
+Skipped 0 cells
+Estimated worst ans: -130
+Processing row 153 of 1700
+Skipped 0 cells
+Estimated worst ans: -125
+Processing row 154 of 1700
+Skipped 0 cells
+Estimated worst ans: -125
+Processing row 155 of 1700
+Skipped 0 cells
+Estimated worst ans: -123
+Processing row 156 of 1700
+Skipped 0 cells
+Estimated worst ans: -119
+Processing row 157 of 1700
+Skipped 0 cells
+Estimated worst ans: -117
+Processing row 158 of 1700
+Skipped 0 cells
+Estimated worst ans: -113
+Processing row 159 of 1700
+Skipped 0 cells
+Estimated worst ans: -108
+Processing row 160 of 1700
+Skipped 0 cells
+Estimated worst ans: -103
+Processing row 161 of 1700
+Skipped 0 cells
+Estimated worst ans: -98
+Processing row 162 of 1700
+Skipped 0 cells
+Estimated worst ans: -93
+Processing row 163 of 1700
+Skipped 0 cells
+Estimated worst ans: -88
+Processing row 164 of 1700
+Skipped 0 cells
+Estimated worst ans: -83
+Processing row 165 of 1700
+Skipped 0 cells
+Estimated worst ans: -78
+Processing row 166 of 1700
+Skipped 0 cells
+Estimated worst ans: -73
+Processing row 167 of 1700
+Skipped 0 cells
+Estimated worst ans: -68
+Processing row 168 of 1700
+Skipped 0 cells
+Estimated worst ans: -63
+Processing row 169 of 1700
+Skipped 0 cells
+Estimated worst ans: -58
+Processing row 170 of 1700
+Skipped 0 cells
+Estimated worst ans: -53
+Processing row 171 of 1700
+Skipped 0 cells
+Estimated worst ans: -48
+Processing row 172 of 1700
+Skipped 0 cells
+Estimated worst ans: -43
+Processing row 173 of 1700
+Skipped 0 cells
+Estimated worst ans: -38
+Processing row 174 of 1700
+Skipped 0 cells
+Estimated worst ans: -33
+Processing row 175 of 1700
+Skipped 0 cells
+Estimated worst ans: -28
+Processing row 176 of 1700
+Skipped 0 cells
+Estimated worst ans: -23
+Processing row 177 of 1700
+Skipped 0 cells
+Estimated worst ans: -18
+Processing row 178 of 1700
+Skipped 0 cells
+Estimated worst ans: -13
+Processing row 179 of 1700
+Skipped 0 cells
+Estimated worst ans: -8
+Processing row 180 of 1700
+Skipped 0 cells
+Estimated worst ans: -3
+Processing row 181 of 1700
+Skipped 0 cells
+Estimated worst ans: 2
+Processing row 182 of 1700
+Skipped 0 cells
+Estimated worst ans: 7
+Processing row 183 of 1700
+Skipped 0 cells
+Estimated worst ans: 12
+Processing row 184 of 1700
+Skipped 0 cells
+Estimated worst ans: 17
+Processing row 185 of 1700
+Skipped 0 cells
+Estimated worst ans: 22
+Processing row 186 of 1700
+Skipped 0 cells
+Estimated worst ans: 27
+Processing row 187 of 1700
+Skipped 0 cells
+Estimated worst ans: 32
+Processing row 188 of 1700
+Skipped 0 cells
+Estimated worst ans: 37
+Processing row 189 of 1700
+Skipped 0 cells
+Estimated worst ans: 42
+Processing row 190 of 1700
+Skipped 0 cells
+Estimated worst ans: 47
+Processing row 191 of 1700
+Skipped 0 cells
+Estimated worst ans: 52
+Processing row 192 of 1700
+Skipped 0 cells
+Estimated worst ans: 57
+Processing row 193 of 1700
+Skipped 0 cells
+Estimated worst ans: 62
+Processing row 194 of 1700
+Skipped 0 cells
+Estimated worst ans: 67
+Processing row 195 of 1700
+Skipped 0 cells
+Estimated worst ans: 72
+Processing row 196 of 1700
+Skipped 0 cells
+Estimated worst ans: 72
+Processing row 197 of 1700
+Skipped 0 cells
+Estimated worst ans: 74
+Processing row 198 of 1700
+Skipped 0 cells
+Estimated worst ans: 79
+Processing row 199 of 1700
+Skipped 0 cells
+Estimated worst ans: 84
+Processing row 200 of 1700
+Skipped 0 cells
+Estimated worst ans: 89
+Processing row 201 of 1700
+Skipped 0 cells
+Estimated worst ans: 94
+Processing row 202 of 1700
+Skipped 0 cells
+Estimated worst ans: 94
+Processing row 203 of 1700
+Skipped 0 cells
+Estimated worst ans: 96
+Processing row 204 of 1700
+Skipped 0 cells
+Estimated worst ans: 101
+Processing row 205 of 1700
+Skipped 0 cells
+Estimated worst ans: 106
+Processing row 206 of 1700
+Skipped 0 cells
+Estimated worst ans: 111
+Processing row 207 of 1700
+Skipped 0 cells
+Estimated worst ans: 117
+Processing row 208 of 1700
+Skipped 0 cells
+Estimated worst ans: 121
+Processing row 209 of 1700
+Skipped 0 cells
+Estimated worst ans: 126
+Processing row 210 of 1700
+Skipped 0 cells
+Estimated worst ans: 131
+Processing row 211 of 1700
+Skipped 0 cells
+Estimated worst ans: 136
+Processing row 212 of 1700
+Skipped 0 cells
+Estimated worst ans: 141
+Processing row 213 of 1700
+Skipped 0 cells
+Estimated worst ans: 146
+Processing row 214 of 1700
+Skipped 0 cells
+Estimated worst ans: 151
+Processing row 215 of 1700
+Skipped 0 cells
+Estimated worst ans: 156
+Processing row 216 of 1700
+Skipped 0 cells
+Estimated worst ans: 161
+Processing row 217 of 1700
+Skipped 0 cells
+Estimated worst ans: 166
+Processing row 218 of 1700
+Skipped 0 cells
+Estimated worst ans: 171
+Processing row 219 of 1700
+Skipped 0 cells
+Estimated worst ans: 171
+Processing row 220 of 1700
+Skipped 0 cells
+Estimated worst ans: 173
+Processing row 221 of 1700
+Skipped 0 cells
+Estimated worst ans: 178
+Processing row 222 of 1700
+Skipped 0 cells
+Estimated worst ans: 183
+Processing row 223 of 1700
+Skipped 0 cells
+Estimated worst ans: 188
+Processing row 224 of 1700
+Skipped 0 cells
+Estimated worst ans: 193
+Processing row 225 of 1700
+Skipped 0 cells
+Estimated worst ans: 198
+Processing row 226 of 1700
+Skipped 0 cells
+Estimated worst ans: 203
+Processing row 227 of 1700
+Skipped 0 cells
+Estimated worst ans: 208
+Processing row 228 of 1700
+Skipped 0 cells
+Estimated worst ans: 213
+Processing row 229 of 1700
+Skipped 0 cells
+Estimated worst ans: 218
+Processing row 230 of 1700
+Skipped 0 cells
+Estimated worst ans: 223
+Processing row 231 of 1700
+Skipped 0 cells
+Estimated worst ans: 228
+Processing row 232 of 1700
+Skipped 0 cells
+Estimated worst ans: 233
+Processing row 233 of 1700
+Skipped 0 cells
+Estimated worst ans: 239
+Processing row 234 of 1700
+Skipped 0 cells
+Estimated worst ans: 243
+Processing row 235 of 1700
+Skipped 0 cells
+Estimated worst ans: 248
+Processing row 236 of 1700
+Skipped 0 cells
+Estimated worst ans: 253
+Processing row 237 of 1700
+Skipped 0 cells
+Estimated worst ans: 253
+Processing row 238 of 1700
+Skipped 0 cells
+Estimated worst ans: 255
+Processing row 239 of 1700
+Skipped 0 cells
+Estimated worst ans: 260
+Processing row 240 of 1700
+Skipped 0 cells
+Estimated worst ans: 265
+Processing row 241 of 1700
+Skipped 0 cells
+Estimated worst ans: 265
+Processing row 242 of 1700
+Skipped 0 cells
+Estimated worst ans: 267
+Processing row 243 of 1700
+Skipped 0 cells
+Estimated worst ans: 272
+Processing row 244 of 1700
+Skipped 0 cells
+Estimated worst ans: 279
+Processing row 245 of 1700
+Skipped 0 cells
+Estimated worst ans: 282
+Processing row 246 of 1700
+Skipped 0 cells
+Estimated worst ans: 287
+Processing row 247 of 1700
+Skipped 0 cells
+Estimated worst ans: 292
+Processing row 248 of 1700
+Skipped 0 cells
+Estimated worst ans: 297
+Processing row 249 of 1700
+Skipped 0 cells
+Estimated worst ans: 302
+Processing row 250 of 1700
+Skipped 0 cells
+Estimated worst ans: 308
+Processing row 251 of 1700
+Skipped 0 cells
+Estimated worst ans: 313
+Processing row 252 of 1700
+Skipped 0 cells
+Estimated worst ans: 317
+Processing row 253 of 1700
+Skipped 0 cells
+Estimated worst ans: 322
+Processing row 254 of 1700
+Skipped 0 cells
+Estimated worst ans: 327
+Processing row 255 of 1700
+Skipped 0 cells
+Estimated worst ans: 332
+Processing row 256 of 1700
+Skipped 0 cells
+Estimated worst ans: 337
+Processing row 257 of 1700
+Skipped 0 cells
+Estimated worst ans: 343
+Processing row 258 of 1700
+Skipped 0 cells
+Estimated worst ans: 347
+Processing row 259 of 1700
+Skipped 0 cells
+Estimated worst ans: 352
+Processing row 260 of 1700
+Skipped 0 cells
+Estimated worst ans: 357
+Processing row 261 of 1700
+Skipped 0 cells
+Estimated worst ans: 362
+Processing row 262 of 1700
+Skipped 0 cells
+Estimated worst ans: 367
+Processing row 263 of 1700
+Skipped 0 cells
+Estimated worst ans: 372
+Processing row 264 of 1700
+Skipped 0 cells
+Estimated worst ans: 377
+Processing row 265 of 1700
+Skipped 0 cells
+Estimated worst ans: 382
+Processing row 266 of 1700
+Skipped 0 cells
+Estimated worst ans: 387
+Processing row 267 of 1700
+Skipped 0 cells
+Estimated worst ans: 392
+Processing row 268 of 1700
+Skipped 0 cells
+Estimated worst ans: 397
+Processing row 269 of 1700
+Skipped 0 cells
+Estimated worst ans: 402
+Processing row 270 of 1700
+Skipped 0 cells
+Estimated worst ans: 407
+Processing row 271 of 1700
+Skipped 0 cells
+Estimated worst ans: 407
+Processing row 272 of 1700
+Skipped 0 cells
+Estimated worst ans: 409
+Processing row 273 of 1700
+Skipped 0 cells
+Estimated worst ans: 414
+Processing row 274 of 1700
+Skipped 0 cells
+Estimated worst ans: 419
+Processing row 275 of 1700
+Skipped 0 cells
+Estimated worst ans: 424
+Processing row 276 of 1700
+Skipped 0 cells
+Estimated worst ans: 429
+Processing row 277 of 1700
+Skipped 0 cells
+Estimated worst ans: 434
+Processing row 278 of 1700
+Skipped 0 cells
+Estimated worst ans: 439
+Processing row 279 of 1700
+Skipped 0 cells
+Estimated worst ans: 444
+Processing row 280 of 1700
+Skipped 0 cells
+Estimated worst ans: 449
+Processing row 281 of 1700
+Skipped 0 cells
+Estimated worst ans: 454
+Processing row 282 of 1700
+Skipped 0 cells
+Estimated worst ans: 459
+Processing row 283 of 1700
+Skipped 0 cells
+Estimated worst ans: 461
+Processing row 284 of 1700
+Skipped 0 cells
+Estimated worst ans: 461
+Processing row 285 of 1700
+Skipped 0 cells
+Estimated worst ans: 466
+Processing row 286 of 1700
+Skipped 0 cells
+Estimated worst ans: 471
+Processing row 287 of 1700
+Skipped 0 cells
+Estimated worst ans: 476
+Processing row 288 of 1700
+Skipped 0 cells
+Estimated worst ans: 481
+Processing row 289 of 1700
+Skipped 0 cells
+Estimated worst ans: 486
+Processing row 290 of 1700
+Skipped 0 cells
+Estimated worst ans: 491
+Processing row 291 of 1700
+Skipped 0 cells
+Estimated worst ans: 496
+Processing row 292 of 1700
+Skipped 0 cells
+Estimated worst ans: 501
+Processing row 293 of 1700
+Skipped 0 cells
+Estimated worst ans: 506
+Processing row 294 of 1700
+Skipped 0 cells
+Estimated worst ans: 511
+Processing row 295 of 1700
+Skipped 0 cells
+Estimated worst ans: 516
+Processing row 296 of 1700
+Skipped 0 cells
+Estimated worst ans: 521
+Processing row 297 of 1700
+Skipped 0 cells
+Estimated worst ans: 526
+Processing row 298 of 1700
+Skipped 0 cells
+Estimated worst ans: 531
+Processing row 299 of 1700
+Skipped 0 cells
+Estimated worst ans: 536
+Processing row 300 of 1700
+Skipped 0 cells
+Estimated worst ans: 541
+Processing row 301 of 1700
+Skipped 0 cells
+Estimated worst ans: 546
+Processing row 302 of 1700
+Skipped 0 cells
+Estimated worst ans: 546
+Processing row 303 of 1700
+Skipped 0 cells
+Estimated worst ans: 546
+Processing row 304 of 1700
+Skipped 0 cells
+Estimated worst ans: 546
+Processing row 305 of 1700
+Skipped 0 cells
+Estimated worst ans: 548
+Processing row 306 of 1700
+Skipped 0 cells
+Estimated worst ans: 551
+Processing row 307 of 1700
+Skipped 0 cells
+Estimated worst ans: 552
+Processing row 308 of 1700
+Skipped 0 cells
+Estimated worst ans: 553
+Processing row 309 of 1700
+Skipped 0 cells
+Estimated worst ans: 558
+Processing row 310 of 1700
+Skipped 0 cells
+Estimated worst ans: 558
+Processing row 311 of 1700
+Skipped 0 cells
+Estimated worst ans: 558
+Processing row 312 of 1700
+Skipped 0 cells
+Estimated worst ans: 558
+Processing row 313 of 1700
+Skipped 0 cells
+Estimated worst ans: 558
+Processing row 314 of 1700
+Skipped 0 cells
+Estimated worst ans: 558
+Processing row 315 of 1700
+Skipped 0 cells
+Estimated worst ans: 558
+Processing row 316 of 1700
+Skipped 0 cells
+Estimated worst ans: 558
+Processing row 317 of 1700
+Skipped 0 cells
+Estimated worst ans: 562
+Processing row 318 of 1700
+Skipped 0 cells
+Estimated worst ans: 562
+Processing row 319 of 1700
+Skipped 0 cells
+Estimated worst ans: 562
+Processing row 320 of 1700
+Skipped 0 cells
+Estimated worst ans: 566
+Processing row 321 of 1700
+Skipped 0 cells
+Estimated worst ans: 567
+Processing row 322 of 1700
+Skipped 0 cells
+Estimated worst ans: 567
+Processing row 323 of 1700
+Skipped 0 cells
+Estimated worst ans: 571
+Processing row 324 of 1700
+Skipped 0 cells
+Estimated worst ans: 571
+Processing row 325 of 1700
+Skipped 0 cells
+Estimated worst ans: 573
+Processing row 326 of 1700
+Skipped 0 cells
+Estimated worst ans: 578
+Processing row 327 of 1700
+Skipped 0 cells
+Estimated worst ans: 578
+Processing row 328 of 1700
+Skipped 0 cells
+Estimated worst ans: 578
+Processing row 329 of 1700
+Skipped 0 cells
+Estimated worst ans: 579
+Processing row 330 of 1700
+Skipped 0 cells
+Estimated worst ans: 579
+Processing row 331 of 1700
+Skipped 0 cells
+Estimated worst ans: 580
+Processing row 332 of 1700
+Skipped 0 cells
+Estimated worst ans: 581
+Processing row 333 of 1700
+Skipped 0 cells
+Estimated worst ans: 581
+Processing row 334 of 1700
+Skipped 0 cells
+Estimated worst ans: 584
+Processing row 335 of 1700
+Skipped 0 cells
+Estimated worst ans: 584
+Processing row 336 of 1700
+Skipped 0 cells
+Estimated worst ans: 588
+Processing row 337 of 1700
+Skipped 0 cells
+Estimated worst ans: 589
+Processing row 338 of 1700
+Skipped 0 cells
+Estimated worst ans: 593
+Processing row 339 of 1700
+Skipped 0 cells
+Estimated worst ans: 597
+Processing row 340 of 1700
+Skipped 0 cells
+Estimated worst ans: 604
+Processing row 341 of 1700
+Skipped 0 cells
+Estimated worst ans: 604
+Processing row 342 of 1700
+Skipped 0 cells
+Estimated worst ans: 606
+Processing row 343 of 1700
+Skipped 0 cells
+Estimated worst ans: 607
+Processing row 344 of 1700
+Skipped 0 cells
+Estimated worst ans: 607
+Processing row 345 of 1700
+Skipped 0 cells
+Estimated worst ans: 607
+Processing row 346 of 1700
+Skipped 0 cells
+Estimated worst ans: 609
+Processing row 347 of 1700
+Skipped 0 cells
+Estimated worst ans: 614
+Processing row 348 of 1700
+Skipped 0 cells
+Estimated worst ans: 614
+Processing row 349 of 1700
+Skipped 0 cells
+Estimated worst ans: 614
+Processing row 350 of 1700
+Skipped 0 cells
+Estimated worst ans: 614
+Processing row 351 of 1700
+Skipped 0 cells
+Estimated worst ans: 619
+Processing row 352 of 1700
+Skipped 0 cells
+Estimated worst ans: 619
+Processing row 353 of 1700
+Skipped 0 cells
+Estimated worst ans: 619
+Processing row 354 of 1700
+Skipped 0 cells
+Estimated worst ans: 619
+Processing row 355 of 1700
+Skipped 0 cells
+Estimated worst ans: 619
+Processing row 356 of 1700
+Skipped 0 cells
+Estimated worst ans: 626
+Processing row 357 of 1700
+Skipped 0 cells
+Estimated worst ans: 631
+Processing row 358 of 1700
+Skipped 0 cells
+Estimated worst ans: 636
+Processing row 359 of 1700
+Skipped 0 cells
+Estimated worst ans: 641
+Processing row 360 of 1700
+Skipped 0 cells
+Estimated worst ans: 646
+Processing row 361 of 1700
+Skipped 0 cells
+Estimated worst ans: 646
+Processing row 362 of 1700
+Skipped 0 cells
+Estimated worst ans: 648
+Processing row 363 of 1700
+Skipped 0 cells
+Estimated worst ans: 648
+Processing row 364 of 1700
+Skipped 0 cells
+Estimated worst ans: 648
+Processing row 365 of 1700
+Skipped 0 cells
+Estimated worst ans: 649
+Processing row 366 of 1700
+Skipped 0 cells
+Estimated worst ans: 649
+Processing row 367 of 1700
+Skipped 0 cells
+Estimated worst ans: 649
+Processing row 368 of 1700
+Skipped 0 cells
+Estimated worst ans: 649
+Processing row 369 of 1700
+Skipped 0 cells
+Estimated worst ans: 654
+Processing row 370 of 1700
+Skipped 0 cells
+Estimated worst ans: 659
+Processing row 371 of 1700
+Skipped 0 cells
+Estimated worst ans: 660
+Processing row 372 of 1700
+Skipped 0 cells
+Estimated worst ans: 660
+Processing row 373 of 1700
+Skipped 0 cells
+Estimated worst ans: 660
+Processing row 374 of 1700
+Skipped 0 cells
+Estimated worst ans: 663
+Processing row 375 of 1700
+Skipped 0 cells
+Estimated worst ans: 663
+Processing row 376 of 1700
+Skipped 0 cells
+Estimated worst ans: 663
+Processing row 377 of 1700
+Skipped 0 cells
+Estimated worst ans: 666
+Processing row 378 of 1700
+Skipped 0 cells
+Estimated worst ans: 671
+Processing row 379 of 1700
+Skipped 0 cells
+Estimated worst ans: 672
+Processing row 380 of 1700
+Skipped 0 cells
+Estimated worst ans: 677
+Processing row 381 of 1700
+Skipped 0 cells
+Estimated worst ans: 679
+Processing row 382 of 1700
+Skipped 0 cells
+Estimated worst ans: 680
+Processing row 383 of 1700
+Skipped 0 cells
+Estimated worst ans: 682
+Processing row 384 of 1700
+Skipped 0 cells
+Estimated worst ans: 683
+Processing row 385 of 1700
+Skipped 0 cells
+Estimated worst ans: 684
+Processing row 386 of 1700
+Skipped 0 cells
+Estimated worst ans: 685
+Processing row 387 of 1700
+Skipped 0 cells
+Estimated worst ans: 687
+Processing row 388 of 1700
+Skipped 0 cells
+Estimated worst ans: 688
+Processing row 389 of 1700
+Skipped 0 cells
+Estimated worst ans: 688
+Processing row 390 of 1700
+Skipped 0 cells
+Estimated worst ans: 691
+Processing row 391 of 1700
+Skipped 0 cells
+Estimated worst ans: 696
+Processing row 392 of 1700
+Skipped 0 cells
+Estimated worst ans: 698
+Processing row 393 of 1700
+Skipped 0 cells
+Estimated worst ans: 703
+Processing row 394 of 1700
+Skipped 0 cells
+Estimated worst ans: 704
+Processing row 395 of 1700
+Skipped 0 cells
+Estimated worst ans: 706
+Processing row 396 of 1700
+Skipped 0 cells
+Estimated worst ans: 707
+Processing row 397 of 1700
+Skipped 0 cells
+Estimated worst ans: 707
+Processing row 398 of 1700
+Skipped 0 cells
+Estimated worst ans: 712
+Processing row 399 of 1700
+Skipped 0 cells
+Estimated worst ans: 712
+Processing row 400 of 1700
+Skipped 0 cells
+Estimated worst ans: 714
+Processing row 401 of 1700
+Skipped 0 cells
+Estimated worst ans: 715
+Processing row 402 of 1700
+Skipped 0 cells
+Estimated worst ans: 715
+Processing row 403 of 1700
+Skipped 0 cells
+Estimated worst ans: 715
+Processing row 404 of 1700
+Skipped 0 cells
+Estimated worst ans: 715
+Processing row 405 of 1700
+Skipped 0 cells
+Estimated worst ans: 717
+Processing row 406 of 1700
+Skipped 0 cells
+Estimated worst ans: 717
+Processing row 407 of 1700
+Skipped 0 cells
+Estimated worst ans: 717
+Processing row 408 of 1700
+Skipped 0 cells
+Estimated worst ans: 717
+Processing row 409 of 1700
+Skipped 0 cells
+Estimated worst ans: 718
+Processing row 410 of 1700
+Skipped 0 cells
+Estimated worst ans: 720
+Processing row 411 of 1700
+Skipped 0 cells
+Estimated worst ans: 725
+Processing row 412 of 1700
+Skipped 0 cells
+Estimated worst ans: 727
+Processing row 413 of 1700
+Skipped 0 cells
+Estimated worst ans: 728
+Processing row 414 of 1700
+Skipped 0 cells
+Estimated worst ans: 728
+Processing row 415 of 1700
+Skipped 0 cells
+Estimated worst ans: 730
+Processing row 416 of 1700
+Skipped 0 cells
+Estimated worst ans: 730
+Processing row 417 of 1700
+Skipped 0 cells
+Estimated worst ans: 731
+Processing row 418 of 1700
+Skipped 0 cells
+Estimated worst ans: 736
+Processing row 419 of 1700
+Skipped 0 cells
+Estimated worst ans: 741
+Processing row 420 of 1700
+Skipped 0 cells
+Estimated worst ans: 741
+Processing row 421 of 1700
+Skipped 0 cells
+Estimated worst ans: 743
+Processing row 422 of 1700
+Skipped 0 cells
+Estimated worst ans: 744
+Processing row 423 of 1700
+Skipped 0 cells
+Estimated worst ans: 744
+Processing row 424 of 1700
+Skipped 0 cells
+Estimated worst ans: 749
+Processing row 425 of 1700
+Skipped 0 cells
+Estimated worst ans: 749
+Processing row 426 of 1700
+Skipped 0 cells
+Estimated worst ans: 753
+Processing row 427 of 1700
+Skipped 0 cells
+Estimated worst ans: 753
+Processing row 428 of 1700
+Skipped 0 cells
+Estimated worst ans: 753
+Processing row 429 of 1700
+Skipped 0 cells
+Estimated worst ans: 753
+Processing row 430 of 1700
+Skipped 0 cells
+Estimated worst ans: 753
+Processing row 431 of 1700
+Skipped 0 cells
+Estimated worst ans: 753
+Processing row 432 of 1700
+Skipped 0 cells
+Estimated worst ans: 757
+Processing row 433 of 1700
+Skipped 0 cells
+Estimated worst ans: 757
+Processing row 434 of 1700
+Skipped 0 cells
+Estimated worst ans: 760
+Processing row 435 of 1700
+Skipped 0 cells
+Estimated worst ans: 763
+Processing row 436 of 1700
+Skipped 0 cells
+Estimated worst ans: 768
+Processing row 437 of 1700
+Skipped 0 cells
+Estimated worst ans: 781
+Processing row 438 of 1700
+Skipped 0 cells
+Estimated worst ans: 787
+Processing row 439 of 1700
+Skipped 0 cells
+Estimated worst ans: 792
+Processing row 440 of 1700
+Skipped 0 cells
+Estimated worst ans: 792
+Processing row 441 of 1700
+Skipped 0 cells
+Estimated worst ans: 792
+Processing row 442 of 1700
+Skipped 0 cells
+Estimated worst ans: 793
+Processing row 443 of 1700
+Skipped 0 cells
+Estimated worst ans: 794
+Processing row 444 of 1700
+Skipped 0 cells
+Estimated worst ans: 794
+Processing row 445 of 1700
+Skipped 0 cells
+Estimated worst ans: 798
+Processing row 446 of 1700
+Skipped 0 cells
+Estimated worst ans: 799
+Processing row 447 of 1700
+Skipped 0 cells
+Estimated worst ans: 804
+Processing row 448 of 1700
+Skipped 0 cells
+Estimated worst ans: 804
+Processing row 449 of 1700
+Skipped 0 cells
+Estimated worst ans: 804
+Processing row 450 of 1700
+Skipped 0 cells
+Estimated worst ans: 804
+Processing row 451 of 1700
+Skipped 0 cells
+Estimated worst ans: 804
+Processing row 452 of 1700
+Skipped 0 cells
+Estimated worst ans: 809
+Processing row 453 of 1700
+Skipped 0 cells
+Estimated worst ans: 809
+Processing row 454 of 1700
+Skipped 0 cells
+Estimated worst ans: 809
+Processing row 455 of 1700
+Skipped 0 cells
+Estimated worst ans: 809
+Processing row 456 of 1700
+Skipped 0 cells
+Estimated worst ans: 809
+Processing row 457 of 1700
+Skipped 0 cells
+Estimated worst ans: 809
+Processing row 458 of 1700
+Skipped 0 cells
+Estimated worst ans: 810
+Processing row 459 of 1700
+Skipped 0 cells
+Estimated worst ans: 815
+Processing row 460 of 1700
+Skipped 0 cells
+Estimated worst ans: 815
+Processing row 461 of 1700
+Skipped 0 cells
+Estimated worst ans: 817
+Processing row 462 of 1700
+Skipped 0 cells
+Estimated worst ans: 817
+Processing row 463 of 1700
+Skipped 0 cells
+Estimated worst ans: 817
+Processing row 464 of 1700
+Skipped 0 cells
+Estimated worst ans: 817
+Processing row 465 of 1700
+Skipped 0 cells
+Estimated worst ans: 819
+Processing row 466 of 1700
+Skipped 0 cells
+Estimated worst ans: 824
+Processing row 467 of 1700
+Skipped 0 cells
+Estimated worst ans: 825
+Processing row 468 of 1700
+Skipped 0 cells
+Estimated worst ans: 826
+Processing row 469 of 1700
+Skipped 0 cells
+Estimated worst ans: 828
+Processing row 470 of 1700
+Skipped 0 cells
+Estimated worst ans: 828
+Processing row 471 of 1700
+Skipped 0 cells
+Estimated worst ans: 832
+Processing row 472 of 1700
+Skipped 0 cells
+Estimated worst ans: 832
+Processing row 473 of 1700
+Skipped 0 cells
+Estimated worst ans: 832
+Processing row 474 of 1700
+Skipped 0 cells
+Estimated worst ans: 832
+Processing row 475 of 1700
+Skipped 0 cells
+Estimated worst ans: 832
+Processing row 476 of 1700
+Skipped 0 cells
+Estimated worst ans: 832
+Processing row 477 of 1700
+Skipped 0 cells
+Estimated worst ans: 841
+Processing row 478 of 1700
+Skipped 0 cells
+Estimated worst ans: 850
+Processing row 479 of 1700
+Skipped 0 cells
+Estimated worst ans: 850
+Processing row 480 of 1700
+Skipped 0 cells
+Estimated worst ans: 854
+Processing row 481 of 1700
+Skipped 0 cells
+Estimated worst ans: 858
+Processing row 482 of 1700
+Skipped 0 cells
+Estimated worst ans: 859
+Processing row 483 of 1700
+Skipped 0 cells
+Estimated worst ans: 859
+Processing row 484 of 1700
+Skipped 0 cells
+Estimated worst ans: 859
+Processing row 485 of 1700
+Skipped 0 cells
+Estimated worst ans: 859
+Processing row 486 of 1700
+Skipped 0 cells
+Estimated worst ans: 863
+Processing row 487 of 1700
+Skipped 0 cells
+Estimated worst ans: 868
+Processing row 488 of 1700
+Skipped 0 cells
+Estimated worst ans: 872
+Processing row 489 of 1700
+Skipped 0 cells
+Estimated worst ans: 872
+Processing row 490 of 1700
+Skipped 0 cells
+Estimated worst ans: 873
+Processing row 491 of 1700
+Skipped 0 cells
+Estimated worst ans: 873
+Processing row 492 of 1700
+Skipped 0 cells
+Estimated worst ans: 874
+Processing row 493 of 1700
+Skipped 0 cells
+Estimated worst ans: 878
+Processing row 494 of 1700
+Skipped 0 cells
+Estimated worst ans: 883
+Processing row 495 of 1700
+Skipped 0 cells
+Estimated worst ans: 888
+Processing row 496 of 1700
+Skipped 0 cells
+Estimated worst ans: 888
+Processing row 497 of 1700
+Skipped 0 cells
+Estimated worst ans: 888
+Processing row 498 of 1700
+Skipped 0 cells
+Estimated worst ans: 888
+Processing row 499 of 1700
+Skipped 0 cells
+Estimated worst ans: 888
+Processing row 500 of 1700
+Skipped 0 cells
+Estimated worst ans: 889
+Processing row 501 of 1700
+Skipped 0 cells
+Estimated worst ans: 889
+Processing row 502 of 1700
+Skipped 0 cells
+Estimated worst ans: 891
+Processing row 503 of 1700
+Skipped 0 cells
+Estimated worst ans: 892
+Processing row 504 of 1700
+Skipped 0 cells
+Estimated worst ans: 892
+Processing row 505 of 1700
+Skipped 0 cells
+Estimated worst ans: 895
+Processing row 506 of 1700
+Skipped 0 cells
+Estimated worst ans: 895
+Processing row 507 of 1700
+Skipped 0 cells
+Estimated worst ans: 897
+Processing row 508 of 1700
+Skipped 0 cells
+Estimated worst ans: 898
+Processing row 509 of 1700
+Skipped 0 cells
+Estimated worst ans: 899
+Processing row 510 of 1700
+Skipped 0 cells
+Estimated worst ans: 903
+Processing row 511 of 1700
+Skipped 0 cells
+Estimated worst ans: 908
+Processing row 512 of 1700
+Skipped 0 cells
+Estimated worst ans: 913
+Processing row 513 of 1700
+Skipped 0 cells
+Estimated worst ans: 918
+Processing row 514 of 1700
+Skipped 0 cells
+Estimated worst ans: 925
+Processing row 515 of 1700
+Skipped 0 cells
+Estimated worst ans: 926
+Processing row 516 of 1700
+Skipped 0 cells
+Estimated worst ans: 926
+Processing row 517 of 1700
+Skipped 0 cells
+Estimated worst ans: 931
+Processing row 518 of 1700
+Skipped 0 cells
+Estimated worst ans: 936
+Processing row 519 of 1700
+Skipped 0 cells
+Estimated worst ans: 939
+Processing row 520 of 1700
+Skipped 0 cells
+Estimated worst ans: 944
+Processing row 521 of 1700
+Skipped 0 cells
+Estimated worst ans: 946
+Processing row 522 of 1700
+Skipped 0 cells
+Estimated worst ans: 946
+Processing row 523 of 1700
+Skipped 0 cells
+Estimated worst ans: 946
+Processing row 524 of 1700
+Skipped 0 cells
+Estimated worst ans: 946
+Processing row 525 of 1700
+Skipped 0 cells
+Estimated worst ans: 949
+Processing row 526 of 1700
+Skipped 0 cells
+Estimated worst ans: 954
+Processing row 527 of 1700
+Skipped 0 cells
+Estimated worst ans: 956
+Processing row 528 of 1700
+Skipped 0 cells
+Estimated worst ans: 961
+Processing row 529 of 1700
+Skipped 0 cells
+Estimated worst ans: 962
+Processing row 530 of 1700
+Skipped 0 cells
+Estimated worst ans: 963
+Processing row 531 of 1700
+Skipped 0 cells
+Estimated worst ans: 964
+Processing row 532 of 1700
+Skipped 0 cells
+Estimated worst ans: 964
+Processing row 533 of 1700
+Skipped 0 cells
+Estimated worst ans: 964
+Processing row 534 of 1700
+Skipped 0 cells
+Estimated worst ans: 976
+Processing row 535 of 1700
+Skipped 0 cells
+Estimated worst ans: 981
+Processing row 536 of 1700
+Skipped 0 cells
+Estimated worst ans: 981
+Processing row 537 of 1700
+Skipped 0 cells
+Estimated worst ans: 981
+Processing row 538 of 1700
+Skipped 0 cells
+Estimated worst ans: 981
+Processing row 539 of 1700
+Skipped 0 cells
+Estimated worst ans: 986
+Processing row 540 of 1700
+Skipped 0 cells
+Estimated worst ans: 986
+Processing row 541 of 1700
+Skipped 0 cells
+Estimated worst ans: 991
+Processing row 542 of 1700
+Skipped 0 cells
+Estimated worst ans: 991
+Processing row 543 of 1700
+Skipped 0 cells
+Estimated worst ans: 991
+Processing row 544 of 1700
+Skipped 0 cells
+Estimated worst ans: 991
+Processing row 545 of 1700
+Skipped 0 cells
+Estimated worst ans: 991
+Processing row 546 of 1700
+Skipped 0 cells
+Estimated worst ans: 992
+Processing row 547 of 1700
+Skipped 0 cells
+Estimated worst ans: 992
+Processing row 548 of 1700
+Skipped 0 cells
+Estimated worst ans: 994
+Processing row 549 of 1700
+Skipped 0 cells
+Estimated worst ans: 1000
+Processing row 550 of 1700
+Skipped 0 cells
+Estimated worst ans: 1004
+Processing row 551 of 1700
+Skipped 0 cells
+Estimated worst ans: 1005
+Processing row 552 of 1700
+Skipped 0 cells
+Estimated worst ans: 1005
+Processing row 553 of 1700
+Skipped 0 cells
+Estimated worst ans: 1005
+Processing row 554 of 1700
+Skipped 0 cells
+Estimated worst ans: 1005
+Processing row 555 of 1700
+Skipped 0 cells
+Estimated worst ans: 1005
+Processing row 556 of 1700
+Skipped 0 cells
+Estimated worst ans: 1006
+Processing row 557 of 1700
+Skipped 0 cells
+Estimated worst ans: 1011
+Processing row 558 of 1700
+Skipped 0 cells
+Estimated worst ans: 1012
+Processing row 559 of 1700
+Skipped 0 cells
+Estimated worst ans: 1012
+Processing row 560 of 1700
+Skipped 0 cells
+Estimated worst ans: 1012
+Processing row 561 of 1700
+Skipped 0 cells
+Estimated worst ans: 1012
+Processing row 562 of 1700
+Skipped 0 cells
+Estimated worst ans: 1015
+Processing row 563 of 1700
+Skipped 0 cells
+Estimated worst ans: 1017
+Processing row 564 of 1700
+Skipped 0 cells
+Estimated worst ans: 1017
+Processing row 565 of 1700
+Skipped 0 cells
+Estimated worst ans: 1017
+Processing row 566 of 1700
+Skipped 0 cells
+Estimated worst ans: 1019
+Processing row 567 of 1700
+Skipped 0 cells
+Estimated worst ans: 1021
+Processing row 568 of 1700
+Skipped 0 cells
+Estimated worst ans: 1021
+Processing row 569 of 1700
+Skipped 0 cells
+Estimated worst ans: 1023
+Processing row 570 of 1700
+Skipped 0 cells
+Estimated worst ans: 1026
+Processing row 571 of 1700
+Skipped 0 cells
+Estimated worst ans: 1026
+Processing row 572 of 1700
+Skipped 0 cells
+Estimated worst ans: 1030
+Processing row 573 of 1700
+Skipped 0 cells
+Estimated worst ans: 1033
+Processing row 574 of 1700
+Skipped 0 cells
+Estimated worst ans: 1034
+Processing row 575 of 1700
+Skipped 0 cells
+Estimated worst ans: 1034
+Processing row 576 of 1700
+Skipped 0 cells
+Estimated worst ans: 1039
+Processing row 577 of 1700
+Skipped 0 cells
+Estimated worst ans: 1039
+Processing row 578 of 1700
+Skipped 0 cells
+Estimated worst ans: 1041
+Processing row 579 of 1700
+Skipped 0 cells
+Estimated worst ans: 1041
+Processing row 580 of 1700
+Skipped 0 cells
+Estimated worst ans: 1044
+Processing row 581 of 1700
+Skipped 0 cells
+Estimated worst ans: 1048
+Processing row 582 of 1700
+Skipped 0 cells
+Estimated worst ans: 1053
+Processing row 583 of 1700
+Skipped 0 cells
+Estimated worst ans: 1053
+Processing row 584 of 1700
+Skipped 0 cells
+Estimated worst ans: 1053
+Processing row 585 of 1700
+Skipped 0 cells
+Estimated worst ans: 1053
+Processing row 586 of 1700
+Skipped 0 cells
+Estimated worst ans: 1053
+Processing row 587 of 1700
+Skipped 0 cells
+Estimated worst ans: 1053
+Processing row 588 of 1700
+Skipped 0 cells
+Estimated worst ans: 1053
+Processing row 589 of 1700
+Skipped 0 cells
+Estimated worst ans: 1053
+Processing row 590 of 1700
+Skipped 0 cells
+Estimated worst ans: 1055
+Processing row 591 of 1700
+Skipped 0 cells
+Estimated worst ans: 1056
+Processing row 592 of 1700
+Skipped 0 cells
+Estimated worst ans: 1056
+Processing row 593 of 1700
+Skipped 0 cells
+Estimated worst ans: 1058
+Processing row 594 of 1700
+Skipped 0 cells
+Estimated worst ans: 1058
+Processing row 595 of 1700
+Skipped 0 cells
+Estimated worst ans: 1058
+Processing row 596 of 1700
+Skipped 0 cells
+Estimated worst ans: 1058
+Processing row 597 of 1700
+Skipped 0 cells
+Estimated worst ans: 1060
+Processing row 598 of 1700
+Skipped 0 cells
+Estimated worst ans: 1061
+Processing row 599 of 1700
+Skipped 0 cells
+Estimated worst ans: 1063
+Processing row 600 of 1700
+Skipped 0 cells
+Estimated worst ans: 1065
+Processing row 601 of 1700
+Skipped 0 cells
+Estimated worst ans: 1070
+Processing row 602 of 1700
+Skipped 0 cells
+Estimated worst ans: 1070
+Processing row 603 of 1700
+Skipped 0 cells
+Estimated worst ans: 1073
+Processing row 604 of 1700
+Skipped 0 cells
+Estimated worst ans: 1074
+Processing row 605 of 1700
+Skipped 0 cells
+Estimated worst ans: 1076
+Processing row 606 of 1700
+Skipped 0 cells
+Estimated worst ans: 1079
+Processing row 607 of 1700
+Skipped 0 cells
+Estimated worst ans: 1080
+Processing row 608 of 1700
+Skipped 0 cells
+Estimated worst ans: 1080
+Processing row 609 of 1700
+Skipped 0 cells
+Estimated worst ans: 1080
+Processing row 610 of 1700
+Skipped 0 cells
+Estimated worst ans: 1085
+Processing row 611 of 1700
+Skipped 0 cells
+Estimated worst ans: 1090
+Processing row 612 of 1700
+Skipped 0 cells
+Estimated worst ans: 1095
+Processing row 613 of 1700
+Skipped 0 cells
+Estimated worst ans: 1108
+Processing row 614 of 1700
+Skipped 0 cells
+Estimated worst ans: 1122
+Processing row 615 of 1700
+Skipped 0 cells
+Estimated worst ans: 1127
+Processing row 616 of 1700
+Skipped 0 cells
+Estimated worst ans: 1132
+Processing row 617 of 1700
+Skipped 0 cells
+Estimated worst ans: 1137
+Processing row 618 of 1700
+Skipped 0 cells
+Estimated worst ans: 1142
+Processing row 619 of 1700
+Skipped 0 cells
+Estimated worst ans: 1147
+Processing row 620 of 1700
+Skipped 0 cells
+Estimated worst ans: 1152
+Processing row 621 of 1700
+Skipped 0 cells
+Estimated worst ans: 1157
+Processing row 622 of 1700
+Skipped 0 cells
+Estimated worst ans: 1162
+Processing row 623 of 1700
+Skipped 0 cells
+Estimated worst ans: 1169
+Processing row 624 of 1700
+Skipped 0 cells
+Estimated worst ans: 1176
+Processing row 625 of 1700
+Skipped 0 cells
+Estimated worst ans: 1188
+Processing row 626 of 1700
+Skipped 0 cells
+Estimated worst ans: 1193
+Processing row 627 of 1700
+Skipped 0 cells
+Estimated worst ans: 1208
+Processing row 628 of 1700
+Skipped 0 cells
+Estimated worst ans: 1213
+Processing row 629 of 1700
+Skipped 0 cells
+Estimated worst ans: 1224
+Processing row 630 of 1700
+Skipped 0 cells
+Estimated worst ans: 1261
+Processing row 631 of 1700
+Skipped 0 cells
+Estimated worst ans: 1324
+Processing row 632 of 1700
+Skipped 0 cells
+Estimated worst ans: 1357
+Processing row 633 of 1700
+Skipped 0 cells
+Estimated worst ans: 1369
+Processing row 634 of 1700
+Skipped 0 cells
+Estimated worst ans: 1384
+Processing row 635 of 1700
+Skipped 0 cells
+Estimated worst ans: 1384
+Processing row 636 of 1700
+Skipped 0 cells
+Estimated worst ans: 1397
+Processing row 637 of 1700
+Skipped 0 cells
+Estimated worst ans: 1402
+Processing row 638 of 1700
+Skipped 0 cells
+Estimated worst ans: 1409
+Processing row 639 of 1700
+Skipped 0 cells
+Estimated worst ans: 1434
+Processing row 640 of 1700
+Skipped 0 cells
+Estimated worst ans: 1453
+Processing row 641 of 1700
+Skipped 0 cells
+Estimated worst ans: 1465
+Processing row 642 of 1700
+Skipped 0 cells
+Estimated worst ans: 1472
+Processing row 643 of 1700
+Skipped 0 cells
+Estimated worst ans: 1487
+Processing row 644 of 1700
+Skipped 0 cells
+Estimated worst ans: 1495
+Processing row 645 of 1700
+Skipped 0 cells
+Estimated worst ans: 1513
+Processing row 646 of 1700
+Skipped 0 cells
+Estimated worst ans: 1526
+Processing row 647 of 1700
+Skipped 0 cells
+Estimated worst ans: 1543
+Processing row 648 of 1700
+Skipped 0 cells
+Estimated worst ans: 1636
+Processing row 649 of 1700
+Skipped 0 cells
+Estimated worst ans: 1688
+Processing row 650 of 1700
+Skipped 0 cells
+Estimated worst ans: 1688
+Processing row 651 of 1700
+Skipped 0 cells
+Estimated worst ans: 1690
+Processing row 652 of 1700
+Skipped 0 cells
+Estimated worst ans: 1690
+Processing row 653 of 1700
+Skipped 0 cells
+Estimated worst ans: 1690
+Processing row 654 of 1700
+Skipped 0 cells
+Estimated worst ans: 1693
+Processing row 655 of 1700
+Skipped 0 cells
+Estimated worst ans: 1693
+Processing row 656 of 1700
+Skipped 0 cells
+Estimated worst ans: 1697
+Processing row 657 of 1700
+Skipped 0 cells
+Estimated worst ans: 1700
+Processing row 658 of 1700
+Skipped 0 cells
+Estimated worst ans: 1700
+Processing row 659 of 1700
+Skipped 0 cells
+Estimated worst ans: 1700
+Processing row 660 of 1700
+Skipped 0 cells
+Estimated worst ans: 1700
+Processing row 661 of 1700
+Skipped 0 cells
+Estimated worst ans: 1705
+Processing row 662 of 1700
+Skipped 0 cells
+Estimated worst ans: 1706
+Processing row 663 of 1700
+Skipped 0 cells
+Estimated worst ans: 1707
+Processing row 664 of 1700
+Skipped 0 cells
+Estimated worst ans: 1712
+Processing row 665 of 1700
+Skipped 0 cells
+Estimated worst ans: 1713
+Processing row 666 of 1700
+Skipped 0 cells
+Estimated worst ans: 1713
+Processing row 667 of 1700
+Skipped 0 cells
+Estimated worst ans: 1713
+Processing row 668 of 1700
+Skipped 0 cells
+Estimated worst ans: 1715
+Processing row 669 of 1700
+Skipped 0 cells
+Estimated worst ans: 1715
+Processing row 670 of 1700
+Skipped 0 cells
+Estimated worst ans: 1715
+Processing row 671 of 1700
+Skipped 0 cells
+Estimated worst ans: 1720
+Processing row 672 of 1700
+Skipped 0 cells
+Estimated worst ans: 1725
+Processing row 673 of 1700
+Skipped 0 cells
+Estimated worst ans: 1730
+Processing row 674 of 1700
+Skipped 0 cells
+Estimated worst ans: 1735
+Processing row 675 of 1700
+Skipped 0 cells
+Estimated worst ans: 1735
+Processing row 676 of 1700
+Skipped 0 cells
+Estimated worst ans: 1735
+Processing row 677 of 1700
+Skipped 0 cells
+Estimated worst ans: 1735
+Processing row 678 of 1700
+Skipped 0 cells
+Estimated worst ans: 1735
+Processing row 679 of 1700
+Skipped 0 cells
+Estimated worst ans: 1735
+Processing row 680 of 1700
+Skipped 0 cells
+Estimated worst ans: 1737
+Processing row 681 of 1700
+Skipped 0 cells
+Estimated worst ans: 1742
+Processing row 682 of 1700
+Skipped 0 cells
+Estimated worst ans: 1747
+Processing row 683 of 1700
+Skipped 0 cells
+Estimated worst ans: 1748
+Processing row 684 of 1700
+Skipped 0 cells
+Estimated worst ans: 1748
+Processing row 685 of 1700
+Skipped 0 cells
+Estimated worst ans: 1754
+Processing row 686 of 1700
+Skipped 0 cells
+Estimated worst ans: 1754
+Processing row 687 of 1700
+Skipped 0 cells
+Estimated worst ans: 1756
+Processing row 688 of 1700
+Skipped 0 cells
+Estimated worst ans: 1758
+Processing row 689 of 1700
+Skipped 0 cells
+Estimated worst ans: 1760
+Processing row 690 of 1700
+Skipped 0 cells
+Estimated worst ans: 1760
+Processing row 691 of 1700
+Skipped 0 cells
+Estimated worst ans: 1762
+Processing row 692 of 1700
+Skipped 0 cells
+Estimated worst ans: 1762
+Processing row 693 of 1700
+Skipped 0 cells
+Estimated worst ans: 1767
+Processing row 694 of 1700
+Skipped 0 cells
+Estimated worst ans: 1772
+Processing row 695 of 1700
+Skipped 0 cells
+Estimated worst ans: 1772
+Processing row 696 of 1700
+Skipped 0 cells
+Estimated worst ans: 1774
+Processing row 697 of 1700
+Skipped 0 cells
+Estimated worst ans: 1779
+Processing row 698 of 1700
+Skipped 0 cells
+Estimated worst ans: 1784
+Processing row 699 of 1700
+Skipped 0 cells
+Estimated worst ans: 1789
+Processing row 700 of 1700
+Skipped 0 cells
+Estimated worst ans: 1828
+Processing row 701 of 1700
+Skipped 0 cells
+Estimated worst ans: 1841
+Processing row 702 of 1700
+Skipped 0 cells
+Estimated worst ans: 1841
+Processing row 703 of 1700
+Skipped 0 cells
+Estimated worst ans: 1841
+Processing row 704 of 1700
+Skipped 0 cells
+Estimated worst ans: 1841
+Processing row 705 of 1700
+Skipped 0 cells
+Estimated worst ans: 1841
+Processing row 706 of 1700
+Skipped 0 cells
+Estimated worst ans: 1844
+Processing row 707 of 1700
+Skipped 0 cells
+Estimated worst ans: 1849
+Processing row 708 of 1700
+Skipped 0 cells
+Estimated worst ans: 1854
+Processing row 709 of 1700
+Skipped 0 cells
+Estimated worst ans: 1854
+Processing row 710 of 1700
+Skipped 0 cells
+Estimated worst ans: 1861
+Processing row 711 of 1700
+Skipped 0 cells
+Estimated worst ans: 1878
+Processing row 712 of 1700
+Skipped 0 cells
+Estimated worst ans: 1898
+Processing row 713 of 1700
+Skipped 0 cells
+Estimated worst ans: 1918
+Processing row 714 of 1700
+Skipped 0 cells
+Estimated worst ans: 1935
+Processing row 715 of 1700
+Skipped 0 cells
+Estimated worst ans: 1954
+Processing row 716 of 1700
+Skipped 0 cells
+Estimated worst ans: 1971
+Processing row 717 of 1700
+Skipped 0 cells
+Estimated worst ans: 1992
+Processing row 718 of 1700
+Skipped 0 cells
+Estimated worst ans: 1998
+Processing row 719 of 1700
+Skipped 0 cells
+Estimated worst ans: 2005
+Processing row 720 of 1700
+Skipped 0 cells
+Estimated worst ans: 2013
+Processing row 721 of 1700
+Skipped 0 cells
+Estimated worst ans: 2029
+Processing row 722 of 1700
+Skipped 0 cells
+Estimated worst ans: 2051
+Processing row 723 of 1700
+Skipped 0 cells
+Estimated worst ans: 2069
+Processing row 724 of 1700
+Skipped 0 cells
+Estimated worst ans: 2093
+Processing row 725 of 1700
+Skipped 0 cells
+Estimated worst ans: 2110
+Processing row 726 of 1700
+Skipped 0 cells
+Estimated worst ans: 2132
+Processing row 727 of 1700
+Skipped 0 cells
+Estimated worst ans: 2138
+Processing row 728 of 1700
+Skipped 0 cells
+Estimated worst ans: 2157
+Processing row 729 of 1700
+Skipped 0 cells
+Estimated worst ans: 2174
+Processing row 730 of 1700
+Skipped 0 cells
+Estimated worst ans: 2174
+Processing row 731 of 1700
+Skipped 0 cells
+Estimated worst ans: 2186
+Processing row 732 of 1700
+Skipped 0 cells
+Estimated worst ans: 2202
+Processing row 733 of 1700
+Skipped 0 cells
+Estimated worst ans: 2216
+Processing row 734 of 1700
+Skipped 0 cells
+Estimated worst ans: 2230
+Processing row 735 of 1700
+Skipped 0 cells
+Estimated worst ans: 2235
+Processing row 736 of 1700
+Skipped 0 cells
+Estimated worst ans: 2235
+Processing row 737 of 1700
+Skipped 0 cells
+Estimated worst ans: 2238
+Processing row 738 of 1700
+Skipped 0 cells
+Estimated worst ans: 2241
+Processing row 739 of 1700
+Skipped 0 cells
+Estimated worst ans: 2246
+Processing row 740 of 1700
+Skipped 0 cells
+Estimated worst ans: 2251
+Processing row 741 of 1700
+Skipped 0 cells
+Estimated worst ans: 2256
+Processing row 742 of 1700
+Skipped 0 cells
+Estimated worst ans: 2261
+Processing row 743 of 1700
+Skipped 0 cells
+Estimated worst ans: 2266
+Processing row 744 of 1700
+Skipped 0 cells
+Estimated worst ans: 2271
+Processing row 745 of 1700
+Skipped 0 cells
+Estimated worst ans: 2276
+Processing row 746 of 1700
+Skipped 0 cells
+Estimated worst ans: 2281
+Processing row 747 of 1700
+Skipped 0 cells
+Estimated worst ans: 2286
+Processing row 748 of 1700
+Skipped 0 cells
+Estimated worst ans: 2291
+Processing row 749 of 1700
+Skipped 0 cells
+Estimated worst ans: 2296
+Processing row 750 of 1700
+Skipped 0 cells
+Estimated worst ans: 2301
+Processing row 751 of 1700
+Skipped 0 cells
+Estimated worst ans: 2306
+Processing row 752 of 1700
+Skipped 0 cells
+Estimated worst ans: 2306
+Processing row 753 of 1700
+Skipped 0 cells
+Estimated worst ans: 2307
+Processing row 754 of 1700
+Skipped 0 cells
+Estimated worst ans: 2308
+Processing row 755 of 1700
+Skipped 0 cells
+Estimated worst ans: 2313
+Processing row 756 of 1700
+Skipped 0 cells
+Estimated worst ans: 2314
+Processing row 757 of 1700
+Skipped 0 cells
+Estimated worst ans: 2318
+Processing row 758 of 1700
+Skipped 0 cells
+Estimated worst ans: 2320
+Processing row 759 of 1700
+Skipped 0 cells
+Estimated worst ans: 2325
+Processing row 760 of 1700
+Skipped 0 cells
+Estimated worst ans: 2330
+Processing row 761 of 1700
+Skipped 0 cells
+Estimated worst ans: 2330
+Processing row 762 of 1700
+Skipped 0 cells
+Estimated worst ans: 2331
+Processing row 763 of 1700
+Skipped 0 cells
+Estimated worst ans: 2336
+Processing row 764 of 1700
+Skipped 0 cells
+Estimated worst ans: 2341
+Processing row 765 of 1700
+Skipped 0 cells
+Estimated worst ans: 2346
+Processing row 766 of 1700
+Skipped 0 cells
+Estimated worst ans: 2351
+Processing row 767 of 1700
+Skipped 0 cells
+Estimated worst ans: 2353
+Processing row 768 of 1700
+Skipped 0 cells
+Estimated worst ans: 2358
+Processing row 769 of 1700
+Skipped 0 cells
+Estimated worst ans: 2359
+Processing row 770 of 1700
+Skipped 0 cells
+Estimated worst ans: 2364
+Processing row 771 of 1700
+Skipped 0 cells
+Estimated worst ans: 2369
+Processing row 772 of 1700
+Skipped 0 cells
+Estimated worst ans: 2373
+Processing row 773 of 1700
+Skipped 0 cells
+Estimated worst ans: 2378
+Processing row 774 of 1700
+Skipped 0 cells
+Estimated worst ans: 2383
+Processing row 775 of 1700
+Skipped 0 cells
+Estimated worst ans: 2390
+Processing row 776 of 1700
+Skipped 0 cells
+Estimated worst ans: 2409
+Processing row 777 of 1700
+Skipped 0 cells
+Estimated worst ans: 2410
+Processing row 778 of 1700
+Skipped 0 cells
+Estimated worst ans: 2412
+Processing row 779 of 1700
+Skipped 0 cells
+Estimated worst ans: 2417
+Processing row 780 of 1700
+Skipped 0 cells
+Estimated worst ans: 2417
+Processing row 781 of 1700
+Skipped 0 cells
+Estimated worst ans: 2418
+Processing row 782 of 1700
+Skipped 0 cells
+Estimated worst ans: 2424
+Processing row 783 of 1700
+Skipped 0 cells
+Estimated worst ans: 2432
+Processing row 784 of 1700
+Skipped 0 cells
+Estimated worst ans: 2434
+Processing row 785 of 1700
+Skipped 0 cells
+Estimated worst ans: 2438
+Processing row 786 of 1700
+Skipped 0 cells
+Estimated worst ans: 2443
+Processing row 787 of 1700
+Skipped 0 cells
+Estimated worst ans: 2448
+Processing row 788 of 1700
+Skipped 0 cells
+Estimated worst ans: 2453
+Processing row 789 of 1700
+Skipped 0 cells
+Estimated worst ans: 2458
+Processing row 790 of 1700
+Skipped 0 cells
+Estimated worst ans: 2463
+Processing row 791 of 1700
+Skipped 0 cells
+Estimated worst ans: 2468
+Processing row 792 of 1700
+Skipped 0 cells
+Estimated worst ans: 2473
+Processing row 793 of 1700
+Skipped 0 cells
+Estimated worst ans: 2478
+Processing row 794 of 1700
+Skipped 0 cells
+Estimated worst ans: 2483
+Processing row 795 of 1700
+Skipped 0 cells
+Estimated worst ans: 2490
+Processing row 796 of 1700
+Skipped 0 cells
+Estimated worst ans: 2506
+Processing row 797 of 1700
+Skipped 0 cells
+Estimated worst ans: 2519
+Processing row 798 of 1700
+Skipped 0 cells
+Estimated worst ans: 2528
+Processing row 799 of 1700
+Skipped 0 cells
+Estimated worst ans: 2543
+Processing row 800 of 1700
+Skipped 0 cells
+Estimated worst ans: 2557
+Processing row 801 of 1700
+Skipped 0 cells
+Estimated worst ans: 2584
+Processing row 802 of 1700
+Skipped 0 cells
+Estimated worst ans: 2599
+Processing row 803 of 1700
+Skipped 0 cells
+Estimated worst ans: 2599
+Processing row 804 of 1700
+Skipped 0 cells
+Estimated worst ans: 2602
+Processing row 805 of 1700
+Skipped 0 cells
+Estimated worst ans: 2602
+Processing row 806 of 1700
+Skipped 0 cells
+Estimated worst ans: 2604
+Processing row 807 of 1700
+Skipped 0 cells
+Estimated worst ans: 2609
+Processing row 808 of 1700
+Skipped 0 cells
+Estimated worst ans: 2614
+Processing row 809 of 1700
+Skipped 0 cells
+Estimated worst ans: 2619
+Processing row 810 of 1700
+Skipped 0 cells
+Estimated worst ans: 2624
+Processing row 811 of 1700
+Skipped 0 cells
+Estimated worst ans: 2629
+Processing row 812 of 1700
+Skipped 0 cells
+Estimated worst ans: 2634
+Processing row 813 of 1700
+Skipped 0 cells
+Estimated worst ans: 2639
+Processing row 814 of 1700
+Skipped 0 cells
+Estimated worst ans: 2644
+Processing row 815 of 1700
+Skipped 0 cells
+Estimated worst ans: 2649
+Processing row 816 of 1700
+Skipped 0 cells
+Estimated worst ans: 2654
+Processing row 817 of 1700
+Skipped 0 cells
+Estimated worst ans: 2659
+Processing row 818 of 1700
+Skipped 0 cells
+Estimated worst ans: 2664
+Processing row 819 of 1700
+Skipped 0 cells
+Estimated worst ans: 2669
+Processing row 820 of 1700
+Skipped 0 cells
+Estimated worst ans: 2674
+Processing row 821 of 1700
+Skipped 0 cells
+Estimated worst ans: 2679
+Processing row 822 of 1700
+Skipped 0 cells
+Estimated worst ans: 2684
+Processing row 823 of 1700
+Skipped 0 cells
+Estimated worst ans: 2689
+Processing row 824 of 1700
+Skipped 0 cells
+Estimated worst ans: 2694
+Processing row 825 of 1700
+Skipped 0 cells
+Estimated worst ans: 2699
+Processing row 826 of 1700
+Skipped 0 cells
+Estimated worst ans: 2710
+Processing row 827 of 1700
+Skipped 0 cells
+Estimated worst ans: 2712
+Processing row 828 of 1700
+Skipped 0 cells
+Estimated worst ans: 2714
+Processing row 829 of 1700
+Skipped 0 cells
+Estimated worst ans: 2714
+Processing row 830 of 1700
+Skipped 0 cells
+Estimated worst ans: 2717
+Processing row 831 of 1700
+Skipped 0 cells
+Estimated worst ans: 2721
+Processing row 832 of 1700
+Skipped 0 cells
+Estimated worst ans: 2726
+Processing row 833 of 1700
+Skipped 0 cells
+Estimated worst ans: 2731
+Processing row 834 of 1700
+Skipped 0 cells
+Estimated worst ans: 2737
+Processing row 835 of 1700
+Skipped 0 cells
+Estimated worst ans: 2741
+Processing row 836 of 1700
+Skipped 0 cells
+Estimated worst ans: 2746
+Processing row 837 of 1700
+Skipped 0 cells
+Estimated worst ans: 2751
+Processing row 838 of 1700
+Skipped 0 cells
+Estimated worst ans: 2756
+Processing row 839 of 1700
+Skipped 0 cells
+Estimated worst ans: 2756
+Processing row 840 of 1700
+Skipped 0 cells
+Estimated worst ans: 2758
+Processing row 841 of 1700
+Skipped 0 cells
+Estimated worst ans: 2763
+Processing row 842 of 1700
+Skipped 0 cells
+Estimated worst ans: 2768
+Processing row 843 of 1700
+Skipped 0 cells
+Estimated worst ans: 2773
+Processing row 844 of 1700
+Skipped 0 cells
+Estimated worst ans: 2773
+Processing row 845 of 1700
+Skipped 0 cells
+Estimated worst ans: 2775
+Processing row 846 of 1700
+Skipped 0 cells
+Estimated worst ans: 2780
+Processing row 847 of 1700
+Skipped 0 cells
+Estimated worst ans: 2785
+Processing row 848 of 1700
+Skipped 0 cells
+Estimated worst ans: 2790
+Processing row 849 of 1700
+Skipped 0 cells
+Estimated worst ans: 2795
+Processing row 850 of 1700
+Skipped 0 cells
+Estimated worst ans: 2800
+Processing row 851 of 1700
+Skipped 0 cells
+Estimated worst ans: 2805
+Processing row 852 of 1700
+Skipped 0 cells
+Estimated worst ans: 2810
+Processing row 853 of 1700
+Skipped 0 cells
+Estimated worst ans: 2815
+Processing row 854 of 1700
+Skipped 0 cells
+Estimated worst ans: 2820
+Processing row 855 of 1700
+Skipped 0 cells
+Estimated worst ans: 2827
+Processing row 856 of 1700
+Skipped 0 cells
+Estimated worst ans: 2830
+Processing row 857 of 1700
+Skipped 0 cells
+Estimated worst ans: 2835
+Processing row 858 of 1700
+Skipped 0 cells
+Estimated worst ans: 2840
+Processing row 859 of 1700
+Skipped 0 cells
+Estimated worst ans: 2845
+Processing row 860 of 1700
+Skipped 0 cells
+Estimated worst ans: 2850
+Processing row 861 of 1700
+Skipped 0 cells
+Estimated worst ans: 2855
+Processing row 862 of 1700
+Skipped 0 cells
+Estimated worst ans: 2860
+Processing row 863 of 1700
+Skipped 0 cells
+Estimated worst ans: 2865
+Processing row 864 of 1700
+Skipped 0 cells
+Estimated worst ans: 2870
+Processing row 865 of 1700
+Skipped 0 cells
+Estimated worst ans: 2875
+Processing row 866 of 1700
+Skipped 0 cells
+Estimated worst ans: 2880
+Processing row 867 of 1700
+Skipped 0 cells
+Estimated worst ans: 2885
+Processing row 868 of 1700
+Skipped 0 cells
+Estimated worst ans: 2890
+Processing row 869 of 1700
+Skipped 0 cells
+Estimated worst ans: 2895
+Processing row 870 of 1700
+Skipped 0 cells
+Estimated worst ans: 2900
+Processing row 871 of 1700
+Skipped 0 cells
+Estimated worst ans: 2905
+Processing row 872 of 1700
+Skipped 0 cells
+Estimated worst ans: 2910
+Processing row 873 of 1700
+Skipped 0 cells
+Estimated worst ans: 2915
+Processing row 874 of 1700
+Skipped 0 cells
+Estimated worst ans: 2920
+Processing row 875 of 1700
+Skipped 0 cells
+Estimated worst ans: 2925
+Processing row 876 of 1700
+Skipped 0 cells
+Estimated worst ans: 2930
+Processing row 877 of 1700
+Skipped 0 cells
+Estimated worst ans: 2935
+Processing row 878 of 1700
+Skipped 0 cells
+Estimated worst ans: 2940
+Processing row 879 of 1700
+Skipped 0 cells
+Estimated worst ans: 2950
+Processing row 880 of 1700
+Skipped 0 cells
+Estimated worst ans: 2967
+Processing row 881 of 1700
+Skipped 0 cells
+Estimated worst ans: 2967
+Processing row 882 of 1700
+Skipped 0 cells
+Estimated worst ans: 2969
+Processing row 883 of 1700
+Skipped 0 cells
+Estimated worst ans: 2969
+Processing row 884 of 1700
+Skipped 0 cells
+Estimated worst ans: 2971
+Processing row 885 of 1700
+Skipped 0 cells
+Estimated worst ans: 2976
+Processing row 886 of 1700
+Skipped 0 cells
+Estimated worst ans: 2977
+Processing row 887 of 1700
+Skipped 0 cells
+Estimated worst ans: 2982
+Processing row 888 of 1700
+Skipped 0 cells
+Estimated worst ans: 2982
+Processing row 889 of 1700
+Skipped 0 cells
+Estimated worst ans: 2982
+Processing row 890 of 1700
+Skipped 0 cells
+Estimated worst ans: 2985
+Processing row 891 of 1700
+Skipped 0 cells
+Estimated worst ans: 2990
+Processing row 892 of 1700
+Skipped 0 cells
+Estimated worst ans: 2995
+Processing row 893 of 1700
+Skipped 0 cells
+Estimated worst ans: 3000
+Processing row 894 of 1700
+Skipped 0 cells
+Estimated worst ans: 3005
+Processing row 895 of 1700
+Skipped 0 cells
+Estimated worst ans: 3010
+Processing row 896 of 1700
+Skipped 0 cells
+Estimated worst ans: 3015
+Processing row 897 of 1700
+Skipped 0 cells
+Estimated worst ans: 3020
+Processing row 898 of 1700
+Skipped 0 cells
+Estimated worst ans: 3026
+Processing row 899 of 1700
+Skipped 0 cells
+Estimated worst ans: 3030
+Processing row 900 of 1700
+Skipped 0 cells
+Estimated worst ans: 3035
+Processing row 901 of 1700
+Skipped 0 cells
+Estimated worst ans: 3035
+Processing row 902 of 1700
+Skipped 0 cells
+Estimated worst ans: 3036
+Processing row 903 of 1700
+Skipped 0 cells
+Estimated worst ans: 3041
+Processing row 904 of 1700
+Skipped 0 cells
+Estimated worst ans: 3041
+Processing row 905 of 1700
+Skipped 0 cells
+Estimated worst ans: 3042
+Processing row 906 of 1700
+Skipped 0 cells
+Estimated worst ans: 3042
+Processing row 907 of 1700
+Skipped 0 cells
+Estimated worst ans: 3042
+Processing row 908 of 1700
+Skipped 0 cells
+Estimated worst ans: 3042
+Processing row 909 of 1700
+Skipped 0 cells
+Estimated worst ans: 3044
+Processing row 910 of 1700
+Skipped 0 cells
+Estimated worst ans: 3048
+Processing row 911 of 1700
+Skipped 0 cells
+Estimated worst ans: 3049
+Processing row 912 of 1700
+Skipped 0 cells
+Estimated worst ans: 3050
+Processing row 913 of 1700
+Skipped 0 cells
+Estimated worst ans: 3055
+Processing row 914 of 1700
+Skipped 0 cells
+Estimated worst ans: 3055
+Processing row 915 of 1700
+Skipped 0 cells
+Estimated worst ans: 3056
+Processing row 916 of 1700
+Skipped 0 cells
+Estimated worst ans: 3057
+Processing row 917 of 1700
+Skipped 0 cells
+Estimated worst ans: 3057
+Processing row 918 of 1700
+Skipped 0 cells
+Estimated worst ans: 3091
+Processing row 919 of 1700
+Skipped 0 cells
+Estimated worst ans: 3098
+Processing row 920 of 1700
+Skipped 0 cells
+Estimated worst ans: 3120
+Processing row 921 of 1700
+Skipped 0 cells
+Estimated worst ans: 3141
+Processing row 922 of 1700
+Skipped 0 cells
+Estimated worst ans: 3169
+Processing row 923 of 1700
+Skipped 0 cells
+Estimated worst ans: 3179
+Processing row 924 of 1700
+Skipped 0 cells
+Estimated worst ans: 3190
+Processing row 925 of 1700
+Skipped 0 cells
+Estimated worst ans: 3216
+Processing row 926 of 1700
+Skipped 0 cells
+Estimated worst ans: 3216
+Processing row 927 of 1700
+Skipped 0 cells
+Estimated worst ans: 3218
+Processing row 928 of 1700
+Skipped 0 cells
+Estimated worst ans: 3223
+Processing row 929 of 1700
+Skipped 0 cells
+Estimated worst ans: 3228
+Processing row 930 of 1700
+Skipped 0 cells
+Estimated worst ans: 3228
+Processing row 931 of 1700
+Skipped 0 cells
+Estimated worst ans: 3230
+Processing row 932 of 1700
+Skipped 0 cells
+Estimated worst ans: 3235
+Processing row 933 of 1700
+Skipped 0 cells
+Estimated worst ans: 3240
+Processing row 934 of 1700
+Skipped 0 cells
+Estimated worst ans: 3245
+Processing row 935 of 1700
+Skipped 0 cells
+Estimated worst ans: 3250
+Processing row 936 of 1700
+Skipped 0 cells
+Estimated worst ans: 3255
+Processing row 937 of 1700
+Skipped 0 cells
+Estimated worst ans: 3260
+Processing row 938 of 1700
+Skipped 0 cells
+Estimated worst ans: 3265
+Processing row 939 of 1700
+Skipped 0 cells
+Estimated worst ans: 3270
+Processing row 940 of 1700
+Skipped 0 cells
+Estimated worst ans: 3275
+Processing row 941 of 1700
+Skipped 0 cells
+Estimated worst ans: 3280
+Processing row 942 of 1700
+Skipped 0 cells
+Estimated worst ans: 3285
+Processing row 943 of 1700
+Skipped 0 cells
+Estimated worst ans: 3290
+Processing row 944 of 1700
+Skipped 0 cells
+Estimated worst ans: 3295
+Processing row 945 of 1700
+Skipped 0 cells
+Estimated worst ans: 3300
+Processing row 946 of 1700
+Skipped 0 cells
+Estimated worst ans: 3313
+Processing row 947 of 1700
+Skipped 0 cells
+Estimated worst ans: 3319
+Processing row 948 of 1700
+Skipped 0 cells
+Estimated worst ans: 3332
+Processing row 949 of 1700
+Skipped 0 cells
+Estimated worst ans: 3339
+Processing row 950 of 1700
+Skipped 0 cells
+Estimated worst ans: 3344
+Processing row 951 of 1700
+Skipped 0 cells
+Estimated worst ans: 3357
+Processing row 952 of 1700
+Skipped 0 cells
+Estimated worst ans: 3364
+Processing row 953 of 1700
+Skipped 0 cells
+Estimated worst ans: 3370
+Processing row 954 of 1700
+Skipped 0 cells
+Estimated worst ans: 3378
+Processing row 955 of 1700
+Skipped 0 cells
+Estimated worst ans: 3386
+Processing row 956 of 1700
+Skipped 0 cells
+Estimated worst ans: 3401
+Processing row 957 of 1700
+Skipped 0 cells
+Estimated worst ans: 3406
+Processing row 958 of 1700
+Skipped 0 cells
+Estimated worst ans: 3411
+Processing row 959 of 1700
+Skipped 0 cells
+Estimated worst ans: 3416
+Processing row 960 of 1700
+Skipped 0 cells
+Estimated worst ans: 3429
+Processing row 961 of 1700
+Skipped 0 cells
+Estimated worst ans: 3434
+Processing row 962 of 1700
+Skipped 0 cells
+Estimated worst ans: 3439
+Processing row 963 of 1700
+Skipped 0 cells
+Estimated worst ans: 3444
+Processing row 964 of 1700
+Skipped 0 cells
+Estimated worst ans: 3449
+Processing row 965 of 1700
+Skipped 0 cells
+Estimated worst ans: 3454
+Processing row 966 of 1700
+Skipped 0 cells
+Estimated worst ans: 3459
+Processing row 967 of 1700
+Skipped 0 cells
+Estimated worst ans: 3464
+Processing row 968 of 1700
+Skipped 0 cells
+Estimated worst ans: 3469
+Processing row 969 of 1700
+Skipped 0 cells
+Estimated worst ans: 3474
+Processing row 970 of 1700
+Skipped 0 cells
+Estimated worst ans: 3486
+Processing row 971 of 1700
+Skipped 0 cells
+Estimated worst ans: 3510
+Processing row 972 of 1700
+Skipped 0 cells
+Estimated worst ans: 3526
+Processing row 973 of 1700
+Skipped 0 cells
+Estimated worst ans: 3547
+Processing row 974 of 1700
+Skipped 0 cells
+Estimated worst ans: 3560
+Processing row 975 of 1700
+Skipped 0 cells
+Estimated worst ans: 3576
+Processing row 976 of 1700
+Skipped 0 cells
+Estimated worst ans: 3592
+Processing row 977 of 1700
+Skipped 0 cells
+Estimated worst ans: 3610
+Processing row 978 of 1700
+Skipped 0 cells
+Estimated worst ans: 3623
+Processing row 979 of 1700
+Skipped 0 cells
+Estimated worst ans: 3631
+Processing row 980 of 1700
+Skipped 0 cells
+Estimated worst ans: 3641
+Processing row 981 of 1700
+Skipped 0 cells
+Estimated worst ans: 3649
+Processing row 982 of 1700
+Skipped 0 cells
+Estimated worst ans: 3649
+Processing row 983 of 1700
+Skipped 0 cells
+Estimated worst ans: 3651
+Processing row 984 of 1700
+Skipped 0 cells
+Estimated worst ans: 3656
+Processing row 985 of 1700
+Skipped 0 cells
+Estimated worst ans: 3661
+Processing row 986 of 1700
+Skipped 0 cells
+Estimated worst ans: 3666
+Processing row 987 of 1700
+Skipped 0 cells
+Estimated worst ans: 3671
+Processing row 988 of 1700
+Skipped 0 cells
+Estimated worst ans: 3676
+Processing row 989 of 1700
+Skipped 0 cells
+Estimated worst ans: 3681
+Processing row 990 of 1700
+Skipped 0 cells
+Estimated worst ans: 3686
+Processing row 991 of 1700
+Skipped 0 cells
+Estimated worst ans: 3691
+Processing row 992 of 1700
+Skipped 0 cells
+Estimated worst ans: 3696
+Processing row 993 of 1700
+Skipped 0 cells
+Estimated worst ans: 3701
+Processing row 994 of 1700
+Skipped 0 cells
+Estimated worst ans: 3706
+Processing row 995 of 1700
+Skipped 0 cells
+Estimated worst ans: 3708
+Processing row 996 of 1700
+Skipped 0 cells
+Estimated worst ans: 3713
+Processing row 997 of 1700
+Skipped 0 cells
+Estimated worst ans: 3714
+Processing row 998 of 1700
+Skipped 0 cells
+Estimated worst ans: 3719
+Processing row 999 of 1700
+Skipped 0 cells
+Estimated worst ans: 3724
+Processing row 1000 of 1700
+Skipped 0 cells
+Estimated worst ans: 3729
+Processing row 1001 of 1700
+Skipped 0 cells
+Estimated worst ans: 3729
+Processing row 1002 of 1700
+Skipped 0 cells
+Estimated worst ans: 3729
+Processing row 1003 of 1700
+Skipped 0 cells
+Estimated worst ans: 3729
+Processing row 1004 of 1700
+Skipped 0 cells
+Estimated worst ans: 3729
+Processing row 1005 of 1700
+Skipped 0 cells
+Estimated worst ans: 3729
+Processing row 1006 of 1700
+Skipped 0 cells
+Estimated worst ans: 3729
+Processing row 1007 of 1700
+Skipped 0 cells
+Estimated worst ans: 3734
+Processing row 1008 of 1700
+Skipped 0 cells
+Estimated worst ans: 3734
+Processing row 1009 of 1700
+Skipped 0 cells
+Estimated worst ans: 3735
+Processing row 1010 of 1700
+Skipped 0 cells
+Estimated worst ans: 3740
+Processing row 1011 of 1700
+Skipped 0 cells
+Estimated worst ans: 3740
+Processing row 1012 of 1700
+Skipped 0 cells
+Estimated worst ans: 3740
+Processing row 1013 of 1700
+Skipped 0 cells
+Estimated worst ans: 3745
+Processing row 1014 of 1700
+Skipped 0 cells
+Estimated worst ans: 3750
+Processing row 1015 of 1700
+Skipped 0 cells
+Estimated worst ans: 3755
+Processing row 1016 of 1700
+Skipped 0 cells
+Estimated worst ans: 3757
+Processing row 1017 of 1700
+Skipped 0 cells
+Estimated worst ans: 3757
+Processing row 1018 of 1700
+Skipped 0 cells
+Estimated worst ans: 3761
+Processing row 1019 of 1700
+Skipped 0 cells
+Estimated worst ans: 3764
+Processing row 1020 of 1700
+Skipped 0 cells
+Estimated worst ans: 3767
+Processing row 1021 of 1700
+Skipped 0 cells
+Estimated worst ans: 3767
+Processing row 1022 of 1700
+Skipped 0 cells
+Estimated worst ans: 3768
+Processing row 1023 of 1700
+Skipped 0 cells
+Estimated worst ans: 3768
+Processing row 1024 of 1700
+Skipped 0 cells
+Estimated worst ans: 3773
+Processing row 1025 of 1700
+Skipped 0 cells
+Estimated worst ans: 3782
+Processing row 1026 of 1700
+Skipped 0 cells
+Estimated worst ans: 3789
+Processing row 1027 of 1700
+Skipped 0 cells
+Estimated worst ans: 3805
+Processing row 1028 of 1700
+Skipped 0 cells
+Estimated worst ans: 3814
+Processing row 1029 of 1700
+Skipped 0 cells
+Estimated worst ans: 3830
+Processing row 1030 of 1700
+Skipped 0 cells
+Estimated worst ans: 3843
+Processing row 1031 of 1700
+Skipped 0 cells
+Estimated worst ans: 3866
+Processing row 1032 of 1700
+Skipped 0 cells
+Estimated worst ans: 3868
+Processing row 1033 of 1700
+Skipped 0 cells
+Estimated worst ans: 3871
+Processing row 1034 of 1700
+Skipped 0 cells
+Estimated worst ans: 3873
+Processing row 1035 of 1700
+Skipped 0 cells
+Estimated worst ans: 3878
+Processing row 1036 of 1700
+Skipped 0 cells
+Estimated worst ans: 3880
+Processing row 1037 of 1700
+Skipped 0 cells
+Estimated worst ans: 3885
+Processing row 1038 of 1700
+Skipped 0 cells
+Estimated worst ans: 3890
+Processing row 1039 of 1700
+Skipped 0 cells
+Estimated worst ans: 3895
+Processing row 1040 of 1700
+Skipped 0 cells
+Estimated worst ans: 3900
+Processing row 1041 of 1700
+Skipped 0 cells
+Estimated worst ans: 3905
+Processing row 1042 of 1700
+Skipped 0 cells
+Estimated worst ans: 3910
+Processing row 1043 of 1700
+Skipped 0 cells
+Estimated worst ans: 3915
+Processing row 1044 of 1700
+Skipped 0 cells
+Estimated worst ans: 3920
+Processing row 1045 of 1700
+Skipped 0 cells
+Estimated worst ans: 3925
+Processing row 1046 of 1700
+Skipped 0 cells
+Estimated worst ans: 3930
+Processing row 1047 of 1700
+Skipped 0 cells
+Estimated worst ans: 3935
+Processing row 1048 of 1700
+Skipped 0 cells
+Estimated worst ans: 3940
+Processing row 1049 of 1700
+Skipped 0 cells
+Estimated worst ans: 3945
+Processing row 1050 of 1700
+Skipped 0 cells
+Estimated worst ans: 3950
+Processing row 1051 of 1700
+Skipped 0 cells
+Estimated worst ans: 3955
+Processing row 1052 of 1700
+Skipped 0 cells
+Estimated worst ans: 3960
+Processing row 1053 of 1700
+Skipped 0 cells
+Estimated worst ans: 3965
+Processing row 1054 of 1700
+Skipped 0 cells
+Estimated worst ans: 3970
+Processing row 1055 of 1700
+Skipped 0 cells
+Estimated worst ans: 3975
+Processing row 1056 of 1700
+Skipped 0 cells
+Estimated worst ans: 3980
+Processing row 1057 of 1700
+Skipped 0 cells
+Estimated worst ans: 3985
+Processing row 1058 of 1700
+Skipped 0 cells
+Estimated worst ans: 3990
+Processing row 1059 of 1700
+Skipped 0 cells
+Estimated worst ans: 3995
+Processing row 1060 of 1700
+Skipped 0 cells
+Estimated worst ans: 4001
+Processing row 1061 of 1700
+Skipped 0 cells
+Estimated worst ans: 4005
+Processing row 1062 of 1700
+Skipped 0 cells
+Estimated worst ans: 4006
+Processing row 1063 of 1700
+Skipped 0 cells
+Estimated worst ans: 4011
+Processing row 1064 of 1700
+Skipped 0 cells
+Estimated worst ans: 4012
+Processing row 1065 of 1700
+Skipped 0 cells
+Estimated worst ans: 4018
+Processing row 1066 of 1700
+Skipped 0 cells
+Estimated worst ans: 4022
+Processing row 1067 of 1700
+Skipped 0 cells
+Estimated worst ans: 4027
+Processing row 1068 of 1700
+Skipped 0 cells
+Estimated worst ans: 4032
+Processing row 1069 of 1700
+Skipped 0 cells
+Estimated worst ans: 4032
+Processing row 1070 of 1700
+Skipped 0 cells
+Estimated worst ans: 4035
+Processing row 1071 of 1700
+Skipped 0 cells
+Estimated worst ans: 4040
+Processing row 1072 of 1700
+Skipped 0 cells
+Estimated worst ans: 4045
+Processing row 1073 of 1700
+Skipped 0 cells
+Estimated worst ans: 4050
+Processing row 1074 of 1700
+Skipped 0 cells
+Estimated worst ans: 4055
+Processing row 1075 of 1700
+Skipped 0 cells
+Estimated worst ans: 4060
+Processing row 1076 of 1700
+Skipped 0 cells
+Estimated worst ans: 4065
+Processing row 1077 of 1700
+Skipped 0 cells
+Estimated worst ans: 4070
+Processing row 1078 of 1700
+Skipped 0 cells
+Estimated worst ans: 4075
+Processing row 1079 of 1700
+Skipped 0 cells
+Estimated worst ans: 4080
+Processing row 1080 of 1700
+Skipped 0 cells
+Estimated worst ans: 4085
+Processing row 1081 of 1700
+Skipped 0 cells
+Estimated worst ans: 4090
+Processing row 1082 of 1700
+Skipped 0 cells
+Estimated worst ans: 4095
+Processing row 1083 of 1700
+Skipped 0 cells
+Estimated worst ans: 4100
+Processing row 1084 of 1700
+Skipped 0 cells
+Estimated worst ans: 4105
+Processing row 1085 of 1700
+Skipped 0 cells
+Estimated worst ans: 4110
+Processing row 1086 of 1700
+Skipped 0 cells
+Estimated worst ans: 4115
+Processing row 1087 of 1700
+Skipped 0 cells
+Estimated worst ans: 4120
+Processing row 1088 of 1700
+Skipped 0 cells
+Estimated worst ans: 4125
+Processing row 1089 of 1700
+Skipped 0 cells
+Estimated worst ans: 4130
+Processing row 1090 of 1700
+Skipped 0 cells
+Estimated worst ans: 4135
+Processing row 1091 of 1700
+Skipped 0 cells
+Estimated worst ans: 4140
+Processing row 1092 of 1700
+Skipped 0 cells
+Estimated worst ans: 4145
+Processing row 1093 of 1700
+Skipped 0 cells
+Estimated worst ans: 4150
+Processing row 1094 of 1700
+Skipped 0 cells
+Estimated worst ans: 4155
+Processing row 1095 of 1700
+Skipped 0 cells
+Estimated worst ans: 4160
+Processing row 1096 of 1700
+Skipped 0 cells
+Estimated worst ans: 4173
+Processing row 1097 of 1700
+Skipped 0 cells
+Estimated worst ans: 4173
+Processing row 1098 of 1700
+Skipped 0 cells
+Estimated worst ans: 4175
+Processing row 1099 of 1700
+Skipped 0 cells
+Estimated worst ans: 4180
+Processing row 1100 of 1700
+Skipped 0 cells
+Estimated worst ans: 4185
+Processing row 1101 of 1700
+Skipped 0 cells
+Estimated worst ans: 4190
+Processing row 1102 of 1700
+Skipped 0 cells
+Estimated worst ans: 4195
+Processing row 1103 of 1700
+Skipped 0 cells
+Estimated worst ans: 4195
+Processing row 1104 of 1700
+Skipped 0 cells
+Estimated worst ans: 4198
+Processing row 1105 of 1700
+Skipped 0 cells
+Estimated worst ans: 4203
+Processing row 1106 of 1700
+Skipped 0 cells
+Estimated worst ans: 4208
+Processing row 1107 of 1700
+Skipped 0 cells
+Estimated worst ans: 4213
+Processing row 1108 of 1700
+Skipped 0 cells
+Estimated worst ans: 4218
+Processing row 1109 of 1700
+Skipped 0 cells
+Estimated worst ans: 4223
+Processing row 1110 of 1700
+Skipped 0 cells
+Estimated worst ans: 4228
+Processing row 1111 of 1700
+Skipped 0 cells
+Estimated worst ans: 4233
+Processing row 1112 of 1700
+Skipped 0 cells
+Estimated worst ans: 4238
+Processing row 1113 of 1700
+Skipped 0 cells
+Estimated worst ans: 4243
+Processing row 1114 of 1700
+Skipped 0 cells
+Estimated worst ans: 4248
+Processing row 1115 of 1700
+Skipped 0 cells
+Estimated worst ans: 4253
+Processing row 1116 of 1700
+Skipped 0 cells
+Estimated worst ans: 4258
+Processing row 1117 of 1700
+Skipped 0 cells
+Estimated worst ans: 4263
+Processing row 1118 of 1700
+Skipped 0 cells
+Estimated worst ans: 4268
+Processing row 1119 of 1700
+Skipped 0 cells
+Estimated worst ans: 4268
+Processing row 1120 of 1700
+Skipped 0 cells
+Estimated worst ans: 4269
+Processing row 1121 of 1700
+Skipped 0 cells
+Estimated worst ans: 4274
+Processing row 1122 of 1700
+Skipped 0 cells
+Estimated worst ans: 4274
+Processing row 1123 of 1700
+Skipped 0 cells
+Estimated worst ans: 4275
+Processing row 1124 of 1700
+Skipped 0 cells
+Estimated worst ans: 4280
+Processing row 1125 of 1700
+Skipped 0 cells
+Estimated worst ans: 4280
+Processing row 1126 of 1700
+Skipped 0 cells
+Estimated worst ans: 4280
+Processing row 1127 of 1700
+Skipped 0 cells
+Estimated worst ans: 4282
+Processing row 1128 of 1700
+Skipped 0 cells
+Estimated worst ans: 4287
+Processing row 1129 of 1700
+Skipped 0 cells
+Estimated worst ans: 4292
+Processing row 1130 of 1700
+Skipped 0 cells
+Estimated worst ans: 4292
+Processing row 1131 of 1700
+Skipped 0 cells
+Estimated worst ans: 4295
+Processing row 1132 of 1700
+Skipped 0 cells
+Estimated worst ans: 4300
+Processing row 1133 of 1700
+Skipped 0 cells
+Estimated worst ans: 4305
+Processing row 1134 of 1700
+Skipped 0 cells
+Estimated worst ans: 4310
+Processing row 1135 of 1700
+Skipped 0 cells
+Estimated worst ans: 4312
+Processing row 1136 of 1700
+Skipped 0 cells
+Estimated worst ans: 4312
+Processing row 1137 of 1700
+Skipped 0 cells
+Estimated worst ans: 4313
+Processing row 1138 of 1700
+Skipped 0 cells
+Estimated worst ans: 4318
+Processing row 1139 of 1700
+Skipped 0 cells
+Estimated worst ans: 4318
+Processing row 1140 of 1700
+Skipped 0 cells
+Estimated worst ans: 4322
+Processing row 1141 of 1700
+Skipped 0 cells
+Estimated worst ans: 4325
+Processing row 1142 of 1700
+Skipped 0 cells
+Estimated worst ans: 4330
+Processing row 1143 of 1700
+Skipped 0 cells
+Estimated worst ans: 4335
+Processing row 1144 of 1700
+Skipped 0 cells
+Estimated worst ans: 4340
+Processing row 1145 of 1700
+Skipped 0 cells
+Estimated worst ans: 4345
+Processing row 1146 of 1700
+Skipped 0 cells
+Estimated worst ans: 4355
+Processing row 1147 of 1700
+Skipped 0 cells
+Estimated worst ans: 4369
+Processing row 1148 of 1700
+Skipped 0 cells
+Estimated worst ans: 4377
+Processing row 1149 of 1700
+Skipped 0 cells
+Estimated worst ans: 4385
+Processing row 1150 of 1700
+Skipped 0 cells
+Estimated worst ans: 4400
+Processing row 1151 of 1700
+Skipped 0 cells
+Estimated worst ans: 4425
+Processing row 1152 of 1700
+Skipped 0 cells
+Estimated worst ans: 4446
+Processing row 1153 of 1700
+Skipped 0 cells
+Estimated worst ans: 4462
+Processing row 1154 of 1700
+Skipped 0 cells
+Estimated worst ans: 4470
+Processing row 1155 of 1700
+Skipped 0 cells
+Estimated worst ans: 4485
+Processing row 1156 of 1700
+Skipped 0 cells
+Estimated worst ans: 4493
+Processing row 1157 of 1700
+Skipped 0 cells
+Estimated worst ans: 4498
+Processing row 1158 of 1700
+Skipped 0 cells
+Estimated worst ans: 4503
+Processing row 1159 of 1700
+Skipped 0 cells
+Estimated worst ans: 4509
+Processing row 1160 of 1700
+Skipped 0 cells
+Estimated worst ans: 4528
+Processing row 1161 of 1700
+Skipped 0 cells
+Estimated worst ans: 4554
+Processing row 1162 of 1700
+Skipped 0 cells
+Estimated worst ans: 4559
+Processing row 1163 of 1700
+Skipped 0 cells
+Estimated worst ans: 4564
+Processing row 1164 of 1700
+Skipped 0 cells
+Estimated worst ans: 4569
+Processing row 1165 of 1700
+Skipped 0 cells
+Estimated worst ans: 4582
+Processing row 1166 of 1700
+Skipped 0 cells
+Estimated worst ans: 4600
+Processing row 1167 of 1700
+Skipped 0 cells
+Estimated worst ans: 4621
+Processing row 1168 of 1700
+Skipped 0 cells
+Estimated worst ans: 4631
+Processing row 1169 of 1700
+Skipped 0 cells
+Estimated worst ans: 4638
+Processing row 1170 of 1700
+Skipped 0 cells
+Estimated worst ans: 4647
+Processing row 1171 of 1700
+Skipped 0 cells
+Estimated worst ans: 4652
+Processing row 1172 of 1700
+Skipped 0 cells
+Estimated worst ans: 4662
+Processing row 1173 of 1700
+Skipped 0 cells
+Estimated worst ans: 4681
+Processing row 1174 of 1700
+Skipped 0 cells
+Estimated worst ans: 4695
+Processing row 1175 of 1700
+Skipped 0 cells
+Estimated worst ans: 4709
+Processing row 1176 of 1700
+Skipped 0 cells
+Estimated worst ans: 4724
+Processing row 1177 of 1700
+Skipped 0 cells
+Estimated worst ans: 4743
+Processing row 1178 of 1700
+Skipped 0 cells
+Estimated worst ans: 4757
+Processing row 1179 of 1700
+Skipped 0 cells
+Estimated worst ans: 4766
+Processing row 1180 of 1700
+Skipped 0 cells
+Estimated worst ans: 4771
+Processing row 1181 of 1700
+Skipped 0 cells
+Estimated worst ans: 4771
+Processing row 1182 of 1700
+Skipped 0 cells
+Estimated worst ans: 4773
+Processing row 1183 of 1700
+Skipped 0 cells
+Estimated worst ans: 4778
+Processing row 1184 of 1700
+Skipped 0 cells
+Estimated worst ans: 4783
+Processing row 1185 of 1700
+Skipped 0 cells
+Estimated worst ans: 4788
+Processing row 1186 of 1700
+Skipped 0 cells
+Estimated worst ans: 4793
+Processing row 1187 of 1700
+Skipped 0 cells
+Estimated worst ans: 4798
+Processing row 1188 of 1700
+Skipped 0 cells
+Estimated worst ans: 4803
+Processing row 1189 of 1700
+Skipped 0 cells
+Estimated worst ans: 4808
+Processing row 1190 of 1700
+Skipped 0 cells
+Estimated worst ans: 4813
+Processing row 1191 of 1700
+Skipped 0 cells
+Estimated worst ans: 4818
+Processing row 1192 of 1700
+Skipped 0 cells
+Estimated worst ans: 4823
+Processing row 1193 of 1700
+Skipped 0 cells
+Estimated worst ans: 4828
+Processing row 1194 of 1700
+Skipped 0 cells
+Estimated worst ans: 4833
+Processing row 1195 of 1700
+Skipped 0 cells
+Estimated worst ans: 4838
+Processing row 1196 of 1700
+Skipped 0 cells
+Estimated worst ans: 4843
+Processing row 1197 of 1700
+Skipped 0 cells
+Estimated worst ans: 4848
+Processing row 1198 of 1700
+Skipped 0 cells
+Estimated worst ans: 4853
+Processing row 1199 of 1700
+Skipped 0 cells
+Estimated worst ans: 4858
+Processing row 1200 of 1700
+Skipped 0 cells
+Estimated worst ans: 4863
+Processing row 1201 of 1700
+Skipped 0 cells
+Estimated worst ans: 4863
+Processing row 1202 of 1700
+Skipped 0 cells
+Estimated worst ans: 4863
+Processing row 1203 of 1700
+Skipped 0 cells
+Estimated worst ans: 4863
+Processing row 1204 of 1700
+Skipped 0 cells
+Estimated worst ans: 4866
+Processing row 1205 of 1700
+Skipped 0 cells
+Estimated worst ans: 4871
+Processing row 1206 of 1700
+Skipped 0 cells
+Estimated worst ans: 4875
+Processing row 1207 of 1700
+Skipped 0 cells
+Estimated worst ans: 4877
+Processing row 1208 of 1700
+Skipped 0 cells
+Estimated worst ans: 4882
+Processing row 1209 of 1700
+Skipped 0 cells
+Estimated worst ans: 4883
+Processing row 1210 of 1700
+Skipped 0 cells
+Estimated worst ans: 4883
+Processing row 1211 of 1700
+Skipped 0 cells
+Estimated worst ans: 4883
+Processing row 1212 of 1700
+Skipped 0 cells
+Estimated worst ans: 4883
+Processing row 1213 of 1700
+Skipped 0 cells
+Estimated worst ans: 4883
+Processing row 1214 of 1700
+Skipped 0 cells
+Estimated worst ans: 4883
+Processing row 1215 of 1700
+Skipped 0 cells
+Estimated worst ans: 4883
+Processing row 1216 of 1700
+Skipped 0 cells
+Estimated worst ans: 4883
+Processing row 1217 of 1700
+Skipped 0 cells
+Estimated worst ans: 4883
+Processing row 1218 of 1700
+Skipped 0 cells
+Estimated worst ans: 4883
+Processing row 1219 of 1700
+Skipped 0 cells
+Estimated worst ans: 4885
+Processing row 1220 of 1700
+Skipped 0 cells
+Estimated worst ans: 4886
+Processing row 1221 of 1700
+Skipped 0 cells
+Estimated worst ans: 4887
+Processing row 1222 of 1700
+Skipped 0 cells
+Estimated worst ans: 4892
+Processing row 1223 of 1700
+Skipped 0 cells
+Estimated worst ans: 4892
+Processing row 1224 of 1700
+Skipped 0 cells
+Estimated worst ans: 4892
+Processing row 1225 of 1700
+Skipped 0 cells
+Estimated worst ans: 4895
+Processing row 1226 of 1700
+Skipped 0 cells
+Estimated worst ans: 4895
+Processing row 1227 of 1700
+Skipped 0 cells
+Estimated worst ans: 4896
+Processing row 1228 of 1700
+Skipped 0 cells
+Estimated worst ans: 4896
+Processing row 1229 of 1700
+Skipped 0 cells
+Estimated worst ans: 4897
+Processing row 1230 of 1700
+Skipped 0 cells
+Estimated worst ans: 4897
+Processing row 1231 of 1700
+Skipped 0 cells
+Estimated worst ans: 4901
+Processing row 1232 of 1700
+Skipped 0 cells
+Estimated worst ans: 4901
+Processing row 1233 of 1700
+Skipped 0 cells
+Estimated worst ans: 4903
+Processing row 1234 of 1700
+Skipped 0 cells
+Estimated worst ans: 4903
+Processing row 1235 of 1700
+Skipped 0 cells
+Estimated worst ans: 4903
+Processing row 1236 of 1700
+Skipped 0 cells
+Estimated worst ans: 4907
+Processing row 1237 of 1700
+Skipped 0 cells
+Estimated worst ans: 4908
+Processing row 1238 of 1700
+Skipped 0 cells
+Estimated worst ans: 4910
+Processing row 1239 of 1700
+Skipped 0 cells
+Estimated worst ans: 4910
+Processing row 1240 of 1700
+Skipped 0 cells
+Estimated worst ans: 4910
+Processing row 1241 of 1700
+Skipped 0 cells
+Estimated worst ans: 4912
+Processing row 1242 of 1700
+Skipped 0 cells
+Estimated worst ans: 4915
+Processing row 1243 of 1700
+Skipped 0 cells
+Estimated worst ans: 4919
+Processing row 1244 of 1700
+Skipped 0 cells
+Estimated worst ans: 4919
+Processing row 1245 of 1700
+Skipped 0 cells
+Estimated worst ans: 4921
+Processing row 1246 of 1700
+Skipped 0 cells
+Estimated worst ans: 4922
+Processing row 1247 of 1700
+Skipped 0 cells
+Estimated worst ans: 4927
+Processing row 1248 of 1700
+Skipped 0 cells
+Estimated worst ans: 4927
+Processing row 1249 of 1700
+Skipped 0 cells
+Estimated worst ans: 4927
+Processing row 1250 of 1700
+Skipped 0 cells
+Estimated worst ans: 4928
+Processing row 1251 of 1700
+Skipped 0 cells
+Estimated worst ans: 4930
+Processing row 1252 of 1700
+Skipped 0 cells
+Estimated worst ans: 4935
+Processing row 1253 of 1700
+Skipped 0 cells
+Estimated worst ans: 4935
+Processing row 1254 of 1700
+Skipped 0 cells
+Estimated worst ans: 4937
+Processing row 1255 of 1700
+Skipped 0 cells
+Estimated worst ans: 4938
+Processing row 1256 of 1700
+Skipped 0 cells
+Estimated worst ans: 4938
+Processing row 1257 of 1700
+Skipped 0 cells
+Estimated worst ans: 4940
+Processing row 1258 of 1700
+Skipped 0 cells
+Estimated worst ans: 4945
+Processing row 1259 of 1700
+Skipped 0 cells
+Estimated worst ans: 4947
+Processing row 1260 of 1700
+Skipped 0 cells
+Estimated worst ans: 4952
+Processing row 1261 of 1700
+Skipped 0 cells
+Estimated worst ans: 4957
+Processing row 1262 of 1700
+Skipped 0 cells
+Estimated worst ans: 4958
+Processing row 1263 of 1700
+Skipped 0 cells
+Estimated worst ans: 4959
+Processing row 1264 of 1700
+Skipped 0 cells
+Estimated worst ans: 4964
+Processing row 1265 of 1700
+Skipped 0 cells
+Estimated worst ans: 4964
+Processing row 1266 of 1700
+Skipped 0 cells
+Estimated worst ans: 4964
+Processing row 1267 of 1700
+Skipped 0 cells
+Estimated worst ans: 4964
+Processing row 1268 of 1700
+Skipped 0 cells
+Estimated worst ans: 4968
+Processing row 1269 of 1700
+Skipped 0 cells
+Estimated worst ans: 4968
+Processing row 1270 of 1700
+Skipped 0 cells
+Estimated worst ans: 4971
+Processing row 1271 of 1700
+Skipped 0 cells
+Estimated worst ans: 4971
+Processing row 1272 of 1700
+Skipped 0 cells
+Estimated worst ans: 4973
+Processing row 1273 of 1700
+Skipped 0 cells
+Estimated worst ans: 4974
+Processing row 1274 of 1700
+Skipped 0 cells
+Estimated worst ans: 4979
+Processing row 1275 of 1700
+Skipped 0 cells
+Estimated worst ans: 4979
+Processing row 1276 of 1700
+Skipped 0 cells
+Estimated worst ans: 4980
+Processing row 1277 of 1700
+Skipped 0 cells
+Estimated worst ans: 4980
+Processing row 1278 of 1700
+Skipped 0 cells
+Estimated worst ans: 4980
+Processing row 1279 of 1700
+Skipped 0 cells
+Estimated worst ans: 4983
+Processing row 1280 of 1700
+Skipped 0 cells
+Estimated worst ans: 4988
+Processing row 1281 of 1700
+Skipped 0 cells
+Estimated worst ans: 4993
+Processing row 1282 of 1700
+Skipped 0 cells
+Estimated worst ans: 4994
+Processing row 1283 of 1700
+Skipped 0 cells
+Estimated worst ans: 4994
+Processing row 1284 of 1700
+Skipped 0 cells
+Estimated worst ans: 4996
+Processing row 1285 of 1700
+Skipped 0 cells
+Estimated worst ans: 4996
+Processing row 1286 of 1700
+Skipped 0 cells
+Estimated worst ans: 4996
+Processing row 1287 of 1700
+Skipped 0 cells
+Estimated worst ans: 4996
+Processing row 1288 of 1700
+Skipped 0 cells
+Estimated worst ans: 4998
+Processing row 1289 of 1700
+Skipped 0 cells
+Estimated worst ans: 4999
+Processing row 1290 of 1700
+Skipped 0 cells
+Estimated worst ans: 4999
+Processing row 1291 of 1700
+Skipped 0 cells
+Estimated worst ans: 5000
+Processing row 1292 of 1700
+Skipped 0 cells
+Estimated worst ans: 5000
+Processing row 1293 of 1700
+Skipped 0 cells
+Estimated worst ans: 5000
+Processing row 1294 of 1700
+Skipped 0 cells
+Estimated worst ans: 5003
+Processing row 1295 of 1700
+Skipped 0 cells
+Estimated worst ans: 5015
+Processing row 1296 of 1700
+Skipped 0 cells
+Estimated worst ans: 5028
+Processing row 1297 of 1700
+Skipped 0 cells
+Estimated worst ans: 5028
+Processing row 1298 of 1700
+Skipped 0 cells
+Estimated worst ans: 5028
+Processing row 1299 of 1700
+Skipped 0 cells
+Estimated worst ans: 5028
+Processing row 1300 of 1700
+Skipped 0 cells
+Estimated worst ans: 5032
+Processing row 1301 of 1700
+Skipped 0 cells
+Estimated worst ans: 5037
+Processing row 1302 of 1700
+Skipped 0 cells
+Estimated worst ans: 5042
+Processing row 1303 of 1700
+Skipped 0 cells
+Estimated worst ans: 5047
+Processing row 1304 of 1700
+Skipped 0 cells
+Estimated worst ans: 5047
+Processing row 1305 of 1700
+Skipped 0 cells
+Estimated worst ans: 5049
+Processing row 1306 of 1700
+Skipped 0 cells
+Estimated worst ans: 5059
+Processing row 1307 of 1700
+Skipped 0 cells
+Estimated worst ans: 5059
+Processing row 1308 of 1700
+Skipped 0 cells
+Estimated worst ans: 5059
+Processing row 1309 of 1700
+Skipped 0 cells
+Estimated worst ans: 5059
+Processing row 1310 of 1700
+Skipped 0 cells
+Estimated worst ans: 5059
+Processing row 1311 of 1700
+Skipped 0 cells
+Estimated worst ans: 5059
+Processing row 1312 of 1700
+Skipped 0 cells
+Estimated worst ans: 5059
+Processing row 1313 of 1700
+Skipped 0 cells
+Estimated worst ans: 5059
+Processing row 1314 of 1700
+Skipped 0 cells
+Estimated worst ans: 5063
+Processing row 1315 of 1700
+Skipped 0 cells
+Estimated worst ans: 5063
+Processing row 1316 of 1700
+Skipped 0 cells
+Estimated worst ans: 5066
+Processing row 1317 of 1700
+Skipped 0 cells
+Estimated worst ans: 5067
+Processing row 1318 of 1700
+Skipped 0 cells
+Estimated worst ans: 5067
+Processing row 1319 of 1700
+Skipped 0 cells
+Estimated worst ans: 5069
+Processing row 1320 of 1700
+Skipped 0 cells
+Estimated worst ans: 5074
+Processing row 1321 of 1700
+Skipped 0 cells
+Estimated worst ans: 5075
+Processing row 1322 of 1700
+Skipped 0 cells
+Estimated worst ans: 5075
+Processing row 1323 of 1700
+Skipped 0 cells
+Estimated worst ans: 5075
+Processing row 1324 of 1700
+Skipped 0 cells
+Estimated worst ans: 5075
+Processing row 1325 of 1700
+Skipped 0 cells
+Estimated worst ans: 5075
+Processing row 1326 of 1700
+Skipped 0 cells
+Estimated worst ans: 5076
+Processing row 1327 of 1700
+Skipped 0 cells
+Estimated worst ans: 5076
+Processing row 1328 of 1700
+Skipped 0 cells
+Estimated worst ans: 5080
+Processing row 1329 of 1700
+Skipped 0 cells
+Estimated worst ans: 5080
+Processing row 1330 of 1700
+Skipped 0 cells
+Estimated worst ans: 5082
+Processing row 1331 of 1700
+Skipped 0 cells
+Estimated worst ans: 5082
+Processing row 1332 of 1700
+Skipped 0 cells
+Estimated worst ans: 5083
+Processing row 1333 of 1700
+Skipped 0 cells
+Estimated worst ans: 5088
+Processing row 1334 of 1700
+Skipped 0 cells
+Estimated worst ans: 5091
+Processing row 1335 of 1700
+Skipped 0 cells
+Estimated worst ans: 5093
+Processing row 1336 of 1700
+Skipped 0 cells
+Estimated worst ans: 5097
+Processing row 1337 of 1700
+Skipped 0 cells
+Estimated worst ans: 5103
+Processing row 1338 of 1700
+Skipped 0 cells
+Estimated worst ans: 5104
+Processing row 1339 of 1700
+Skipped 0 cells
+Estimated worst ans: 5104
+Processing row 1340 of 1700
+Skipped 0 cells
+Estimated worst ans: 5108
+Processing row 1341 of 1700
+Skipped 0 cells
+Estimated worst ans: 5113
+Processing row 1342 of 1700
+Skipped 0 cells
+Estimated worst ans: 5114
+Processing row 1343 of 1700
+Skipped 0 cells
+Estimated worst ans: 5114
+Processing row 1344 of 1700
+Skipped 0 cells
+Estimated worst ans: 5118
+Processing row 1345 of 1700
+Skipped 0 cells
+Estimated worst ans: 5118
+Processing row 1346 of 1700
+Skipped 0 cells
+Estimated worst ans: 5118
+Processing row 1347 of 1700
+Skipped 0 cells
+Estimated worst ans: 5118
+Processing row 1348 of 1700
+Skipped 0 cells
+Estimated worst ans: 5120
+Processing row 1349 of 1700
+Skipped 0 cells
+Estimated worst ans: 5122
+Processing row 1350 of 1700
+Skipped 0 cells
+Estimated worst ans: 5124
+Processing row 1351 of 1700
+Skipped 0 cells
+Estimated worst ans: 5125
+Processing row 1352 of 1700
+Skipped 0 cells
+Estimated worst ans: 5128
+Processing row 1353 of 1700
+Skipped 0 cells
+Estimated worst ans: 5129
+Processing row 1354 of 1700
+Skipped 0 cells
+Estimated worst ans: 5129
+Processing row 1355 of 1700
+Skipped 0 cells
+Estimated worst ans: 5129
+Processing row 1356 of 1700
+Skipped 0 cells
+Estimated worst ans: 5133
+Processing row 1357 of 1700
+Skipped 0 cells
+Estimated worst ans: 5138
+Processing row 1358 of 1700
+Skipped 0 cells
+Estimated worst ans: 5138
+Processing row 1359 of 1700
+Skipped 0 cells
+Estimated worst ans: 5139
+Processing row 1360 of 1700
+Skipped 0 cells
+Estimated worst ans: 5144
+Processing row 1361 of 1700
+Skipped 0 cells
+Estimated worst ans: 5149
+Processing row 1362 of 1700
+Skipped 0 cells
+Estimated worst ans: 5149
+Processing row 1363 of 1700
+Skipped 0 cells
+Estimated worst ans: 5149
+Processing row 1364 of 1700
+Skipped 0 cells
+Estimated worst ans: 5149
+Processing row 1365 of 1700
+Skipped 0 cells
+Estimated worst ans: 5152
+Processing row 1366 of 1700
+Skipped 0 cells
+Estimated worst ans: 5156
+Processing row 1367 of 1700
+Skipped 0 cells
+Estimated worst ans: 5161
+Processing row 1368 of 1700
+Skipped 0 cells
+Estimated worst ans: 5166
+Processing row 1369 of 1700
+Skipped 0 cells
+Estimated worst ans: 5171
+Processing row 1370 of 1700
+Skipped 0 cells
+Estimated worst ans: 5176
+Processing row 1371 of 1700
+Skipped 0 cells
+Estimated worst ans: 5181
+Processing row 1372 of 1700
+Skipped 0 cells
+Estimated worst ans: 5186
+Processing row 1373 of 1700
+Skipped 0 cells
+Estimated worst ans: 5191
+Processing row 1374 of 1700
+Skipped 0 cells
+Estimated worst ans: 5197
+Processing row 1375 of 1700
+Skipped 0 cells
+Estimated worst ans: 5201
+Processing row 1376 of 1700
+Skipped 0 cells
+Estimated worst ans: 5206
+Processing row 1377 of 1700
+Skipped 0 cells
+Estimated worst ans: 5211
+Processing row 1378 of 1700
+Skipped 0 cells
+Estimated worst ans: 5216
+Processing row 1379 of 1700
+Skipped 0 cells
+Estimated worst ans: 5221
+Processing row 1380 of 1700
+Skipped 0 cells
+Estimated worst ans: 5226
+Processing row 1381 of 1700
+Skipped 0 cells
+Estimated worst ans: 5226
+Processing row 1382 of 1700
+Skipped 0 cells
+Estimated worst ans: 5228
+Processing row 1383 of 1700
+Skipped 0 cells
+Estimated worst ans: 5228
+Processing row 1384 of 1700
+Skipped 0 cells
+Estimated worst ans: 5231
+Processing row 1385 of 1700
+Skipped 0 cells
+Estimated worst ans: 5236
+Processing row 1386 of 1700
+Skipped 0 cells
+Estimated worst ans: 5241
+Processing row 1387 of 1700
+Skipped 0 cells
+Estimated worst ans: 5241
+Processing row 1388 of 1700
+Skipped 0 cells
+Estimated worst ans: 5243
+Processing row 1389 of 1700
+Skipped 0 cells
+Estimated worst ans: 5243
+Processing row 1390 of 1700
+Skipped 0 cells
+Estimated worst ans: 5243
+Processing row 1391 of 1700
+Skipped 0 cells
+Estimated worst ans: 5243
+Processing row 1392 of 1700
+Skipped 0 cells
+Estimated worst ans: 5243
+Processing row 1393 of 1700
+Skipped 0 cells
+Estimated worst ans: 5246
+Processing row 1394 of 1700
+Skipped 0 cells
+Estimated worst ans: 5250
+Processing row 1395 of 1700
+Skipped 0 cells
+Estimated worst ans: 5255
+Processing row 1396 of 1700
+Skipped 0 cells
+Estimated worst ans: 5260
+Processing row 1397 of 1700
+Skipped 0 cells
+Estimated worst ans: 5265
+Processing row 1398 of 1700
+Skipped 0 cells
+Estimated worst ans: 5270
+Processing row 1399 of 1700
+Skipped 0 cells
+Estimated worst ans: 5275
+Processing row 1400 of 1700
+Skipped 0 cells
+Estimated worst ans: 5280
+Processing row 1401 of 1700
+Skipped 0 cells
+Estimated worst ans: 5285
+Processing row 1402 of 1700
+Skipped 0 cells
+Estimated worst ans: 5290
+Processing row 1403 of 1700
+Skipped 0 cells
+Estimated worst ans: 5295
+Processing row 1404 of 1700
+Skipped 0 cells
+Estimated worst ans: 5300
+Processing row 1405 of 1700
+Skipped 0 cells
+Estimated worst ans: 5305
+Processing row 1406 of 1700
+Skipped 0 cells
+Estimated worst ans: 5310
+Processing row 1407 of 1700
+Skipped 0 cells
+Estimated worst ans: 5315
+Processing row 1408 of 1700
+Skipped 0 cells
+Estimated worst ans: 5320
+Processing row 1409 of 1700
+Skipped 0 cells
+Estimated worst ans: 5325
+Processing row 1410 of 1700
+Skipped 0 cells
+Estimated worst ans: 5330
+Processing row 1411 of 1700
+Skipped 0 cells
+Estimated worst ans: 5335
+Processing row 1412 of 1700
+Skipped 0 cells
+Estimated worst ans: 5340
+Processing row 1413 of 1700
+Skipped 0 cells
+Estimated worst ans: 5345
+Processing row 1414 of 1700
+Skipped 0 cells
+Estimated worst ans: 5350
+Processing row 1415 of 1700
+Skipped 0 cells
+Estimated worst ans: 5355
+Processing row 1416 of 1700
+Skipped 0 cells
+Estimated worst ans: 5360
+Processing row 1417 of 1700
+Skipped 0 cells
+Estimated worst ans: 5365
+Processing row 1418 of 1700
+Skipped 0 cells
+Estimated worst ans: 5370
+Processing row 1419 of 1700
+Skipped 0 cells
+Estimated worst ans: 5375
+Processing row 1420 of 1700
+Skipped 0 cells
+Estimated worst ans: 5380
+Processing row 1421 of 1700
+Skipped 0 cells
+Estimated worst ans: 5385
+Processing row 1422 of 1700
+Skipped 0 cells
+Estimated worst ans: 5390
+Processing row 1423 of 1700
+Skipped 0 cells
+Estimated worst ans: 5395
+Processing row 1424 of 1700
+Skipped 0 cells
+Estimated worst ans: 5400
+Processing row 1425 of 1700
+Skipped 0 cells
+Estimated worst ans: 5405
+Processing row 1426 of 1700
+Skipped 0 cells
+Estimated worst ans: 5410
+Processing row 1427 of 1700
+Skipped 0 cells
+Estimated worst ans: 5415
+Processing row 1428 of 1700
+Skipped 0 cells
+Estimated worst ans: 5415
+Processing row 1429 of 1700
+Skipped 0 cells
+Estimated worst ans: 5415
+Processing row 1430 of 1700
+Skipped 0 cells
+Estimated worst ans: 5415
+Processing row 1431 of 1700
+Skipped 0 cells
+Estimated worst ans: 5420
+Processing row 1432 of 1700
+Skipped 0 cells
+Estimated worst ans: 5425
+Processing row 1433 of 1700
+Skipped 0 cells
+Estimated worst ans: 5430
+Processing row 1434 of 1700
+Skipped 0 cells
+Estimated worst ans: 5435
+Processing row 1435 of 1700
+Skipped 0 cells
+Estimated worst ans: 5440
+Processing row 1436 of 1700
+Skipped 0 cells
+Estimated worst ans: 5445
+Processing row 1437 of 1700
+Skipped 0 cells
+Estimated worst ans: 5450
+Processing row 1438 of 1700
+Skipped 0 cells
+Estimated worst ans: 5455
+Processing row 1439 of 1700
+Skipped 0 cells
+Estimated worst ans: 5460
+Processing row 1440 of 1700
+Skipped 0 cells
+Estimated worst ans: 5465
+Processing row 1441 of 1700
+Skipped 0 cells
+Estimated worst ans: 5465
+Processing row 1442 of 1700
+Skipped 0 cells
+Estimated worst ans: 5467
+Processing row 1443 of 1700
+Skipped 0 cells
+Estimated worst ans: 5472
+Processing row 1444 of 1700
+Skipped 0 cells
+Estimated worst ans: 5477
+Processing row 1445 of 1700
+Skipped 0 cells
+Estimated worst ans: 5482
+Processing row 1446 of 1700
+Skipped 0 cells
+Estimated worst ans: 5487
+Processing row 1447 of 1700
+Skipped 0 cells
+Estimated worst ans: 5492
+Processing row 1448 of 1700
+Skipped 0 cells
+Estimated worst ans: 5497
+Processing row 1449 of 1700
+Skipped 0 cells
+Estimated worst ans: 5502
+Processing row 1450 of 1700
+Skipped 0 cells
+Estimated worst ans: 5507
+Processing row 1451 of 1700
+Skipped 0 cells
+Estimated worst ans: 5512
+Processing row 1452 of 1700
+Skipped 0 cells
+Estimated worst ans: 5517
+Processing row 1453 of 1700
+Skipped 0 cells
+Estimated worst ans: 5522
+Processing row 1454 of 1700
+Skipped 0 cells
+Estimated worst ans: 5527
+Processing row 1455 of 1700
+Skipped 0 cells
+Estimated worst ans: 5532
+Processing row 1456 of 1700
+Skipped 0 cells
+Estimated worst ans: 5537
+Processing row 1457 of 1700
+Skipped 0 cells
+Estimated worst ans: 5542
+Processing row 1458 of 1700
+Skipped 0 cells
+Estimated worst ans: 5547
+Processing row 1459 of 1700
+Skipped 0 cells
+Estimated worst ans: 5552
+Processing row 1460 of 1700
+Skipped 0 cells
+Estimated worst ans: 5557
+Processing row 1461 of 1700
+Skipped 0 cells
+Estimated worst ans: 5562
+Processing row 1462 of 1700
+Skipped 0 cells
+Estimated worst ans: 5567
+Processing row 1463 of 1700
+Skipped 0 cells
+Estimated worst ans: 5572
+Processing row 1464 of 1700
+Skipped 0 cells
+Estimated worst ans: 5577
+Processing row 1465 of 1700
+Skipped 0 cells
+Estimated worst ans: 5582
+Processing row 1466 of 1700
+Skipped 0 cells
+Estimated worst ans: 5587
+Processing row 1467 of 1700
+Skipped 0 cells
+Estimated worst ans: 5592
+Processing row 1468 of 1700
+Skipped 0 cells
+Estimated worst ans: 5597
+Processing row 1469 of 1700
+Skipped 0 cells
+Estimated worst ans: 5602
+Processing row 1470 of 1700
+Skipped 0 cells
+Estimated worst ans: 5607
+Processing row 1471 of 1700
+Skipped 0 cells
+Estimated worst ans: 5612
+Processing row 1472 of 1700
+Skipped 0 cells
+Estimated worst ans: 5617
+Processing row 1473 of 1700
+Skipped 0 cells
+Estimated worst ans: 5622
+Processing row 1474 of 1700
+Skipped 0 cells
+Estimated worst ans: 5627
+Processing row 1475 of 1700
+Skipped 0 cells
+Estimated worst ans: 5632
+Processing row 1476 of 1700
+Skipped 0 cells
+Estimated worst ans: 5637
+Processing row 1477 of 1700
+Skipped 0 cells
+Estimated worst ans: 5642
+Processing row 1478 of 1700
+Skipped 0 cells
+Estimated worst ans: 5647
+Processing row 1479 of 1700
+Skipped 0 cells
+Estimated worst ans: 5652
+Processing row 1480 of 1700
+Skipped 0 cells
+Estimated worst ans: 5657
+Processing row 1481 of 1700
+Skipped 0 cells
+Estimated worst ans: 5662
+Processing row 1482 of 1700
+Skipped 0 cells
+Estimated worst ans: 5667
+Processing row 1483 of 1700
+Skipped 0 cells
+Estimated worst ans: 5672
+Processing row 1484 of 1700
+Skipped 0 cells
+Estimated worst ans: 5677
+Processing row 1485 of 1700
+Skipped 0 cells
+Estimated worst ans: 5677
+Processing row 1486 of 1700
+Skipped 0 cells
+Estimated worst ans: 5680
+Processing row 1487 of 1700
+Skipped 0 cells
+Estimated worst ans: 5685
+Processing row 1488 of 1700
+Skipped 0 cells
+Estimated worst ans: 5690
+Processing row 1489 of 1700
+Skipped 0 cells
+Estimated worst ans: 5695
+Processing row 1490 of 1700
+Skipped 0 cells
+Estimated worst ans: 5700
+Processing row 1491 of 1700
+Skipped 0 cells
+Estimated worst ans: 5705
+Processing row 1492 of 1700
+Skipped 0 cells
+Estimated worst ans: 5710
+Processing row 1493 of 1700
+Skipped 0 cells
+Estimated worst ans: 5715
+Processing row 1494 of 1700
+Skipped 0 cells
+Estimated worst ans: 5720
+Processing row 1495 of 1700
+Skipped 0 cells
+Estimated worst ans: 5725
+Processing row 1496 of 1700
+Skipped 0 cells
+Estimated worst ans: 5730
+Processing row 1497 of 1700
+Skipped 0 cells
+Estimated worst ans: 5735
+Processing row 1498 of 1700
+Skipped 0 cells
+Estimated worst ans: 5740
+Processing row 1499 of 1700
+Skipped 0 cells
+Estimated worst ans: 5740
+Processing row 1500 of 1700
+Skipped 0 cells
+Estimated worst ans: 5742
+Processing row 1501 of 1700
+Skipped 0 cells
+Estimated worst ans: 5742
+Processing row 1502 of 1700
+Skipped 0 cells
+Estimated worst ans: 5743
+Processing row 1503 of 1700
+Skipped 0 cells
+Estimated worst ans: 5748
+Processing row 1504 of 1700
+Skipped 0 cells
+Estimated worst ans: 5748
+Processing row 1505 of 1700
+Skipped 0 cells
+Estimated worst ans: 5748
+Processing row 1506 of 1700
+Skipped 0 cells
+Estimated worst ans: 5752
+Processing row 1507 of 1700
+Skipped 0 cells
+Estimated worst ans: 5757
+Processing row 1508 of 1700
+Skipped 0 cells
+Estimated worst ans: 5757
+Processing row 1509 of 1700
+Skipped 0 cells
+Estimated worst ans: 5759
+Processing row 1510 of 1700
+Skipped 0 cells
+Estimated worst ans: 5763
+Processing row 1511 of 1700
+Skipped 0 cells
+Estimated worst ans: 5763
+Processing row 1512 of 1700
+Skipped 0 cells
+Estimated worst ans: 5768
+Processing row 1513 of 1700
+Skipped 0 cells
+Estimated worst ans: 5770
+Processing row 1514 of 1700
+Skipped 0 cells
+Estimated worst ans: 5771
+Processing row 1515 of 1700
+Skipped 0 cells
+Estimated worst ans: 5773
+Processing row 1516 of 1700
+Skipped 0 cells
+Estimated worst ans: 5773
+Processing row 1517 of 1700
+Skipped 0 cells
+Estimated worst ans: 5775
+Processing row 1518 of 1700
+Skipped 0 cells
+Estimated worst ans: 5775
+Processing row 1519 of 1700
+Skipped 0 cells
+Estimated worst ans: 5775
+Processing row 1520 of 1700
+Skipped 0 cells
+Estimated worst ans: 5775
+Processing row 1521 of 1700
+Skipped 0 cells
+Estimated worst ans: 5780
+Processing row 1522 of 1700
+Skipped 0 cells
+Estimated worst ans: 5780
+Processing row 1523 of 1700
+Skipped 0 cells
+Estimated worst ans: 5781
+Processing row 1524 of 1700
+Skipped 0 cells
+Estimated worst ans: 5782
+Processing row 1525 of 1700
+Skipped 0 cells
+Estimated worst ans: 5783
+Processing row 1526 of 1700
+Skipped 0 cells
+Estimated worst ans: 5788
+Processing row 1527 of 1700
+Skipped 0 cells
+Estimated worst ans: 5793
+Processing row 1528 of 1700
+Skipped 0 cells
+Estimated worst ans: 5793
+Processing row 1529 of 1700
+Skipped 0 cells
+Estimated worst ans: 5798
+Processing row 1530 of 1700
+Skipped 0 cells
+Estimated worst ans: 5799
+Processing row 1531 of 1700
+Skipped 0 cells
+Estimated worst ans: 5804
+Processing row 1532 of 1700
+Skipped 0 cells
+Estimated worst ans: 5807
+Processing row 1533 of 1700
+Skipped 0 cells
+Estimated worst ans: 5810
+Processing row 1534 of 1700
+Skipped 0 cells
+Estimated worst ans: 5810
+Processing row 1535 of 1700
+Skipped 0 cells
+Estimated worst ans: 5812
+Processing row 1536 of 1700
+Skipped 0 cells
+Estimated worst ans: 5816
+Processing row 1537 of 1700
+Skipped 0 cells
+Estimated worst ans: 5816
+Processing row 1538 of 1700
+Skipped 0 cells
+Estimated worst ans: 5816
+Processing row 1539 of 1700
+Skipped 0 cells
+Estimated worst ans: 5816
+Processing row 1540 of 1700
+Skipped 0 cells
+Estimated worst ans: 5821
+Processing row 1541 of 1700
+Skipped 0 cells
+Estimated worst ans: 5821
+Processing row 1542 of 1700
+Skipped 0 cells
+Estimated worst ans: 5821
+Processing row 1543 of 1700
+Skipped 0 cells
+Estimated worst ans: 5821
+Processing row 1544 of 1700
+Skipped 0 cells
+Estimated worst ans: 5821
+Processing row 1545 of 1700
+Skipped 0 cells
+Estimated worst ans: 5824
+Processing row 1546 of 1700
+Skipped 0 cells
+Estimated worst ans: 5829
+Processing row 1547 of 1700
+Skipped 0 cells
+Estimated worst ans: 5829
+Processing row 1548 of 1700
+Skipped 0 cells
+Estimated worst ans: 5829
+Processing row 1549 of 1700
+Skipped 0 cells
+Estimated worst ans: 5834
+Processing row 1550 of 1700
+Skipped 0 cells
+Estimated worst ans: 5834
+Processing row 1551 of 1700
+Skipped 0 cells
+Estimated worst ans: 5834
+Processing row 1552 of 1700
+Skipped 0 cells
+Estimated worst ans: 5834
+Processing row 1553 of 1700
+Skipped 0 cells
+Estimated worst ans: 5834
+Processing row 1554 of 1700
+Skipped 0 cells
+Estimated worst ans: 5834
+Processing row 1555 of 1700
+Skipped 0 cells
+Estimated worst ans: 5837
+Processing row 1556 of 1700
+Skipped 0 cells
+Estimated worst ans: 5837
+Processing row 1557 of 1700
+Skipped 0 cells
+Estimated worst ans: 5839
+Processing row 1558 of 1700
+Skipped 0 cells
+Estimated worst ans: 5844
+Processing row 1559 of 1700
+Skipped 0 cells
+Estimated worst ans: 5845
+Processing row 1560 of 1700
+Skipped 0 cells
+Estimated worst ans: 5845
+Processing row 1561 of 1700
+Skipped 0 cells
+Estimated worst ans: 5846
+Processing row 1562 of 1700
+Skipped 0 cells
+Estimated worst ans: 5846
+Processing row 1563 of 1700
+Skipped 0 cells
+Estimated worst ans: 5846
+Processing row 1564 of 1700
+Skipped 0 cells
+Estimated worst ans: 5846
+Processing row 1565 of 1700
+Skipped 0 cells
+Estimated worst ans: 5847
+Processing row 1566 of 1700
+Skipped 0 cells
+Estimated worst ans: 5848
+Processing row 1567 of 1700
+Skipped 0 cells
+Estimated worst ans: 5850
+Processing row 1568 of 1700
+Skipped 0 cells
+Estimated worst ans: 5858
+Processing row 1569 of 1700
+Skipped 0 cells
+Estimated worst ans: 5860
+Processing row 1570 of 1700
+Skipped 0 cells
+Estimated worst ans: 5865
+Processing row 1571 of 1700
+Skipped 0 cells
+Estimated worst ans: 5865
+Processing row 1572 of 1700
+Skipped 0 cells
+Estimated worst ans: 5866
+Processing row 1573 of 1700
+Skipped 0 cells
+Estimated worst ans: 5871
+Processing row 1574 of 1700
+Skipped 0 cells
+Estimated worst ans: 5876
+Processing row 1575 of 1700
+Skipped 0 cells
+Estimated worst ans: 5881
+Processing row 1576 of 1700
+Skipped 0 cells
+Estimated worst ans: 5886
+Processing row 1577 of 1700
+Skipped 0 cells
+Estimated worst ans: 5891
+Processing row 1578 of 1700
+Skipped 0 cells
+Estimated worst ans: 5896
+Processing row 1579 of 1700
+Skipped 0 cells
+Estimated worst ans: 5901
+Processing row 1580 of 1700
+Skipped 0 cells
+Estimated worst ans: 5906
+Processing row 1581 of 1700
+Skipped 0 cells
+Estimated worst ans: 5911
+Processing row 1582 of 1700
+Skipped 0 cells
+Estimated worst ans: 5916
+Processing row 1583 of 1700
+Skipped 0 cells
+Estimated worst ans: 5921
+Processing row 1584 of 1700
+Skipped 0 cells
+Estimated worst ans: 5926
+Processing row 1585 of 1700
+Skipped 0 cells
+Estimated worst ans: 5931
+Processing row 1586 of 1700
+Skipped 0 cells
+Estimated worst ans: 5936
+Processing row 1587 of 1700
+Skipped 0 cells
+Estimated worst ans: 5941
+Processing row 1588 of 1700
+Skipped 0 cells
+Estimated worst ans: 5946
+Processing row 1589 of 1700
+Skipped 0 cells
+Estimated worst ans: 5951
+Processing row 1590 of 1700
+Skipped 0 cells
+Estimated worst ans: 5956
+Processing row 1591 of 1700
+Skipped 0 cells
+Estimated worst ans: 5961
+Processing row 1592 of 1700
+Skipped 0 cells
+Estimated worst ans: 5966
+Processing row 1593 of 1700
+Skipped 0 cells
+Estimated worst ans: 5971
+Processing row 1594 of 1700
+Skipped 0 cells
+Estimated worst ans: 5976
+Processing row 1595 of 1700
+Skipped 0 cells
+Estimated worst ans: 5982
+Processing row 1596 of 1700
+Skipped 0 cells
+Estimated worst ans: 5987
+Processing row 1597 of 1700
+Skipped 0 cells
+Estimated worst ans: 5992
+Processing row 1598 of 1700
+Skipped 0 cells
+Estimated worst ans: 5996
+Processing row 1599 of 1700
+Skipped 0 cells
+Estimated worst ans: 6001
+Processing row 1600 of 1700
+Skipped 0 cells
+Estimated worst ans: 6006
+Processing row 1601 of 1700
+Skipped 0 cells
+Estimated worst ans: 6011
+Processing row 1602 of 1700
+Skipped 0 cells
+Estimated worst ans: 6016
+Processing row 1603 of 1700
+Skipped 0 cells
+Estimated worst ans: 6016
+Processing row 1604 of 1700
+Skipped 0 cells
+Estimated worst ans: 6018
+Processing row 1605 of 1700
+Skipped 0 cells
+Estimated worst ans: 6023
+Processing row 1606 of 1700
+Skipped 0 cells
+Estimated worst ans: 6028
+Processing row 1607 of 1700
+Skipped 0 cells
+Estimated worst ans: 6028
+Processing row 1608 of 1700
+Skipped 0 cells
+Estimated worst ans: 6031
+Processing row 1609 of 1700
+Skipped 0 cells
+Estimated worst ans: 6036
+Processing row 1610 of 1700
+Skipped 0 cells
+Estimated worst ans: 6041
+Processing row 1611 of 1700
+Skipped 0 cells
+Estimated worst ans: 6046
+Processing row 1612 of 1700
+Skipped 0 cells
+Estimated worst ans: 6051
+Processing row 1613 of 1700
+Skipped 0 cells
+Estimated worst ans: 6056
+Processing row 1614 of 1700
+Skipped 0 cells
+Estimated worst ans: 6061
+Processing row 1615 of 1700
+Skipped 0 cells
+Estimated worst ans: 6066
+Processing row 1616 of 1700
+Skipped 0 cells
+Estimated worst ans: 6071
+Processing row 1617 of 1700
+Skipped 0 cells
+Estimated worst ans: 6076
+Processing row 1618 of 1700
+Skipped 0 cells
+Estimated worst ans: 6081
+Processing row 1619 of 1700
+Skipped 0 cells
+Estimated worst ans: 6086
+Processing row 1620 of 1700
+Skipped 0 cells
+Estimated worst ans: 6091
+Processing row 1621 of 1700
+Skipped 0 cells
+Estimated worst ans: 6096
+Processing row 1622 of 1700
+Skipped 0 cells
+Estimated worst ans: 6101
+Processing row 1623 of 1700
+Skipped 0 cells
+Estimated worst ans: 6106
+Processing row 1624 of 1700
+Skipped 0 cells
+Estimated worst ans: 6111
+Processing row 1625 of 1700
+Skipped 0 cells
+Estimated worst ans: 6116
+Processing row 1626 of 1700
+Skipped 0 cells
+Estimated worst ans: 6121
+Processing row 1627 of 1700
+Skipped 0 cells
+Estimated worst ans: 6126
+Processing row 1628 of 1700
+Skipped 0 cells
+Estimated worst ans: 6131
+Processing row 1629 of 1700
+Skipped 0 cells
+Estimated worst ans: 6136
+Processing row 1630 of 1700
+Skipped 0 cells
+Estimated worst ans: 6141
+Processing row 1631 of 1700
+Skipped 0 cells
+Estimated worst ans: 6146
+Processing row 1632 of 1700
+Skipped 0 cells
+Estimated worst ans: 6151
+Processing row 1633 of 1700
+Skipped 0 cells
+Estimated worst ans: 6156
+Processing row 1634 of 1700
+Skipped 0 cells
+Estimated worst ans: 6161
+Processing row 1635 of 1700
+Skipped 0 cells
+Estimated worst ans: 6166
+Processing row 1636 of 1700
+Skipped 0 cells
+Estimated worst ans: 6166
+Processing row 1637 of 1700
+Skipped 0 cells
+Estimated worst ans: 6169
+Processing row 1638 of 1700
+Skipped 0 cells
+Estimated worst ans: 6174
+Processing row 1639 of 1700
+Skipped 0 cells
+Estimated worst ans: 6179
+Processing row 1640 of 1700
+Skipped 0 cells
+Estimated worst ans: 6184
+Processing row 1641 of 1700
+Skipped 0 cells
+Estimated worst ans: 6189
+Processing row 1642 of 1700
+Skipped 0 cells
+Estimated worst ans: 6194
+Processing row 1643 of 1700
+Skipped 0 cells
+Estimated worst ans: 6199
+Processing row 1644 of 1700
+Skipped 0 cells
+Estimated worst ans: 6204
+Processing row 1645 of 1700
+Skipped 0 cells
+Estimated worst ans: 6209
+Processing row 1646 of 1700
+Skipped 0 cells
+Estimated worst ans: 6214
+Processing row 1647 of 1700
+Skipped 0 cells
+Estimated worst ans: 6219
+Processing row 1648 of 1700
+Skipped 0 cells
+Estimated worst ans: 6224
+Processing row 1649 of 1700
+Skipped 0 cells
+Estimated worst ans: 6229
+Processing row 1650 of 1700
+Skipped 0 cells
+Estimated worst ans: 6234
+Processing row 1651 of 1700
+Skipped 0 cells
+Estimated worst ans: 6239
+Processing row 1652 of 1700
+Skipped 0 cells
+Estimated worst ans: 6244
+Processing row 1653 of 1700
+Skipped 0 cells
+Estimated worst ans: 6249
+Processing row 1654 of 1700
+Skipped 0 cells
+Estimated worst ans: 6254
+Processing row 1655 of 1700
+Skipped 0 cells
+Estimated worst ans: 6259
+Processing row 1656 of 1700
+Skipped 0 cells
+Estimated worst ans: 6264
+Processing row 1657 of 1700
+Skipped 0 cells
+Estimated worst ans: 6269
+Processing row 1658 of 1700
+Skipped 0 cells
+Estimated worst ans: 6274
+Processing row 1659 of 1700
+Skipped 0 cells
+Estimated worst ans: 6279
+Processing row 1660 of 1700
+Skipped 0 cells
+Estimated worst ans: 6284
+Processing row 1661 of 1700
+Skipped 0 cells
+Estimated worst ans: 6289
+Processing row 1662 of 1700
+Skipped 0 cells
+Estimated worst ans: 6294
+Processing row 1663 of 1700
+Skipped 0 cells
+Estimated worst ans: 6299
+Processing row 1664 of 1700
+Skipped 0 cells
+Estimated worst ans: 6304
+Processing row 1665 of 1700
+Skipped 0 cells
+Estimated worst ans: 6310
+Processing row 1666 of 1700
+Skipped 0 cells
+Estimated worst ans: 6314
+Processing row 1667 of 1700
+Skipped 0 cells
+Estimated worst ans: 6319
+Processing row 1668 of 1700
+Skipped 0 cells
+Estimated worst ans: 6324
+Processing row 1669 of 1700
+Skipped 0 cells
+Estimated worst ans: 6329
+Processing row 1670 of 1700
+Skipped 0 cells
+Estimated worst ans: 6334
+Processing row 1671 of 1700
+Skipped 0 cells
+Estimated worst ans: 6339
+Processing row 1672 of 1700
+Skipped 0 cells
+Estimated worst ans: 6344
+Processing row 1673 of 1700
+Skipped 0 cells
+Estimated worst ans: 6349
+Processing row 1674 of 1700
+Skipped 0 cells
+Estimated worst ans: 6354
+Processing row 1675 of 1700
+Skipped 0 cells
+Estimated worst ans: 6359
+Processing row 1676 of 1700
+Skipped 0 cells
+Estimated worst ans: 6364
+Processing row 1677 of 1700
+Skipped 0 cells
+Estimated worst ans: 6369
+Processing row 1678 of 1700
+Skipped 0 cells
+Estimated worst ans: 6374
+Processing row 1679 of 1700
+Skipped 0 cells
+Estimated worst ans: 6379
+Processing row 1680 of 1700
+Skipped 0 cells
+Estimated worst ans: 6379
+Processing row 1681 of 1700
+Skipped 0 cells
+Estimated worst ans: 6382
+Processing row 1682 of 1700
+Skipped 0 cells
+Estimated worst ans: 6386
+Processing row 1683 of 1700
+Skipped 0 cells
+Estimated worst ans: 6391
+Processing row 1684 of 1700
+Skipped 0 cells
+Estimated worst ans: 6396
+Processing row 1685 of 1700
+Skipped 0 cells
+Estimated worst ans: 6401
+Processing row 1686 of 1700
+Skipped 0 cells
+Estimated worst ans: 6406
+Processing row 1687 of 1700
+Skipped 0 cells
+Estimated worst ans: 6411
+Processing row 1688 of 1700
+Skipped 0 cells
+Estimated worst ans: 6416
+Processing row 1689 of 1700
+Skipped 0 cells
+Estimated worst ans: 6421
+Processing row 1690 of 1700
+Skipped 0 cells
+Estimated worst ans: 6428
+Processing row 1691 of 1700
+Skipped 0 cells
+Estimated worst ans: 6443
+Processing row 1692 of 1700
+Skipped 0 cells
+Estimated worst ans: 6444
+Processing row 1693 of 1700
+Skipped 0 cells
+Estimated worst ans: 6445
+Processing row 1694 of 1700
+Skipped 0 cells
+Estimated worst ans: 6446
+Processing row 1695 of 1700
+Skipped 0 cells
+Estimated worst ans: 6451
+Processing row 1696 of 1700
+Skipped 0 cells
+Estimated worst ans: 6456
+Processing row 1697 of 1700
+Skipped 0 cells
+Estimated worst ans: 6461
+Processing row 1698 of 1700
+Skipped 0 cells
+Estimated worst ans: 6466
+Processing row 1699 of 1700
+Skipped 0 cells
+i: 1700, j: 2500,ri -1, inv 0
+i: 1699, j: 2499,ri -1, inv 0
+i: 1698, j: 2498,ri -1, inv 0
+i: 1697, j: 2497,ri -1, inv 2
+i: 1696, j: 2496,ri -1, inv 2
+i: 1695, j: 2495,ri -1, inv 0
+i: 1694, j: 2494,ri -1, inv 0
+i: 1693, j: 2493,ri -1, inv 0
+i: 1692, j: 2492,ri -1, inv 0
+i: 1691, j: 2491,ri -1, inv 2
+i: 1690, j: 2490,ri -1, inv 0
+i: 1689, j: 2489,ri -1, inv 0
+i: 1688, j: 2488,ri -1, inv 0
+i: 1687, j: 2487,ri -1, inv 0
+i: 1686, j: 2486,ri -1, inv 0
+i: 1685, j: 2485,ri -1, inv 0
+i: 1684, j: 2484,ri -1, inv 0
+i: 1683, j: 2483,ri -1, inv 0
+i: 1682, j: 2482,ri -1, inv 2
+i: 1681, j: 2481,ri -1, inv 0
+i: 1680, j: 2480,ri -1, inv 0
+i: 1679, j: 2479,ri -1, inv 0
+i: 1678, j: 2478,ri -1, inv 0
+i: 1677, j: 2477,ri -1, inv 0
+i: 1676, j: 2476,ri -1, inv 0
+i: 1675, j: 2475,ri -1, inv 0
+i: 1674, j: 2474,ri -1, inv 2
+i: 1673, j: 2473,ri -1, inv 2
+i: 1672, j: 2472,ri -1, inv 0
+i: 1671, j: 2471,ri -1, inv 2
+i: 1670, j: 2470,ri -1, inv 2
+i: 1669, j: 2469,ri -1, inv 0
+i: 1668, j: 2468,ri -1, inv 2
+i: 1667, j: 2467,ri -1, inv 2
+i: 1666, j: 2466,ri -1, inv 2
+i: 1665, j: 2465,ri -1, inv 2
+i: 1664, j: 2464,ri -1, inv 0
+i: 1663, j: 2463,ri -1, inv 0
+i: 1662, j: 2462,ri -1, inv 0
+i: 1661, j: 2461,ri -1, inv 0
+i: 1660, j: 2460,ri -1, inv 0
+i: 1659, j: 2459,ri -1, inv 2
+i: 1658, j: 2458,ri -1, inv 0
+i: 1657, j: 2457,ri -1, inv 0
+i: 1656, j: 2456,ri -1, inv 2
+i: 1655, j: 2455,ri -1, inv 2
+i: 1654, j: 2454,ri -1, inv 0
+i: 1653, j: 2453,ri -1, inv 0
+i: 1652, j: 2452,ri -1, inv 0
+i: 1651, j: 2451,ri -1, inv 2
+i: 1650, j: 2450,ri -1, inv 2
+i: 1649, j: 2449,ri -1, inv 0
+i: 1648, j: 2448,ri -1, inv 0
+i: 1647, j: 2447,ri -1, inv 0
+i: 1646, j: 2446,ri -1, inv 2
+i: 1645, j: 2445,ri -1, inv 0
+i: 1644, j: 2444,ri -1, inv 0
+i: 1643, j: 2443,ri -1, inv 0
+i: 1642, j: 2442,ri -1, inv 0
+i: 1641, j: 2441,ri -1, inv 2
+i: 1640, j: 2440,ri -1, inv 0
+i: 1639, j: 2439,ri -1, inv 0
+i: 1638, j: 2438,ri -1, inv 0
+i: 1637, j: 2437,ri -1, inv 0
+i: 1636, j: 2436,ri -1, inv 0
+i: 1635, j: 2435,ri -1, inv 0
+i: 1634, j: 2434,ri -1, inv 2
+i: 1633, j: 2433,ri -1, inv 0
+i: 1632, j: 2432,ri -1, inv 0
+i: 1631, j: 2431,ri -1, inv 0
+i: 1630, j: 2430,ri -1, inv 2
+i: 1629, j: 2429,ri -1, inv 2
+i: 1628, j: 2428,ri -1, inv 0
+i: 1627, j: 2427,ri -1, inv 0
+i: 1626, j: 2426,ri -1, inv 2
+i: 1625, j: 2425,ri -1, inv 2
+i: 1624, j: 2424,ri -1, inv 0
+i: 1623, j: 2423,ri -1, inv 2
+i: 1622, j: 2422,ri -1, inv 2
+i: 1621, j: 2421,ri -1, inv 0
+i: 1620, j: 2420,ri -1, inv 0
+i: 1619, j: 2419,ri -1, inv 0
+i: 1618, j: 2418,ri -1, inv 0
+i: 1617, j: 2417,ri -1, inv 0
+i: 1616, j: 2416,ri -1, inv 0
+i: 1615, j: 2415,ri -1, inv 0
+i: 1614, j: 2414,ri -1, inv 0
+i: 1613, j: 2413,ri -1, inv 2
+i: 1612, j: 2412,ri -1, inv 0
+i: 1611, j: 2411,ri -1, inv 0
+i: 1610, j: 2410,ri -1, inv 0
+i: 1609, j: 2409,ri -1, inv 2
+i: 1608, j: 2408,ri -1, inv 0
+i: 1607, j: 2407,ri -1, inv 0
+i: 1606, j: 2406,ri -1, inv 0
+i: 1605, j: 2405,ri -1, inv 2
+i: 1604, j: 2404,ri -1, inv 0
+i: 1603, j: 2403,ri -1, inv 0
+i: 1602, j: 2402,ri -1, inv 0
+i: 1601, j: 2401,ri -1, inv 0
+i: 1600, j: 2400,ri -1, inv 0
+i: 1599, j: 2399,ri -1, inv 0
+i: 1598, j: 2398,ri -1, inv 2
+i: 1597, j: 2397,ri -1, inv 0
+i: 1596, j: 2396,ri -1, inv 0
+i: 1595, j: 2395,ri -1, inv 2
+i: 1594, j: 2394,ri -1, inv 0
+i: 1593, j: 2393,ri -1, inv 0
+i: 1592, j: 2392,ri -1, inv 0
+i: 1591, j: 2391,ri -1, inv 0
+i: 1590, j: 2390,ri -1, inv 2
+i: 1589, j: 2389,ri -1, inv 0
+i: 1588, j: 2388,ri -1, inv 2
+i: 1587, j: 2387,ri -1, inv 2
+i: 1586, j: 2386,ri -1, inv 2
+i: 1585, j: 2385,ri -1, inv 2
+i: 1584, j: 2384,ri -1, inv 0
+i: 1583, j: 2383,ri -1, inv 0
+i: 1582, j: 2382,ri -1, inv 2
+i: 1581, j: 2381,ri -1, inv 0
+i: 1580, j: 2380,ri -1, inv 2
+i: 1579, j: 2379,ri -1, inv 0
+i: 1578, j: 2378,ri -1, inv 0
+i: 1577, j: 2377,ri -1, inv 0
+i: 1576, j: 2376,ri -1, inv 0
+i: 1575, j: 2375,ri -1, inv 0
+i: 1574, j: 2374,ri -1, inv 0
+i: 1573, j: 2373,ri -1, inv 0
+i: 1572, j: 2372,ri -1, inv 0
+i: 1571, j: 2371,ri -1, inv 0
+i: 1570, j: 2370,ri -1, inv 0
+i: 1569, j: 2369,ri -1, inv 0
+i: 1568, j: 2368,ri -1, inv 0
+i: 1567, j: 2367,ri -1, inv 2
+i: 1566, j: 2366,ri -1, inv 2
+i: 1565, j: 2365,ri -1, inv 0
+i: 1564, j: 2364,ri -1, inv 0
+i: 1564, j: 2363,ri -1, inv 0
+i: 1563, j: 2362,ri -1, inv 0
+i: 1562, j: 2362,ri -1, inv 2
+i: 1561, j: 2361,ri -1, inv 0
+i: 1560, j: 2360,ri -1, inv 2
+i: 1559, j: 2359,ri -1, inv 2
+i: 1558, j: 2358,ri -1, inv 0
+i: 1557, j: 2357,ri -1, inv 0
+i: 1556, j: 2356,ri -1, inv 0
+i: 1555, j: 2355,ri -1, inv 0
+i: 1554, j: 2354,ri -1, inv 2
+i: 1553, j: 2353,ri -1, inv 0
+i: 1552, j: 2352,ri -1, inv 0
+i: 1551, j: 2351,ri -1, inv 0
+i: 1550, j: 2350,ri 1499, inv 0
+i: 1550, j: 2299,ri -1, inv 0
+i: 1550, j: 2298,ri -1, inv 0
+i: 1550, j: 2297,ri -1, inv 0
+i: 1550, j: 2296,ri -1, inv 0
+i: 1549, j: 2295,ri -1, inv 0
+i: 1549, j: 2294,ri -1, inv 0
+i: 1548, j: 2293,ri -1, inv 0
+i: 1547, j: 2293,ri -1, inv 0
+i: 1546, j: 2292,ri -1, inv 0
+i: 1545, j: 2292,ri 1541, inv 1
+i: 1545, j: 2288,ri -1, inv 0
+i: 1545, j: 2287,ri -1, inv 0
+i: 1545, j: 2286,ri -1, inv 0
+i: 1544, j: 2285,ri -1, inv 0
+i: 1544, j: 2284,ri -1, inv 0
+i: 1544, j: 2283,ri -1, inv 0
+i: 1543, j: 2282,ri -1, inv 0
+i: 1542, j: 2281,ri 1539, inv 0
+i: 1542, j: 2278,ri -1, inv 0
+i: 1542, j: 2277,ri 1539, inv 1
+i: 1542, j: 2274,ri -1, inv 0
+i: 1541, j: 2273,ri -1, inv 0
+i: 1541, j: 2272,ri -1, inv 0
+i: 1541, j: 2271,ri -1, inv 0
+i: 1541, j: 2270,ri -1, inv 0
+i: 1541, j: 2269,ri -1, inv 0
+i: 1540, j: 2268,ri -1, inv 0
+i: 1540, j: 2267,ri -1, inv 0
+i: 1540, j: 2266,ri 1537, inv 0
+i: 1540, j: 2263,ri -1, inv 0
+i: 1540, j: 2262,ri -1, inv 0
+i: 1539, j: 2261,ri 1537, inv 1
+i: 1539, j: 2259,ri -1, inv 0
+i: 1539, j: 2258,ri -1, inv 0
+i: 1539, j: 2257,ri -1, inv 0
+i: 1539, j: 2256,ri -1, inv 0
+i: 1539, j: 2255,ri -1, inv 0
+i: 1539, j: 2254,ri -1, inv 0
+i: 1539, j: 2253,ri 1536, inv 1
+i: 1539, j: 2250,ri -1, inv 0
+i: 1538, j: 2249,ri -1, inv 0
+i: 1538, j: 2248,ri 1534, inv 1
+i: 1538, j: 2244,ri -1, inv 0
+i: 1538, j: 2243,ri -1, inv 0
+i: 1538, j: 2242,ri -1, inv 0
+i: 1538, j: 2241,ri -1, inv 0
+i: 1538, j: 2240,ri -1, inv 0
+i: 1538, j: 2239,ri -1, inv 0
+i: 1538, j: 2238,ri -1, inv 0
+i: 1538, j: 2237,ri -1, inv 0
+i: 1538, j: 2236,ri 1536, inv 1
+i: 1538, j: 2234,ri -1, inv 0
+i: 1538, j: 2233,ri 1536, inv 0
+i: 1538, j: 2231,ri -1, inv 0
+i: 1538, j: 2230,ri 1534, inv 1
+i: 1538, j: 2226,ri -1, inv 0
+i: 1538, j: 2225,ri -1, inv 0
+i: 1538, j: 2224,ri 1534, inv 0
+i: 1538, j: 2220,ri 1536, inv 1
+i: 1538, j: 2218,ri -1, inv 0
+i: 1537, j: 2217,ri -1, inv 0
+i: 1536, j: 2216,ri 1534, inv 1
+i: 1536, j: 2214,ri 1533, inv 0
+i: 1536, j: 2211,ri -1, inv 0
+i: 1536, j: 2210,ri -1, inv 0
+i: 1536, j: 2209,ri -1, inv 0
+i: 1536, j: 2208,ri -1, inv 0
+i: 1536, j: 2207,ri -1, inv 0
+i: 1536, j: 2206,ri -1, inv 0
+i: 1536, j: 2205,ri -1, inv 0
+i: 1536, j: 2204,ri -1, inv 0
+i: 1536, j: 2203,ri 1533, inv 1
+i: 1536, j: 2200,ri -1, inv 0
+i: 1536, j: 2199,ri 1533, inv 1
+i: 1536, j: 2196,ri -1, inv 0
+i: 1536, j: 2195,ri -1, inv 0
+i: 1535, j: 2194,ri -1, inv 0
+i: 1535, j: 2193,ri 1533, inv 0
+i: 1535, j: 2191,ri -1, inv 0
+i: 1535, j: 2190,ri 1533, inv 0
+i: 1535, j: 2188,ri -1, inv 0
+i: 1535, j: 2187,ri -1, inv 0
+i: 1535, j: 2186,ri 1533, inv 1
+i: 1535, j: 2184,ri -1, inv 0
+i: 1535, j: 2183,ri -1, inv 0
+i: 1534, j: 2182,ri -1, inv 0
+i: 1533, j: 2181,ri -1, inv 0
+i: 1533, j: 2180,ri -1, inv 0
+i: 1533, j: 2179,ri -1, inv 0
+i: 1533, j: 2178,ri -1, inv 0
+i: 1533, j: 2177,ri -1, inv 0
+i: 1533, j: 2176,ri -1, inv 0
+i: 1533, j: 2175,ri 1531, inv 0
+i: 1533, j: 2173,ri -1, inv 0
+i: 1532, j: 2172,ri -1, inv 0
+i: 1531, j: 2171,ri -1, inv 0
+i: 1531, j: 2170,ri -1, inv 0
+i: 1531, j: 2169,ri -1, inv 0
+i: 1531, j: 2168,ri -1, inv 0
+i: 1531, j: 2167,ri -1, inv 0
+i: 1531, j: 2166,ri -1, inv 0
+i: 1531, j: 2165,ri -1, inv 0
+i: 1531, j: 2164,ri -1, inv 0
+i: 1531, j: 2163,ri -1, inv 0
+i: 1531, j: 2162,ri -1, inv 0
+i: 1531, j: 2161,ri -1, inv 0
+i: 1531, j: 2160,ri 1528, inv 0
+i: 1531, j: 2157,ri -1, inv 0
+i: 1530, j: 2156,ri -1, inv 0
+i: 1530, j: 2155,ri -1, inv 0
+i: 1530, j: 2154,ri 1524, inv 1
+i: 1530, j: 2148,ri -1, inv 0
+i: 1529, j: 2147,ri -1, inv 0
+i: 1528, j: 2146,ri -1, inv 0
+i: 1528, j: 2145,ri -1, inv 2
+i: 1527, j: 2144,ri -1, inv 0
+i: 1526, j: 2143,ri 1523, inv 1
+i: 1526, j: 2140,ri 1524, inv 0
+i: 1526, j: 2138,ri -1, inv 0
+i: 1526, j: 2137,ri -1, inv 0
+i: 1526, j: 2136,ri -1, inv 0
+i: 1526, j: 2135,ri 1524, inv 1
+i: 1526, j: 2133,ri -1, inv 0
+i: 1526, j: 2132,ri -1, inv 0
+i: 1525, j: 2131,ri -1, inv 0
+i: 1525, j: 2130,ri -1, inv 0
+i: 1525, j: 2129,ri -1, inv 0
+i: 1525, j: 2128,ri -1, inv 0
+i: 1525, j: 2127,ri -1, inv 0
+i: 1525, j: 2126,ri -1, inv 0
+i: 1525, j: 2125,ri -1, inv 0
+i: 1525, j: 2124,ri 1521, inv 1
+i: 1525, j: 2120,ri -1, inv 0
+i: 1525, j: 2119,ri -1, inv 0
+i: 1525, j: 2118,ri -1, inv 0
+i: 1525, j: 2117,ri -1, inv 0
+i: 1525, j: 2116,ri -1, inv 0
+i: 1524, j: 2115,ri -1, inv 0
+i: 1523, j: 2114,ri -1, inv 0
+i: 1523, j: 2113,ri -1, inv 0
+i: 1523, j: 2112,ri -1, inv 0
+i: 1522, j: 2111,ri -1, inv 0
+i: 1522, j: 2110,ri -1, inv 0
+i: 1521, j: 2109,ri -1, inv 0
+i: 1520, j: 2108,ri -1, inv 0
+i: 1519, j: 2107,ri -1, inv 0
+i: 1519, j: 2106,ri -1, inv 0
+i: 1519, j: 2105,ri -1, inv 0
+i: 1518, j: 2104,ri -1, inv 0
+i: 1518, j: 2103,ri -1, inv 0
+i: 1518, j: 2102,ri -1, inv 0
+i: 1518, j: 2101,ri 1513, inv 1
+i: 1518, j: 2096,ri -1, inv 0
+i: 1518, j: 2095,ri -1, inv 0
+i: 1518, j: 2094,ri -1, inv 0
+i: 1518, j: 2093,ri -1, inv 0
+i: 1518, j: 2092,ri -1, inv 0
+i: 1518, j: 2091,ri -1, inv 0
+i: 1517, j: 2090,ri -1, inv 0
+i: 1517, j: 2089,ri -1, inv 0
+i: 1517, j: 2088,ri -1, inv 0
+i: 1517, j: 2087,ri -1, inv 0
+i: 1516, j: 2086,ri 1512, inv 1
+i: 1516, j: 2082,ri -1, inv 2
+i: 1515, j: 2081,ri -1, inv 0
+i: 1515, j: 2080,ri 1512, inv 1
+i: 1515, j: 2077,ri -1, inv 0
+i: 1514, j: 2076,ri -1, inv 0
+i: 1514, j: 2075,ri 1510, inv 0
+i: 1514, j: 2071,ri 1510, inv 0
+i: 1514, j: 2067,ri -1, inv 0
+i: 1513, j: 2066,ri -1, inv 0
+i: 1512, j: 2065,ri -1, inv 0
+i: 1511, j: 2064,ri -1, inv 0
+i: 1511, j: 2063,ri -1, inv 0
+i: 1511, j: 2062,ri -1, inv 0
+i: 1511, j: 2061,ri -1, inv 0
+i: 1511, j: 2060,ri -1, inv 0
+i: 1511, j: 2059,ri -1, inv 0
+i: 1510, j: 2058,ri -1, inv 0
+i: 1509, j: 2057,ri -1, inv 0
+i: 1508, j: 2056,ri -1, inv 0
+i: 1508, j: 2055,ri 1506, inv 0
+i: 1508, j: 2053,ri -1, inv 0
+i: 1507, j: 2052,ri -1, inv 0
+i: 1507, j: 2051,ri 1504, inv 1
+i: 1507, j: 2048,ri -1, inv 0
+i: 1507, j: 2047,ri -1, inv 0
+i: 1506, j: 2046,ri -1, inv 0
+i: 1506, j: 2045,ri 1503, inv 1
+i: 1506, j: 2042,ri -1, inv 0
+i: 1505, j: 2041,ri -1, inv 0
+i: 1505, j: 2040,ri -1, inv 0
+i: 1504, j: 2039,ri -1, inv 0
+i: 1503, j: 2038,ri -1, inv 0
+i: 1503, j: 2037,ri 1497, inv 1
+i: 1503, j: 2031,ri -1, inv 0
+i: 1502, j: 2031,ri -1, inv 0
+i: 1501, j: 2030,ri 1498, inv 1
+i: 1501, j: 2027,ri -1, inv 0
+i: 1501, j: 2026,ri -1, inv 0
+i: 1501, j: 2025,ri -1, inv 0
+i: 1501, j: 2024,ri -1, inv 0
+i: 1500, j: 2023,ri -1, inv 0
+i: 1499, j: 2022,ri -1, inv 0
+i: 1498, j: 2022,ri -1, inv 0
+i: 1497, j: 2021,ri -1, inv 0
+i: 1496, j: 2020,ri 1493, inv 1
+i: 1496, j: 2017,ri -1, inv 0
+i: 1495, j: 2016,ri -1, inv 0
+i: 1494, j: 2015,ri -1, inv 2
+i: 1493, j: 2014,ri -1, inv 0
+i: 1492, j: 2013,ri -1, inv 0
+i: 1492, j: 2012,ri -1, inv 0
+i: 1492, j: 2011,ri -1, inv 0
+i: 1491, j: 2010,ri -1, inv 0
+i: 1491, j: 2009,ri -1, inv 0
+i: 1490, j: 2008,ri -1, inv 0
+i: 1490, j: 2007,ri 1486, inv 0
+i: 1490, j: 2003,ri -1, inv 0
+i: 1489, j: 2002,ri -1, inv 0
+i: 1488, j: 2001,ri -1, inv 0
+i: 1487, j: 2000,ri -1, inv 0
+i: 1487, j: 1999,ri -1, inv 0
+i: 1487, j: 1998,ri -1, inv 0
+i: 1487, j: 1997,ri -1, inv 0
+i: 1487, j: 1996,ri 1484, inv 1
+i: 1487, j: 1993,ri -1, inv 0
+i: 1486, j: 1992,ri -1, inv 0
+i: 1485, j: 1991,ri -1, inv 0
+i: 1485, j: 1990,ri -1, inv 0
+i: 1484, j: 1989,ri -1, inv 0
+i: 1483, j: 1988,ri -1, inv 0
+i: 1483, j: 1987,ri 1481, inv 1
+i: 1483, j: 1985,ri 1481, inv 1
+i: 1483, j: 1983,ri -1, inv 2
+i: 1482, j: 1982,ri -1, inv 2
+i: 1481, j: 1981,ri -1, inv 0
+i: 1480, j: 1980,ri -1, inv 0
+i: 1479, j: 1979,ri -1, inv 0
+i: 1478, j: 1978,ri -1, inv 2
+i: 1477, j: 1977,ri -1, inv 0
+i: 1476, j: 1976,ri -1, inv 0
+i: 1475, j: 1975,ri -1, inv 2
+i: 1474, j: 1974,ri -1, inv 2
+i: 1473, j: 1973,ri -1, inv 0
+i: 1472, j: 1972,ri -1, inv 0
+i: 1471, j: 1971,ri -1, inv 0
+i: 1470, j: 1970,ri -1, inv 0
+i: 1469, j: 1969,ri -1, inv 2
+i: 1468, j: 1968,ri -1, inv 2
+i: 1467, j: 1967,ri -1, inv 0
+i: 1466, j: 1966,ri -1, inv 0
+i: 1465, j: 1965,ri -1, inv 2
+i: 1464, j: 1964,ri -1, inv 0
+i: 1463, j: 1963,ri -1, inv 0
+i: 1462, j: 1962,ri -1, inv 2
+i: 1461, j: 1961,ri -1, inv 0
+i: 1460, j: 1960,ri -1, inv 0
+i: 1459, j: 1959,ri -1, inv 0
+i: 1458, j: 1958,ri -1, inv 0
+i: 1457, j: 1957,ri -1, inv 0
+i: 1456, j: 1956,ri -1, inv 0
+i: 1455, j: 1955,ri -1, inv 0
+i: 1454, j: 1954,ri -1, inv 0
+i: 1453, j: 1953,ri -1, inv 0
+i: 1452, j: 1952,ri -1, inv 0
+i: 1451, j: 1951,ri -1, inv 0
+i: 1450, j: 1950,ri -1, inv 0
+i: 1449, j: 1949,ri -1, inv 2
+i: 1448, j: 1948,ri -1, inv 2
+i: 1447, j: 1947,ri -1, inv 0
+i: 1446, j: 1946,ri -1, inv 0
+i: 1445, j: 1945,ri -1, inv 0
+i: 1444, j: 1944,ri -1, inv 2
+i: 1443, j: 1943,ri -1, inv 0
+i: 1442, j: 1942,ri -1, inv 0
+i: 1441, j: 1941,ri -1, inv 0
+i: 1440, j: 1940,ri -1, inv 0
+i: 1439, j: 1939,ri -1, inv 0
+i: 1438, j: 1938,ri -1, inv 0
+i: 1437, j: 1937,ri -1, inv 2
+i: 1436, j: 1936,ri -1, inv 0
+i: 1435, j: 1935,ri -1, inv 2
+i: 1434, j: 1934,ri -1, inv 0
+i: 1433, j: 1933,ri -1, inv 0
+i: 1432, j: 1932,ri -1, inv 0
+i: 1431, j: 1931,ri -1, inv 0
+i: 1430, j: 1930,ri -1, inv 0
+i: 1429, j: 1929,ri -1, inv 0
+i: 1428, j: 1928,ri -1, inv 0
+i: 1427, j: 1927,ri -1, inv 0
+i: 1426, j: 1926,ri -1, inv 2
+i: 1425, j: 1925,ri -1, inv 2
+i: 1424, j: 1924,ri -1, inv 0
+i: 1423, j: 1923,ri -1, inv 0
+i: 1422, j: 1922,ri -1, inv 0
+i: 1421, j: 1921,ri -1, inv 0
+i: 1420, j: 1920,ri -1, inv 0
+i: 1419, j: 1919,ri -1, inv 2
+i: 1418, j: 1918,ri -1, inv 2
+i: 1417, j: 1917,ri -1, inv 2
+i: 1416, j: 1916,ri -1, inv 0
+i: 1415, j: 1915,ri -1, inv 0
+i: 1414, j: 1914,ri -1, inv 2
+i: 1413, j: 1913,ri -1, inv 2
+i: 1412, j: 1912,ri -1, inv 2
+i: 1411, j: 1911,ri -1, inv 0
+i: 1410, j: 1910,ri -1, inv 2
+i: 1409, j: 1909,ri -1, inv 2
+i: 1408, j: 1908,ri -1, inv 0
+i: 1407, j: 1907,ri -1, inv 0
+i: 1406, j: 1906,ri -1, inv 2
+i: 1405, j: 1905,ri -1, inv 2
+i: 1404, j: 1904,ri -1, inv 2
+i: 1403, j: 1903,ri -1, inv 2
+i: 1402, j: 1902,ri -1, inv 0
+i: 1401, j: 1901,ri -1, inv 0
+i: 1400, j: 1900,ri -1, inv 2
+i: 1399, j: 1899,ri -1, inv 0
+i: 1398, j: 1898,ri -1, inv 2
+i: 1397, j: 1897,ri -1, inv 0
+i: 1396, j: 1896,ri -1, inv 0
+i: 1395, j: 1895,ri -1, inv 2
+i: 1394, j: 1894,ri -1, inv 0
+i: 1393, j: 1893,ri -1, inv 0
+i: 1392, j: 1892,ri -1, inv 0
+i: 1391, j: 1891,ri -1, inv 0
+i: 1390, j: 1890,ri -1, inv 0
+i: 1389, j: 1889,ri -1, inv 0
+i: 1388, j: 1888,ri -1, inv 0
+i: 1387, j: 1887,ri -1, inv 0
+i: 1386, j: 1886,ri -1, inv 2
+i: 1385, j: 1885,ri -1, inv 0
+i: 1384, j: 1884,ri -1, inv 0
+i: 1383, j: 1883,ri -1, inv 0
+i: 1382, j: 1882,ri -1, inv 0
+i: 1381, j: 1881,ri -1, inv 0
+i: 1380, j: 1880,ri -1, inv 2
+i: 1379, j: 1879,ri -1, inv 0
+i: 1378, j: 1878,ri -1, inv 0
+i: 1377, j: 1877,ri -1, inv 2
+i: 1376, j: 1876,ri -1, inv 2
+i: 1375, j: 1875,ri -1, inv 2
+i: 1374, j: 1874,ri -1, inv 2
+i: 1373, j: 1873,ri -1, inv 0
+i: 1372, j: 1872,ri -1, inv 0
+i: 1371, j: 1871,ri -1, inv 0
+i: 1370, j: 1870,ri -1, inv 0
+i: 1369, j: 1869,ri -1, inv 2
+i: 1368, j: 1868,ri -1, inv 2
+i: 1367, j: 1867,ri -1, inv 2
+i: 1366, j: 1866,ri -1, inv 0
+i: 1365, j: 1865,ri -1, inv 0
+i: 1364, j: 1864,ri -1, inv 0
+i: 1363, j: 1863,ri -1, inv 0
+i: 1362, j: 1862,ri -1, inv 0
+i: 1361, j: 1861,ri -1, inv 2
+i: 1360, j: 1860,ri -1, inv 0
+i: 1359, j: 1859,ri -1, inv 2
+i: 1358, j: 1858,ri -1, inv 0
+i: 1357, j: 1857,ri -1, inv 0
+i: 1356, j: 1856,ri -1, inv 0
+i: 1355, j: 1855,ri -1, inv 0
+i: 1354, j: 1854,ri -1, inv 0
+i: 1353, j: 1853,ri -1, inv 0
+i: 1352, j: 1852,ri -1, inv 0
+i: 1351, j: 1852,ri -1, inv 0
+i: 1350, j: 1851,ri -1, inv 0
+i: 1350, j: 1850,ri -1, inv 0
+i: 1349, j: 1849,ri -1, inv 0
+i: 1348, j: 1848,ri -1, inv 2
+i: 1347, j: 1847,ri -1, inv 0
+i: 1346, j: 1846,ri -1, inv 0
+i: 1345, j: 1845,ri -1, inv 2
+i: 1344, j: 1844,ri -1, inv 0
+i: 1343, j: 1843,ri -1, inv 0
+i: 1342, j: 1842,ri -1, inv 0
+i: 1341, j: 1841,ri -1, inv 0
+i: 1340, j: 1840,ri -1, inv 0
+i: 1339, j: 1839,ri -1, inv 0
+i: 1338, j: 1838,ri -1, inv 0
+i: 1337, j: 1837,ri -1, inv 0
+i: 1336, j: 1836,ri -1, inv 0
+i: 1336, j: 1835,ri -1, inv 0
+i: 1335, j: 1834,ri -1, inv 0
+i: 1334, j: 1834,ri -1, inv 2
+i: 1333, j: 1833,ri -1, inv 2
+i: 1332, j: 1832,ri -1, inv 0
+i: 1331, j: 1831,ri -1, inv 2
+i: 1330, j: 1830,ri -1, inv 2
+i: 1329, j: 1829,ri -1, inv 0
+i: 1328, j: 1828,ri -1, inv 0
+i: 1327, j: 1827,ri 1321, inv 2
+i: 1321, j: 1821,ri -1, inv 0
+i: 1320, j: 1821,ri -1, inv 2
+i: 1319, j: 1820,ri -1, inv 0
+i: 1318, j: 1819,ri -1, inv 0
+i: 1318, j: 1818,ri -1, inv 2
+i: 1317, j: 1817,ri -1, inv 2
+i: 1316, j: 1816,ri -1, inv 0
+i: 1315, j: 1815,ri -1, inv 0
+i: 1314, j: 1814,ri -1, inv 0
+i: 1313, j: 1813,ri -1, inv 0
+i: 1312, j: 1812,ri -1, inv 0
+i: 1311, j: 1811,ri -1, inv 2
+i: 1310, j: 1810,ri -1, inv 0
+i: 1309, j: 1809,ri -1, inv 0
+i: 1308, j: 1808,ri -1, inv 0
+i: 1307, j: 1807,ri -1, inv 0
+i: 1306, j: 1806,ri -1, inv 0
+i: 1305, j: 1805,ri -1, inv 0
+i: 1304, j: 1804,ri -1, inv 0
+i: 1303, j: 1803,ri -1, inv 0
+i: 1302, j: 1802,ri -1, inv 0
+i: 1301, j: 1801,ri -1, inv 0
+i: 1300, j: 1800,ri -1, inv 0
+i: 1299, j: 1799,ri -1, inv 0
+i: 1298, j: 1798,ri -1, inv 2
+i: 1297, j: 1797,ri -1, inv 2
+i: 1296, j: 1796,ri -1, inv 2
+i: 1295, j: 1795,ri -1, inv 0
+i: 1294, j: 1794,ri -1, inv 2
+i: 1293, j: 1793,ri -1, inv 0
+i: 1292, j: 1792,ri -1, inv 0
+i: 1291, j: 1791,ri -1, inv 0
+i: 1290, j: 1790,ri -1, inv 0
+i: 1289, j: 1789,ri -1, inv 0
+i: 1288, j: 1788,ri -1, inv 0
+i: 1287, j: 1787,ri -1, inv 0
+i: 1286, j: 1786,ri -1, inv 2
+i: 1285, j: 1785,ri -1, inv 0
+i: 1284, j: 1784,ri -1, inv 2
+i: 1283, j: 1783,ri -1, inv 2
+i: 1282, j: 1782,ri -1, inv 0
+i: 1281, j: 1781,ri -1, inv 2
+i: 1280, j: 1780,ri -1, inv 2
+i: 1279, j: 1779,ri -1, inv 0
+i: 1278, j: 1778,ri -1, inv 0
+i: 1277, j: 1777,ri -1, inv 0
+i: 1276, j: 1776,ri -1, inv 0
+i: 1275, j: 1775,ri -1, inv 0
+i: 1274, j: 1774,ri -1, inv 0
+i: 1273, j: 1773,ri -1, inv 0
+i: 1272, j: 1772,ri -1, inv 2
+i: 1271, j: 1771,ri -1, inv 0
+i: 1270, j: 1770,ri -1, inv 0
+i: 1269, j: 1769,ri -1, inv 2
+i: 1268, j: 1768,ri -1, inv 2
+i: 1267, j: 1767,ri -1, inv 2
+i: 1266, j: 1766,ri -1, inv 0
+i: 1265, j: 1765,ri -1, inv 0
+i: 1264, j: 1764,ri -1, inv 0
+i: 1263, j: 1763,ri -1, inv 0
+i: 1262, j: 1762,ri -1, inv 0
+i: 1261, j: 1761,ri -1, inv 2
+i: 1260, j: 1760,ri -1, inv 0
+i: 1259, j: 1759,ri -1, inv 0
+i: 1258, j: 1758,ri -1, inv 0
+i: 1257, j: 1757,ri -1, inv 0
+i: 1256, j: 1756,ri -1, inv 2
+i: 1255, j: 1755,ri -1, inv 2
+i: 1254, j: 1754,ri -1, inv 0
+i: 1253, j: 1753,ri -1, inv 0
+i: 1252, j: 1752,ri -1, inv 0
+i: 1251, j: 1751,ri -1, inv 0
+i: 1250, j: 1750,ri -1, inv 0
+i: 1249, j: 1749,ri -1, inv 0
+i: 1248, j: 1748,ri -1, inv 2
+i: 1247, j: 1747,ri -1, inv 0
+i: 1246, j: 1746,ri -1, inv 0
+i: 1245, j: 1745,ri -1, inv 0
+i: 1244, j: 1744,ri -1, inv 0
+i: 1243, j: 1743,ri -1, inv 0
+i: 1242, j: 1742,ri -1, inv 0
+i: 1241, j: 1741,ri -1, inv 0
+i: 1240, j: 1740,ri -1, inv 2
+i: 1239, j: 1739,ri -1, inv 2
+i: 1238, j: 1738,ri -1, inv 0
+i: 1237, j: 1737,ri -1, inv 0
+i: 1236, j: 1736,ri -1, inv 2
+i: 1235, j: 1735,ri -1, inv 0
+i: 1234, j: 1734,ri -1, inv 0
+i: 1233, j: 1733,ri -1, inv 0
+i: 1232, j: 1732,ri -1, inv 0
+i: 1231, j: 1731,ri -1, inv 2
+i: 1230, j: 1730,ri -1, inv 2
+i: 1229, j: 1729,ri -1, inv 0
+i: 1228, j: 1728,ri -1, inv 0
+i: 1227, j: 1727,ri -1, inv 2
+i: 1226, j: 1726,ri -1, inv 2
+i: 1225, j: 1725,ri -1, inv 2
+i: 1224, j: 1724,ri -1, inv 2
+i: 1223, j: 1723,ri -1, inv 0
+i: 1222, j: 1722,ri -1, inv 2
+i: 1221, j: 1721,ri -1, inv 2
+i: 1220, j: 1720,ri -1, inv 2
+i: 1219, j: 1719,ri -1, inv 0
+i: 1218, j: 1718,ri -1, inv 0
+i: 1217, j: 1717,ri -1, inv 0
+i: 1216, j: 1716,ri -1, inv 0
+i: 1215, j: 1715,ri -1, inv 0
+i: 1214, j: 1714,ri -1, inv 0
+i: 1213, j: 1713,ri -1, inv 0
+i: 1212, j: 1712,ri -1, inv 0
+i: 1211, j: 1711,ri -1, inv 0
+i: 1210, j: 1710,ri -1, inv 0
+i: 1209, j: 1709,ri -1, inv 0
+i: 1208, j: 1708,ri -1, inv 0
+i: 1207, j: 1707,ri -1, inv 0
+i: 1206, j: 1706,ri -1, inv 2
+i: 1205, j: 1705,ri -1, inv 2
+i: 1204, j: 1704,ri -1, inv 0
+i: 1203, j: 1703,ri -1, inv 0
+i: 1202, j: 1702,ri -1, inv 0
+i: 1201, j: 1701,ri -1, inv 0
+i: 1200, j: 1700,ri -1, inv 2
+i: 1199, j: 1699,ri -1, inv 0
+i: 1198, j: 1698,ri -1, inv 2
+i: 1197, j: 1697,ri -1, inv 0
+i: 1196, j: 1696,ri -1, inv 0
+i: 1195, j: 1695,ri -1, inv 0
+i: 1194, j: 1694,ri -1, inv 0
+i: 1193, j: 1693,ri -1, inv 0
+i: 1192, j: 1692,ri -1, inv 0
+i: 1191, j: 1691,ri -1, inv 0
+i: 1190, j: 1690,ri -1, inv 0
+i: 1189, j: 1689,ri -1, inv 0
+i: 1188, j: 1688,ri -1, inv 0
+i: 1187, j: 1687,ri -1, inv 0
+i: 1186, j: 1686,ri -1, inv 2
+i: 1185, j: 1685,ri -1, inv 0
+i: 1184, j: 1684,ri -1, inv 0
+i: 1183, j: 1683,ri -1, inv 0
+i: 1182, j: 1682,ri -1, inv 0
+i: 1181, j: 1681,ri -1, inv 2
+i: 1180, j: 1680,ri -1, inv 2
+i: 1179, j: 1679,ri -1, inv 0
+i: 1178, j: 1678,ri -1, inv 0
+i: 1177, j: 1677,ri -1, inv 2
+i: 1176, j: 1676,ri -1, inv 2
+i: 1175, j: 1675,ri -1, inv 2
+i: 1174, j: 1674,ri -1, inv 2
+i: 1173, j: 1673,ri -1, inv 0
+i: 1172, j: 1672,ri -1, inv 0
+i: 1171, j: 1671,ri -1, inv 0
+i: 1170, j: 1670,ri -1, inv 0
+i: 1169, j: 1669,ri -1, inv 2
+i: 1168, j: 1668,ri -1, inv 0
+i: 1167, j: 1667,ri -1, inv 0
+i: 1166, j: 1666,ri -1, inv 0
+i: 1165, j: 1666,ri -1, inv 0
+i: 1164, j: 1665,ri -1, inv 0
+i: 1163, j: 1664,ri -1, inv 0
+i: 1162, j: 1663,ri -1, inv 0
+i: 1161, j: 1662,ri -1, inv 0
+i: 1160, j: 1661,ri -1, inv 0
+i: 1160, j: 1660,ri -1, inv 0
+i: 1159, j: 1659,ri -1, inv 0
+i: 1158, j: 1658,ri -1, inv 0
+i: 1157, j: 1657,ri -1, inv 0
+i: 1156, j: 1656,ri -1, inv 0
+i: 1155, j: 1655,ri -1, inv 0
+i: 1154, j: 1654,ri -1, inv 0
+i: 1153, j: 1653,ri -1, inv 0
+i: 1152, j: 1653,ri -1, inv 0
+i: 1151, j: 1652,ri -1, inv 0
+i: 1150, j: 1651,ri -1, inv 0
+i: 1150, j: 1650,ri -1, inv 0
+i: 1149, j: 1649,ri -1, inv 0
+i: 1148, j: 1648,ri -1, inv 2
+i: 1147, j: 1647,ri -1, inv 0
+i: 1146, j: 1646,ri -1, inv 0
+i: 1145, j: 1645,ri -1, inv 2
+i: 1144, j: 1644,ri -1, inv 0
+i: 1143, j: 1643,ri -1, inv 0
+i: 1142, j: 1642,ri -1, inv 0
+i: 1141, j: 1641,ri -1, inv 0
+i: 1140, j: 1640,ri -1, inv 0
+i: 1139, j: 1639,ri -1, inv 0
+i: 1138, j: 1638,ri -1, inv 0
+i: 1137, j: 1637,ri -1, inv 0
+i: 1136, j: 1636,ri -1, inv 0
+i: 1135, j: 1636,ri -1, inv 0
+i: 1134, j: 1635,ri -1, inv 0
+i: 1134, j: 1634,ri -1, inv 2
+i: 1133, j: 1633,ri -1, inv 2
+i: 1132, j: 1632,ri -1, inv 0
+i: 1131, j: 1631,ri -1, inv 0
+i: 1130, j: 1630,ri -1, inv 0
+i: 1129, j: 1629,ri -1, inv 0
+i: 1128, j: 1628,ri -1, inv 0
+i: 1127, j: 1627,ri 1121, inv 2
+i: 1121, j: 1621,ri -1, inv 0
+i: 1121, j: 1620,ri -1, inv 0
+i: 1120, j: 1619,ri -1, inv 0
+i: 1119, j: 1618,ri -1, inv 0
+i: 1118, j: 1618,ri -1, inv 2
+i: 1117, j: 1617,ri -1, inv 2
+i: 1116, j: 1616,ri -1, inv 0
+i: 1115, j: 1615,ri -1, inv 0
+i: 1114, j: 1614,ri -1, inv 0
+i: 1113, j: 1613,ri -1, inv 0
+i: 1112, j: 1612,ri -1, inv 0
+i: 1111, j: 1611,ri -1, inv 2
+i: 1110, j: 1610,ri -1, inv 0
+i: 1109, j: 1609,ri -1, inv 0
+i: 1108, j: 1608,ri -1, inv 0
+i: 1107, j: 1607,ri -1, inv 0
+i: 1106, j: 1606,ri -1, inv 0
+i: 1105, j: 1605,ri -1, inv 2
+i: 1104, j: 1604,ri -1, inv 0
+i: 1103, j: 1603,ri -1, inv 0
+i: 1102, j: 1602,ri -1, inv 0
+i: 1101, j: 1601,ri -1, inv 0
+i: 1100, j: 1600,ri -1, inv 0
+i: 1099, j: 1599,ri -1, inv 2
+i: 1098, j: 1598,ri -1, inv 0
+i: 1097, j: 1597,ri -1, inv 2
+i: 1096, j: 1596,ri -1, inv 2
+i: 1095, j: 1595,ri -1, inv 0
+i: 1094, j: 1594,ri -1, inv 0
+i: 1093, j: 1593,ri -1, inv 0
+i: 1092, j: 1592,ri -1, inv 0
+i: 1091, j: 1591,ri -1, inv 0
+i: 1090, j: 1590,ri -1, inv 2
+i: 1089, j: 1589,ri -1, inv 0
+i: 1088, j: 1588,ri -1, inv 2
+i: 1087, j: 1587,ri -1, inv 0
+i: 1086, j: 1586,ri -1, inv 0
+i: 1085, j: 1585,ri -1, inv 0
+i: 1084, j: 1584,ri -1, inv 0
+i: 1083, j: 1583,ri -1, inv 0
+i: 1082, j: 1582,ri -1, inv 2
+i: 1081, j: 1581,ri -1, inv 0
+i: 1080, j: 1580,ri -1, inv 2
+i: 1079, j: 1579,ri -1, inv 2
+i: 1078, j: 1578,ri -1, inv 0
+i: 1077, j: 1577,ri -1, inv 0
+i: 1076, j: 1576,ri -1, inv 0
+i: 1075, j: 1575,ri -1, inv 0
+i: 1074, j: 1574,ri -1, inv 0
+i: 1073, j: 1573,ri -1, inv 0
+i: 1072, j: 1572,ri -1, inv 2
+i: 1071, j: 1571,ri -1, inv 0
+i: 1070, j: 1570,ri -1, inv 0
+i: 1069, j: 1569,ri -1, inv 0
+i: 1068, j: 1568,ri -1, inv 0
+i: 1067, j: 1567,ri -1, inv 0
+i: 1066, j: 1566,ri -1, inv 0
+i: 1065, j: 1565,ri -1, inv 0
+i: 1064, j: 1564,ri -1, inv 0
+i: 1063, j: 1563,ri -1, inv 0
+i: 1062, j: 1562,ri -1, inv 0
+i: 1061, j: 1561,ri -1, inv 2
+i: 1060, j: 1560,ri -1, inv 0
+i: 1059, j: 1559,ri -1, inv 0
+i: 1058, j: 1558,ri -1, inv 0
+i: 1057, j: 1557,ri -1, inv 2
+i: 1056, j: 1556,ri -1, inv 0
+i: 1055, j: 1555,ri -1, inv 2
+i: 1054, j: 1554,ri -1, inv 2
+i: 1053, j: 1553,ri -1, inv 0
+i: 1052, j: 1552,ri -1, inv 0
+i: 1051, j: 1551,ri -1, inv 2
+i: 1050, j: 1550,ri -1, inv 2
+i: 1049, j: 1549,ri -1, inv 0
+i: 1048, j: 1548,ri -1, inv 0
+i: 1047, j: 1547,ri -1, inv 2
+i: 1046, j: 1546,ri -1, inv 0
+i: 1045, j: 1545,ri -1, inv 2
+i: 1044, j: 1544,ri -1, inv 2
+i: 1043, j: 1543,ri -1, inv 0
+i: 1042, j: 1542,ri -1, inv 0
+i: 1041, j: 1541,ri -1, inv 0
+i: 1040, j: 1540,ri -1, inv 0
+i: 1039, j: 1539,ri -1, inv 2
+i: 1038, j: 1538,ri -1, inv 0
+i: 1037, j: 1537,ri -1, inv 0
+i: 1036, j: 1536,ri -1, inv 0
+i: 1035, j: 1535,ri -1, inv 0
+i: 1034, j: 1534,ri -1, inv 0
+i: 1033, j: 1533,ri -1, inv 0
+i: 1032, j: 1532,ri 1000, inv 0
+i: 1032, j: 1500,ri -1, inv 0
+i: 1031, j: 1499,ri -1, inv 0
+i: 1031, j: 1498,ri -1, inv 0
+i: 1030, j: 1497,ri -1, inv 0
+i: 1029, j: 1496,ri -1, inv 0
+i: 1029, j: 1495,ri -1, inv 0
+i: 1029, j: 1494,ri -1, inv 0
+i: 1029, j: 1493,ri 1027, inv 1
+i: 1029, j: 1491,ri -1, inv 0
+i: 1028, j: 1490,ri -1, inv 0
+i: 1027, j: 1489,ri -1, inv 0
+i: 1027, j: 1488,ri -1, inv 0
+i: 1026, j: 1487,ri -1, inv 0
+i: 1026, j: 1486,ri -1, inv 0
+i: 1026, j: 1485,ri -1, inv 0
+i: 1025, j: 1484,ri -1, inv 0
+i: 1025, j: 1483,ri -1, inv 0
+i: 1025, j: 1482,ri -1, inv 1
+i: 1025, j: 1481,ri -1, inv 2
+i: 1024, j: 1480,ri -1, inv 0
+i: 1023, j: 1479,ri -1, inv 0
+i: 1023, j: 1478,ri -1, inv 0
+i: 1022, j: 1477,ri -1, inv 0
+i: 1022, j: 1476,ri 1018, inv 0
+i: 1022, j: 1472,ri -1, inv 0
+i: 1021, j: 1471,ri -1, inv 0
+i: 1021, j: 1470,ri -1, inv 0
+i: 1020, j: 1469,ri -1, inv 0
+i: 1019, j: 1468,ri -1, inv 0
+i: 1019, j: 1467,ri -1, inv 0
+i: 1019, j: 1466,ri 1017, inv 1
+i: 1019, j: 1464,ri -1, inv 0
+i: 1018, j: 1463,ri -1, inv 0
+i: 1017, j: 1462,ri -1, inv 0
+i: 1017, j: 1461,ri 1015, inv 1
+i: 1017, j: 1459,ri -1, inv 0
+i: 1017, j: 1458,ri 1015, inv 1
+i: 1017, j: 1456,ri -1, inv 0
+i: 1017, j: 1455,ri -1, inv 0
+i: 1017, j: 1454,ri -1, inv 0
+i: 1017, j: 1453,ri -1, inv 0
+i: 1017, j: 1452,ri 1014, inv 0
+i: 1017, j: 1449,ri -1, inv 0
+i: 1017, j: 1448,ri -1, inv 0
+i: 1017, j: 1447,ri -1, inv 0
+i: 1017, j: 1446,ri 1014, inv 0
+i: 1017, j: 1443,ri 1015, inv 1
+i: 1017, j: 1441,ri -1, inv 0
+i: 1017, j: 1440,ri 1014, inv 0
+i: 1017, j: 1437,ri -1, inv 0
+i: 1017, j: 1436,ri -1, inv 0
+i: 1017, j: 1435,ri 1015, inv 1
+i: 1017, j: 1433,ri -1, inv 0
+i: 1016, j: 1432,ri 1014, inv 0
+i: 1016, j: 1430,ri 1013, inv 0
+i: 1016, j: 1427,ri -1, inv 0
+i: 1015, j: 1426,ri -1, inv 0
+i: 1015, j: 1425,ri -1, inv 0
+i: 1015, j: 1424,ri -1, inv 2
+i: 1015, j: 1423,ri -1, inv 2
+i: 1014, j: 1422,ri -1, inv 0
+i: 1013, j: 1421,ri 1010, inv 0
+i: 1013, j: 1418,ri -1, inv 2
+i: 1012, j: 1417,ri -1, inv 0
+i: 1011, j: 1416,ri 1009, inv 1
+i: 1011, j: 1414,ri 1008, inv 1
+i: 1011, j: 1411,ri -1, inv 0
+i: 1010, j: 1410,ri -1, inv 0
+i: 1010, j: 1409,ri -1, inv 0
+i: 1009, j: 1408,ri -1, inv 0
+i: 1008, j: 1407,ri -1, inv 0
+i: 1007, j: 1406,ri -1, inv 0
+i: 1007, j: 1405,ri -1, inv 0
+i: 1006, j: 1404,ri -1, inv 2
+i: 1005, j: 1403,ri -1, inv 0
+i: 1004, j: 1402,ri -1, inv 0
+i: 1003, j: 1402,ri 1001, inv 2
+i: 1001, j: 1400,ri -1, inv 2
+i: 1000, j: 1399,ri -1, inv 2
+i: 999, j: 1399,ri -1, inv 2
+i: 998, j: 1398,ri -1, inv 0
+i: 997, j: 1397,ri -1, inv 0
+i: 996, j: 1396,ri -1, inv 0
+i: 995, j: 1395,ri -1, inv 0
+i: 994, j: 1394,ri -1, inv 0
+i: 993, j: 1393,ri -1, inv 2
+i: 992, j: 1392,ri -1, inv 0
+i: 991, j: 1391,ri -1, inv 2
+i: 990, j: 1390,ri -1, inv 2
+i: 989, j: 1389,ri -1, inv 0
+i: 988, j: 1388,ri -1, inv 0
+i: 987, j: 1387,ri -1, inv 2
+i: 986, j: 1386,ri -1, inv 0
+i: 985, j: 1385,ri -1, inv 0
+i: 984, j: 1384,ri -1, inv 0
+i: 983, j: 1383,ri -1, inv 2
+i: 982, j: 1382,ri -1, inv 0
+i: 981, j: 1381,ri 930, inv 0
+i: 981, j: 1330,ri -1, inv 0
+i: 980, j: 1329,ri -1, inv 0
+i: 979, j: 1328,ri -1, inv 0
+i: 979, j: 1327,ri -1, inv 0
+i: 978, j: 1326,ri -1, inv 0
+i: 978, j: 1325,ri 976, inv 1
+i: 978, j: 1323,ri -1, inv 0
+i: 978, j: 1322,ri -1, inv 0
+i: 977, j: 1321,ri -1, inv 0
+i: 976, j: 1320,ri -1, inv 0
+i: 976, j: 1319,ri -1, inv 0
+i: 976, j: 1318,ri -1, inv 0
+i: 975, j: 1317,ri -1, inv 0
+i: 975, j: 1316,ri -1, inv 0
+i: 974, j: 1315,ri -1, inv 0
+i: 973, j: 1314,ri -1, inv 0
+i: 972, j: 1313,ri -1, inv 0
+i: 972, j: 1312,ri -1, inv 0
+i: 971, j: 1311,ri 967, inv 1
+i: 971, j: 1307,ri -1, inv 0
+i: 970, j: 1306,ri -1, inv 0
+i: 969, j: 1305,ri 964, inv 1
+i: 969, j: 1300,ri 965, inv 0
+i: 969, j: 1296,ri 965, inv 0
+i: 969, j: 1292,ri -1, inv 0
+i: 969, j: 1291,ri 967, inv 0
+i: 969, j: 1289,ri -1, inv 0
+i: 969, j: 1288,ri -1, inv 0
+i: 969, j: 1287,ri -1, inv 0
+i: 969, j: 1286,ri 967, inv 0
+i: 969, j: 1284,ri 967, inv 0
+i: 969, j: 1282,ri 967, inv 1
+i: 969, j: 1280,ri -1, inv 0
+i: 969, j: 1279,ri -1, inv 0
+i: 969, j: 1278,ri -1, inv 0
+i: 969, j: 1277,ri -1, inv 0
+i: 969, j: 1276,ri -1, inv 0
+i: 968, j: 1275,ri 965, inv 1
+i: 968, j: 1272,ri -1, inv 0
+i: 967, j: 1271,ri -1, inv 0
+i: 967, j: 1270,ri -1, inv 0
+i: 967, j: 1269,ri 931, inv 2
+i: 931, j: 1233,ri -1, inv 0
+i: 930, j: 1233,ri -1, inv 0
+i: 929, j: 1232,ri -1, inv 0
+i: 928, j: 1231,ri -1, inv 0
+i: 927, j: 1230,ri -1, inv 0
+i: 926, j: 1229,ri -1, inv 0
+i: 925, j: 1228,ri -1, inv 0
+i: 924, j: 1227,ri -1, inv 0
+i: 924, j: 1226,ri -1, inv 0
+i: 923, j: 1225,ri -1, inv 0
+i: 922, j: 1224,ri 920, inv 2
+i: 920, j: 1222,ri -1, inv 0
+i: 919, j: 1221,ri -1, inv 2
+i: 918, j: 1220,ri -1, inv 0
+i: 917, j: 1219,ri -1, inv 0
+i: 916, j: 1219,ri -1, inv 0
+i: 915, j: 1218,ri -1, inv 0
+i: 915, j: 1217,ri -1, inv 0
+i: 914, j: 1216,ri -1, inv 0
+i: 913, j: 1216,ri -1, inv 0
+i: 912, j: 1215,ri -1, inv 0
+i: 911, j: 1214,ri -1, inv 0
+i: 910, j: 1213,ri -1, inv 0
+i: 909, j: 1212,ri -1, inv 2
+i: 908, j: 1211,ri -1, inv 0
+i: 907, j: 1210,ri -1, inv 0
+i: 907, j: 1209,ri -1, inv 0
+i: 906, j: 1208,ri -1, inv 0
+i: 905, j: 1207,ri -1, inv 0
+i: 904, j: 1206,ri -1, inv 0
+i: 903, j: 1205,ri -1, inv 0
+i: 903, j: 1204,ri 901, inv 1
+i: 903, j: 1202,ri -1, inv 0
+i: 902, j: 1201,ri -1, inv 0
+i: 901, j: 1200,ri -1, inv 0
+i: 900, j: 1199,ri -1, inv 2
+i: 899, j: 1198,ri -1, inv 0
+i: 898, j: 1198,ri -1, inv 0
+i: 897, j: 1197,ri -1, inv 0
+i: 896, j: 1196,ri -1, inv 0
+i: 895, j: 1195,ri -1, inv 0
+i: 894, j: 1194,ri -1, inv 2
+i: 893, j: 1193,ri -1, inv 2
+i: 892, j: 1192,ri -1, inv 0
+i: 891, j: 1191,ri -1, inv 2
+i: 890, j: 1190,ri -1, inv 0
+i: 889, j: 1189,ri -1, inv 0
+i: 888, j: 1188,ri -1, inv 0
+i: 887, j: 1187,ri -1, inv 0
+i: 886, j: 1186,ri -1, inv 0
+i: 885, j: 1185,ri -1, inv 2
+i: 884, j: 1184,ri -1, inv 0
+i: 883, j: 1183,ri -1, inv 0
+i: 882, j: 1182,ri -1, inv 0
+i: 881, j: 1181,ri -1, inv 2
+i: 880, j: 1180,ri -1, inv 0
+i: 879, j: 1179,ri -1, inv 0
+i: 878, j: 1178,ri -1, inv 2
+i: 877, j: 1177,ri -1, inv 2
+i: 876, j: 1176,ri -1, inv 0
+i: 875, j: 1175,ri -1, inv 2
+i: 874, j: 1174,ri -1, inv 2
+i: 873, j: 1173,ri -1, inv 0
+i: 872, j: 1172,ri -1, inv 0
+i: 871, j: 1171,ri -1, inv 0
+i: 870, j: 1170,ri -1, inv 0
+i: 869, j: 1169,ri -1, inv 0
+i: 868, j: 1168,ri -1, inv 0
+i: 867, j: 1167,ri -1, inv 0
+i: 866, j: 1166,ri -1, inv 0
+i: 865, j: 1165,ri -1, inv 0
+i: 864, j: 1164,ri -1, inv 2
+i: 863, j: 1163,ri -1, inv 2
+i: 862, j: 1162,ri -1, inv 0
+i: 861, j: 1161,ri -1, inv 0
+i: 860, j: 1160,ri -1, inv 2
+i: 859, j: 1159,ri -1, inv 2
+i: 858, j: 1158,ri -1, inv 0
+i: 857, j: 1157,ri -1, inv 0
+i: 856, j: 1156,ri -1, inv 0
+i: 855, j: 1155,ri -1, inv 2
+i: 854, j: 1154,ri -1, inv 2
+i: 853, j: 1153,ri -1, inv 0
+i: 852, j: 1152,ri -1, inv 0
+i: 851, j: 1151,ri -1, inv 0
+i: 850, j: 1150,ri -1, inv 0
+i: 849, j: 1149,ri -1, inv 2
+i: 848, j: 1148,ri -1, inv 0
+i: 847, j: 1147,ri -1, inv 0
+i: 846, j: 1146,ri -1, inv 0
+i: 845, j: 1145,ri -1, inv 0
+i: 844, j: 1144,ri -1, inv 0
+i: 843, j: 1143,ri -1, inv 2
+i: 842, j: 1142,ri -1, inv 0
+i: 841, j: 1141,ri -1, inv 0
+i: 840, j: 1140,ri -1, inv 0
+i: 839, j: 1139,ri -1, inv 0
+i: 838, j: 1138,ri -1, inv 0
+i: 837, j: 1137,ri -1, inv 2
+i: 836, j: 1136,ri -1, inv 0
+i: 835, j: 1135,ri -1, inv 0
+i: 834, j: 1134,ri -1, inv 2
+i: 833, j: 1133,ri -1, inv 0
+i: 832, j: 1132,ri -1, inv 0
+i: 831, j: 1131,ri -1, inv 2
+i: 830, j: 1130,ri -1, inv 0
+i: 829, j: 1129,ri -1, inv 0
+i: 828, j: 1128,ri -1, inv 2
+i: 827, j: 1127,ri -1, inv 2
+i: 826, j: 1126,ri -1, inv 0
+i: 825, j: 1125,ri -1, inv 0
+i: 824, j: 1124,ri -1, inv 0
+i: 823, j: 1123,ri -1, inv 2
+i: 822, j: 1122,ri -1, inv 2
+i: 821, j: 1121,ri -1, inv 0
+i: 820, j: 1120,ri -1, inv 0
+i: 819, j: 1119,ri -1, inv 0
+i: 818, j: 1118,ri -1, inv 0
+i: 817, j: 1117,ri -1, inv 0
+i: 816, j: 1116,ri -1, inv 0
+i: 815, j: 1115,ri -1, inv 0
+i: 814, j: 1114,ri -1, inv 0
+i: 813, j: 1113,ri -1, inv 2
+i: 812, j: 1112,ri -1, inv 0
+i: 811, j: 1111,ri -1, inv 0
+i: 810, j: 1110,ri -1, inv 2
+i: 809, j: 1109,ri -1, inv 0
+i: 808, j: 1108,ri -1, inv 0
+i: 807, j: 1107,ri -1, inv 2
+i: 806, j: 1106,ri -1, inv 0
+i: 805, j: 1105,ri -1, inv 0
+i: 804, j: 1104,ri -1, inv 0
+i: 803, j: 1103,ri -1, inv 0
+i: 802, j: 1102,ri 767, inv 0
+i: 802, j: 1067,ri -1, inv 0
+i: 801, j: 1066,ri -1, inv 0
+i: 801, j: 1065,ri -1, inv 0
+i: 801, j: 1064,ri -1, inv 0
+i: 801, j: 1063,ri -1, inv 0
+i: 801, j: 1062,ri -1, inv 0
+i: 801, j: 1061,ri -1, inv 0
+i: 801, j: 1060,ri -1, inv 0
+i: 801, j: 1059,ri -1, inv 0
+i: 801, j: 1058,ri -1, inv 0
+i: 801, j: 1057,ri 797, inv 0
+i: 801, j: 1053,ri -1, inv 0
+i: 801, j: 1052,ri -1, inv 0
+i: 801, j: 1051,ri 785, inv 0
+i: 801, j: 1035,ri 799, inv 1
+i: 801, j: 1033,ri -1, inv 0
+i: 800, j: 1032,ri -1, inv 0
+i: 800, j: 1031,ri -1, inv 0
+i: 800, j: 1030,ri -1, inv 0
+i: 800, j: 1029,ri 798, inv 1
+i: 800, j: 1027,ri -1, inv 0
+i: 800, j: 1026,ri -1, inv 0
+i: 800, j: 1025,ri -1, inv 0
+i: 799, j: 1024,ri -1, inv 0
+i: 799, j: 1023,ri -1, inv 2
+i: 798, j: 1022,ri -1, inv 0
+i: 797, j: 1021,ri -1, inv 0
+i: 796, j: 1020,ri -1, inv 0
+i: 796, j: 1019,ri 794, inv 0
+i: 796, j: 1017,ri -1, inv 0
+i: 795, j: 1016,ri -1, inv 0
+i: 794, j: 1015,ri -1, inv 0
+i: 794, j: 1014,ri -1, inv 0
+i: 794, j: 1013,ri -1, inv 2
+i: 793, j: 1012,ri -1, inv 0
+i: 792, j: 1011,ri -1, inv 0
+i: 792, j: 1010,ri -1, inv 0
+i: 792, j: 1009,ri -1, inv 0
+i: 791, j: 1008,ri 789, inv 1
+i: 791, j: 1006,ri -1, inv 0
+i: 790, j: 1005,ri -1, inv 0
+i: 789, j: 1004,ri 785, inv 1
+i: 789, j: 1000,ri -1, inv 0
+i: 788, j: 999,ri -1, inv 0
+i: 787, j: 998,ri -1, inv 2
+i: 786, j: 997,ri -1, inv 0
+i: 785, j: 996,ri -1, inv 0
+i: 784, j: 995,ri -1, inv 0
+i: 784, j: 994,ri -1, inv 0
+i: 783, j: 993,ri -1, inv 0
+i: 783, j: 992,ri -1, inv 0
+i: 782, j: 991,ri -1, inv 0
+i: 782, j: 990,ri -1, inv 0
+i: 781, j: 989,ri -1, inv 0
+i: 781, j: 988,ri 762, inv 1
+i: 781, j: 969,ri 776, inv 2
+i: 776, j: 964,ri -1, inv 0
+i: 775, j: 964,ri -1, inv 0
+i: 774, j: 963,ri -1, inv 0
+i: 773, j: 963,ri -1, inv 0
+i: 772, j: 962,ri 769, inv 2
+i: 769, j: 959,ri -1, inv 0
+i: 768, j: 958,ri -1, inv 0
+i: 767, j: 957,ri -1, inv 0
+i: 766, j: 956,ri -1, inv 0
+i: 765, j: 955,ri 745, inv 1
+i: 765, j: 935,ri -1, inv 0
+i: 764, j: 934,ri -1, inv 0
+i: 763, j: 933,ri 760, inv 2
+i: 760, j: 930,ri -1, inv 0
+i: 760, j: 929,ri -1, inv 2
+i: 759, j: 928,ri 757, inv 0
+i: 759, j: 926,ri -1, inv 0
+i: 758, j: 925,ri -1, inv 0
+i: 757, j: 924,ri -1, inv 0
+i: 757, j: 923,ri -1, inv 0
+i: 756, j: 922,ri -1, inv 0
+i: 755, j: 921,ri -1, inv 2
+i: 754, j: 920,ri -1, inv 0
+i: 753, j: 919,ri -1, inv 0
+i: 753, j: 918,ri -1, inv 0
+i: 753, j: 917,ri -1, inv 0
+i: 752, j: 916,ri -1, inv 0
+i: 751, j: 915,ri -1, inv 0
+i: 751, j: 914,ri -1, inv 0
+i: 750, j: 913,ri -1, inv 0
+i: 750, j: 912,ri 738, inv 1
+i: 750, j: 900,ri 735, inv 0
+i: 750, j: 885,ri -1, inv 0
+i: 750, j: 884,ri -1, inv 0
+i: 750, j: 883,ri -1, inv 0
+i: 750, j: 882,ri 746, inv 1
+i: 750, j: 878,ri -1, inv 0
+i: 750, j: 877,ri -1, inv 0
+i: 750, j: 876,ri -1, inv 0
+i: 750, j: 875,ri -1, inv 0
+i: 749, j: 874,ri -1, inv 0
+i: 749, j: 873,ri 747, inv 0
+i: 749, j: 871,ri 744, inv 0
+i: 749, j: 866,ri -1, inv 0
+i: 749, j: 865,ri -1, inv 0
+i: 748, j: 864,ri -1, inv 0
+i: 748, j: 863,ri 745, inv 0
+i: 748, j: 860,ri -1, inv 0
+i: 748, j: 859,ri -1, inv 0
+i: 748, j: 858,ri 746, inv 1
+i: 748, j: 856,ri -1, inv 0
+i: 748, j: 855,ri -1, inv 0
+i: 748, j: 854,ri -1, inv 0
+i: 747, j: 853,ri -1, inv 0
+i: 747, j: 852,ri -1, inv 0
+i: 746, j: 851,ri -1, inv 0
+i: 746, j: 850,ri -1, inv 0
+i: 746, j: 849,ri -1, inv 0
+i: 746, j: 848,ri -1, inv 0
+i: 746, j: 847,ri -1, inv 0
+i: 745, j: 846,ri -1, inv 0
+i: 744, j: 845,ri -1, inv 0
+i: 744, j: 844,ri -1, inv 2
+i: 743, j: 843,ri -1, inv 2
+i: 742, j: 842,ri -1, inv 0
+i: 741, j: 841,ri -1, inv 0
+i: 740, j: 840,ri -1, inv 0
+i: 739, j: 839,ri -1, inv 0
+i: 738, j: 838,ri -1, inv 0
+i: 737, j: 837,ri -1, inv 0
+i: 736, j: 836,ri -1, inv 0
+i: 735, j: 835,ri -1, inv 0
+i: 734, j: 834,ri -1, inv 2
+i: 733, j: 833,ri -1, inv 0
+i: 732, j: 832,ri -1, inv 0
+i: 731, j: 831,ri -1, inv 2
+i: 730, j: 830,ri -1, inv 0
+i: 729, j: 829,ri -1, inv 0
+i: 728, j: 828,ri -1, inv 0
+i: 727, j: 827,ri 688, inv 0
+i: 727, j: 788,ri -1, inv 0
+i: 727, j: 787,ri -1, inv 0
+i: 727, j: 786,ri -1, inv 0
+i: 727, j: 785,ri -1, inv 0
+i: 726, j: 784,ri -1, inv 0
+i: 725, j: 783,ri -1, inv 0
+i: 724, j: 782,ri -1, inv 0
+i: 723, j: 781,ri -1, inv 2
+i: 722, j: 780,ri -1, inv 0
+i: 721, j: 779,ri -1, inv 0
+i: 720, j: 778,ri -1, inv 0
+i: 719, j: 777,ri -1, inv 0
+i: 719, j: 776,ri -1, inv 0
+i: 718, j: 775,ri -1, inv 0
+i: 718, j: 774,ri -1, inv 0
+i: 717, j: 773,ri -1, inv 0
+i: 717, j: 772,ri -1, inv 0
+i: 717, j: 771,ri -1, inv 0
+i: 716, j: 770,ri -1, inv 0
+i: 716, j: 769,ri 713, inv 0
+i: 716, j: 766,ri -1, inv 0
+i: 715, j: 765,ri -1, inv 0
+i: 714, j: 764,ri -1, inv 0
+i: 713, j: 763,ri -1, inv 0
+i: 712, j: 762,ri -1, inv 0
+i: 711, j: 761,ri -1, inv 2
+i: 710, j: 760,ri -1, inv 2
+i: 709, j: 759,ri -1, inv 0
+i: 708, j: 758,ri -1, inv 0
+i: 707, j: 757,ri -1, inv 0
+i: 706, j: 756,ri -1, inv 0
+i: 705, j: 755,ri -1, inv 0
+i: 704, j: 754,ri -1, inv 0
+i: 703, j: 754,ri -1, inv 0
+i: 702, j: 753,ri -1, inv 0
+i: 701, j: 752,ri -1, inv 0
+i: 701, j: 751,ri -1, inv 0
+i: 700, j: 750,ri -1, inv 0
+i: 699, j: 749,ri -1, inv 2
+i: 698, j: 748,ri -1, inv 0
+i: 697, j: 747,ri -1, inv 0
+i: 696, j: 746,ri -1, inv 0
+i: 695, j: 745,ri -1, inv 0
+i: 694, j: 744,ri -1, inv 2
+i: 693, j: 743,ri -1, inv 2
+i: 692, j: 742,ri -1, inv 0
+i: 691, j: 741,ri -1, inv 0
+i: 690, j: 740,ri -1, inv 0
+i: 689, j: 739,ri -1, inv 0
+i: 688, j: 738,ri -1, inv 0
+i: 687, j: 737,ri -1, inv 2
+i: 686, j: 736,ri -1, inv 0
+i: 685, j: 735,ri -1, inv 0
+i: 684, j: 734,ri -1, inv 0
+i: 683, j: 733,ri -1, inv 0
+i: 682, j: 732,ri -1, inv 0
+i: 681, j: 731,ri -1, inv 2
+i: 680, j: 730,ri -1, inv 0
+i: 679, j: 729,ri -1, inv 0
+i: 678, j: 728,ri -1, inv 0
+i: 677, j: 727,ri -1, inv 2
+i: 676, j: 726,ri -1, inv 0
+i: 675, j: 725,ri -1, inv 0
+i: 674, j: 724,ri -1, inv 0
+i: 673, j: 723,ri -1, inv 2
+i: 672, j: 722,ri -1, inv 0
+i: 671, j: 721,ri -1, inv 0
+i: 670, j: 720,ri -1, inv 0
+i: 669, j: 719,ri -1, inv 0
+i: 668, j: 718,ri -1, inv 0
+i: 667, j: 717,ri -1, inv 0
+i: 666, j: 716,ri -1, inv 0
+i: 665, j: 715,ri -1, inv 0
+i: 664, j: 714,ri -1, inv 0
+i: 663, j: 713,ri -1, inv 0
+i: 662, j: 712,ri -1, inv 0
+i: 661, j: 711,ri -1, inv 0
+i: 660, j: 710,ri -1, inv 0
+i: 659, j: 709,ri -1, inv 0
+i: 658, j: 708,ri -1, inv 0
+i: 657, j: 707,ri -1, inv 2
+i: 656, j: 706,ri -1, inv 2
+i: 655, j: 705,ri -1, inv 2
+i: 654, j: 704,ri -1, inv 2
+i: 653, j: 703,ri -1, inv 0
+i: 652, j: 702,ri -1, inv 0
+i: 651, j: 701,ri -1, inv 0
+i: 650, j: 700,ri -1, inv 0
+i: 649, j: 699,ri -1, inv 2
+i: 648, j: 698,ri -1, inv 0
+i: 647, j: 697,ri -1, inv 0
+i: 646, j: 696,ri -1, inv 0
+i: 645, j: 695,ri -1, inv 0
+i: 644, j: 694,ri -1, inv 0
+i: 643, j: 693,ri 612, inv 0
+i: 643, j: 662,ri -1, inv 0
+i: 643, j: 661,ri -1, inv 0
+i: 643, j: 660,ri 641, inv 0
+i: 643, j: 658,ri -1, inv 0
+i: 643, j: 657,ri -1, inv 0
+i: 643, j: 656,ri 640, inv 1
+i: 643, j: 653,ri -1, inv 0
+i: 643, j: 652,ri -1, inv 0
+i: 643, j: 651,ri -1, inv 0
+i: 643, j: 650,ri 640, inv 1
+i: 643, j: 647,ri -1, inv 0
+i: 643, j: 646,ri -1, inv 0
+i: 643, j: 645,ri -1, inv 0
+i: 643, j: 644,ri -1, inv 0
+i: 643, j: 643,ri -1, inv 2
+i: 642, j: 642,ri -1, inv 0
+i: 641, j: 641,ri -1, inv 0
+i: 640, j: 640,ri -1, inv 0
+i: 639, j: 639,ri -1, inv 0
+i: 638, j: 638,ri -1, inv 0
+i: 637, j: 637,ri -1, inv 2
+i: 636, j: 636,ri -1, inv 0
+i: 635, j: 635,ri -1, inv 0
+i: 634, j: 634,ri 605, inv 0
+i: 634, j: 605,ri -1, inv 0
+i: 634, j: 604,ri -1, inv 2
+i: 633, j: 603,ri -1, inv 0
+i: 632, j: 602,ri -1, inv 0
+i: 632, j: 601,ri -1, inv 0
+i: 632, j: 600,ri 628, inv 1
+i: 632, j: 596,ri -1, inv 0
+i: 631, j: 595,ri -1, inv 0
+i: 631, j: 594,ri -1, inv 0
+i: 631, j: 593,ri -1, inv 2
+i: 630, j: 592,ri -1, inv 0
+i: 629, j: 591,ri -1, inv 0
+i: 628, j: 590,ri -1, inv 0
+i: 628, j: 589,ri -1, inv 0
+i: 627, j: 588,ri -1, inv 0
+i: 626, j: 587,ri -1, inv 0
+i: 625, j: 586,ri -1, inv 0
+i: 624, j: 585,ri -1, inv 0
+i: 623, j: 585,ri 617, inv 1
+i: 623, j: 579,ri -1, inv 0
+i: 622, j: 579,ri -1, inv 0
+i: 621, j: 578,ri -1, inv 0
+i: 620, j: 577,ri -1, inv 0
+i: 619, j: 576,ri -1, inv 0
+i: 618, j: 575,ri -1, inv 0
+i: 618, j: 574,ri -1, inv 0
+i: 617, j: 573,ri -1, inv 0
+i: 617, j: 572,ri 614, inv 1
+i: 617, j: 569,ri -1, inv 0
+i: 616, j: 568,ri -1, inv 0
+i: 616, j: 567,ri -1, inv 0
+i: 615, j: 566,ri -1, inv 2
+i: 614, j: 565,ri -1, inv 2
+i: 614, j: 564,ri -1, inv 2
+i: 613, j: 563,ri -1, inv 2
+i: 612, j: 562,ri -1, inv 0
+i: 611, j: 561,ri -1, inv 0
+i: 610, j: 560,ri -1, inv 0
+i: 609, j: 559,ri -1, inv 0
+i: 608, j: 558,ri -1, inv 0
+i: 607, j: 557,ri -1, inv 2
+i: 606, j: 556,ri -1, inv 0
+i: 605, j: 555,ri -1, inv 0
+i: 604, j: 554,ri -1, inv 2
+i: 603, j: 553,ri -1, inv 0
+i: 602, j: 552,ri -1, inv 0
+i: 601, j: 551,ri -1, inv 0
+i: 600, j: 550,ri -1, inv 2
+i: 599, j: 549,ri -1, inv 0
+i: 598, j: 549,ri -1, inv 0
+i: 597, j: 548,ri -1, inv 0
+i: 596, j: 547,ri -1, inv 0
+i: 595, j: 546,ri -1, inv 0
+i: 594, j: 545,ri -1, inv 2
+i: 593, j: 545,ri -1, inv 0
+i: 592, j: 545,ri -1, inv 0
+i: 591, j: 544,ri -1, inv 0
+i: 591, j: 543,ri -1, inv 0
+i: 590, j: 542,ri -1, inv 0
+i: 590, j: 541,ri -1, inv 0
+i: 590, j: 540,ri -1, inv 0
+i: 589, j: 539,ri -1, inv 0
+i: 588, j: 538,ri -1, inv 0
+i: 587, j: 537,ri -1, inv 0
+i: 586, j: 536,ri -1, inv 0
+i: 585, j: 535,ri -1, inv 0
+i: 584, j: 534,ri -1, inv 0
+i: 583, j: 533,ri -1, inv 0
+i: 582, j: 532,ri -1, inv 0
+i: 581, j: 532,ri -1, inv 0
+i: 580, j: 531,ri -1, inv 0
+i: 579, j: 530,ri -1, inv 0
+i: 578, j: 529,ri -1, inv 0
+i: 577, j: 528,ri -1, inv 0
+i: 576, j: 527,ri -1, inv 2
+i: 575, j: 526,ri -1, inv 0
+i: 574, j: 525,ri -1, inv 0
+i: 573, j: 525,ri -1, inv 0
+i: 572, j: 524,ri -1, inv 0
+i: 571, j: 523,ri -1, inv 2
+i: 570, j: 522,ri -1, inv 0
+i: 569, j: 521,ri -1, inv 2
+i: 568, j: 521,ri -1, inv 0
+i: 567, j: 521,ri -1, inv 0
+i: 566, j: 520,ri -1, inv 0
+i: 565, j: 519,ri -1, inv 0
+i: 564, j: 518,ri -1, inv 0
+i: 563, j: 517,ri -1, inv 0
+i: 562, j: 516,ri -1, inv 0
+i: 561, j: 515,ri -1, inv 0
+i: 560, j: 514,ri -1, inv 0
+i: 559, j: 513,ri -1, inv 0
+i: 558, j: 512,ri -1, inv 0
+i: 557, j: 511,ri -1, inv 0
+i: 556, j: 510,ri -1, inv 0
+i: 555, j: 510,ri -1, inv 0
+i: 554, j: 509,ri -1, inv 0
+i: 553, j: 509,ri -1, inv 0
+i: 552, j: 508,ri -1, inv 0
+i: 551, j: 507,ri -1, inv 0
+i: 550, j: 506,ri -1, inv 0
+i: 549, j: 505,ri -1, inv 0
+i: 548, j: 505,ri -1, inv 0
+i: 547, j: 504,ri -1, inv 0
+i: 546, j: 503,ri -1, inv 0
+i: 545, j: 502,ri -1, inv 0
+i: 545, j: 501,ri -1, inv 2
+i: 544, j: 500,ri -1, inv 0
+i: 543, j: 499,ri -1, inv 0
+i: 542, j: 498,ri -1, inv 0
+i: 542, j: 497,ri -1, inv 0
+i: 541, j: 496,ri -1, inv 0
+i: 540, j: 495,ri -1, inv 0
+i: 539, j: 495,ri -1, inv 0
+i: 538, j: 494,ri -1, inv 0
+i: 537, j: 493,ri 507, inv 2
+i: 507, j: 463,ri -1, inv 0
+i: 506, j: 462,ri -1, inv 0
+i: 505, j: 461,ri -1, inv 0
+i: 504, j: 460,ri -1, inv 0
+i: 503, j: 460,ri -1, inv 0
+i: 502, j: 460,ri -1, inv 0
+i: 501, j: 459,ri -1, inv 0
+i: 500, j: 458,ri -1, inv 0
+i: 499, j: 457,ri -1, inv 0
+i: 498, j: 456,ri -1, inv 0
+i: 497, j: 456,ri -1, inv 0
+i: 496, j: 455,ri -1, inv 0
+i: 495, j: 454,ri -1, inv 0
+i: 494, j: 454,ri -1, inv 0
+i: 493, j: 454,ri -1, inv 0
+i: 492, j: 453,ri -1, inv 0
+i: 491, j: 453,ri -1, inv 0
+i: 490, j: 452,ri -1, inv 2
+i: 489, j: 451,ri -1, inv 0
+i: 488, j: 450,ri -1, inv 0
+i: 487, j: 450,ri -1, inv 0
+i: 486, j: 450,ri -1, inv 0
+i: 485, j: 450,ri -1, inv 0
+i: 484, j: 449,ri -1, inv 0
+i: 483, j: 449,ri -1, inv 0
+i: 482, j: 449,ri -1, inv 0
+i: 481, j: 448,ri -1, inv 2
+i: 480, j: 448,ri -1, inv 2
+i: 479, j: 447,ri -1, inv 0
+i: 478, j: 446,ri -1, inv 2
+i: 477, j: 445,ri -1, inv 0
+i: 476, j: 444,ri -1, inv 2
+i: 475, j: 443,ri -1, inv 0
+i: 474, j: 442,ri -1, inv 0
+i: 473, j: 441,ri -1, inv 0
+i: 472, j: 440,ri -1, inv 0
+i: 472, j: 439,ri -1, inv 0
+i: 471, j: 438,ri -1, inv 0
+i: 470, j: 438,ri -1, inv 0
+i: 469, j: 437,ri -1, inv 0
+i: 469, j: 436,ri -1, inv 0
+i: 468, j: 435,ri -1, inv 0
+i: 467, j: 434,ri -1, inv 0
+i: 466, j: 434,ri -1, inv 0
+i: 465, j: 433,ri -1, inv 0
+i: 464, j: 433,ri -1, inv 0
+i: 463, j: 432,ri -1, inv 0
+i: 462, j: 431,ri -1, inv 0
+i: 461, j: 430,ri -1, inv 0
+i: 460, j: 430,ri -1, inv 0
+i: 459, j: 429,ri -1, inv 0
+i: 458, j: 428,ri -1, inv 0
+i: 457, j: 427,ri -1, inv 0
+i: 456, j: 426,ri -1, inv 0
+i: 455, j: 425,ri -1, inv 0
+i: 454, j: 424,ri -1, inv 0
+i: 453, j: 423,ri -1, inv 0
+i: 452, j: 422,ri -1, inv 0
+i: 451, j: 422,ri -1, inv 0
+i: 450, j: 421,ri -1, inv 2
+i: 449, j: 420,ri -1, inv 0
+i: 448, j: 420,ri 445, inv 2
+i: 445, j: 417,ri -1, inv 0
+i: 444, j: 416,ri 442, inv 2
+i: 442, j: 414,ri -1, inv 2
+i: 441, j: 413,ri -1, inv 0
+i: 440, j: 413,ri -1, inv 0
+i: 439, j: 412,ri -1, inv 2
+i: 438, j: 411,ri -1, inv 0
+i: 437, j: 410,ri -1, inv 0
+i: 436, j: 409,ri -1, inv 0
+i: 435, j: 409,ri -1, inv 0
+i: 434, j: 408,ri -1, inv 0
+i: 434, j: 407,ri -1, inv 0
+i: 433, j: 406,ri -1, inv 0
+i: 432, j: 405,ri -1, inv 0
+i: 431, j: 405,ri -1, inv 2
+i: 430, j: 404,ri -1, inv 0
+i: 429, j: 403,ri -1, inv 0
+i: 428, j: 402,ri -1, inv 0
+i: 427, j: 401,ri 420, inv 1
+i: 427, j: 394,ri -1, inv 0
+i: 426, j: 393,ri -1, inv 0
+i: 425, j: 392,ri -1, inv 0
+i: 424, j: 391,ri -1, inv 0
+i: 423, j: 391,ri -1, inv 0
+i: 422, j: 390,ri -1, inv 0
+i: 421, j: 390,ri -1, inv 2
+i: 420, j: 389,ri -1, inv 0
+i: 419, j: 388,ri -1, inv 0
+i: 418, j: 387,ri 414, inv 2
+i: 414, j: 383,ri -1, inv 0
+i: 413, j: 383,ri -1, inv 0
+i: 412, j: 382,ri -1, inv 0
+i: 411, j: 381,ri -1, inv 0
+i: 410, j: 381,ri -1, inv 0
+i: 409, j: 380,ri -1, inv 0
+i: 408, j: 380,ri -1, inv 0
+i: 407, j: 380,ri -1, inv 0
+i: 406, j: 379,ri -1, inv 0
+i: 405, j: 379,ri -1, inv 0
+i: 404, j: 378,ri -1, inv 2
+i: 403, j: 377,ri -1, inv 0
+i: 402, j: 376,ri -1, inv 0
+i: 401, j: 375,ri -1, inv 0
+i: 400, j: 374,ri -1, inv 0
+i: 399, j: 373,ri -1, inv 0
+i: 398, j: 373,ri -1, inv 0
+i: 397, j: 373,ri -1, inv 0
+i: 396, j: 373,ri -1, inv 2
+i: 395, j: 372,ri -1, inv 0
+i: 394, j: 371,ri -1, inv 0
+i: 394, j: 370,ri -1, inv 2
+i: 393, j: 369,ri -1, inv 0
+i: 392, j: 368,ri -1, inv 0
+i: 391, j: 367,ri -1, inv 0
+i: 390, j: 367,ri -1, inv 0
+i: 389, j: 366,ri -1, inv 0
+i: 388, j: 365,ri -1, inv 0
+i: 387, j: 365,ri -1, inv 0
+i: 386, j: 364,ri -1, inv 0
+i: 385, j: 363,ri -1, inv 0
+i: 384, j: 362,ri -1, inv 0
+i: 383, j: 361,ri 380, inv 2
+i: 380, j: 358,ri -1, inv 0
+i: 379, j: 357,ri -1, inv 0
+i: 378, j: 356,ri -1, inv 0
+i: 377, j: 355,ri -1, inv 0
+i: 376, j: 354,ri -1, inv 0
+i: 375, j: 353,ri -1, inv 0
+i: 374, j: 353,ri -1, inv 2
+i: 373, j: 352,ri -1, inv 0
+i: 372, j: 351,ri -1, inv 0
+i: 371, j: 351,ri -1, inv 0
+i: 370, j: 350,ri -1, inv 0
+i: 369, j: 349,ri -1, inv 0
+i: 368, j: 348,ri -1, inv 0
+i: 367, j: 347,ri -1, inv 0
+i: 366, j: 347,ri -1, inv 0
+i: 365, j: 346,ri -1, inv 0
+i: 364, j: 345,ri -1, inv 0
+i: 363, j: 344,ri -1, inv 0
+i: 362, j: 343,ri -1, inv 0
+i: 361, j: 342,ri -1, inv 0
+i: 360, j: 342,ri -1, inv 0
+i: 359, j: 341,ri -1, inv 0
+i: 358, j: 340,ri -1, inv 0
+i: 357, j: 339,ri -1, inv 0
+i: 356, j: 338,ri -1, inv 0
+i: 356, j: 337,ri 352, inv 2
+i: 352, j: 333,ri -1, inv 0
+i: 351, j: 332,ri -1, inv 0
+i: 350, j: 332,ri -1, inv 2
+i: 349, j: 331,ri -1, inv 0
+i: 348, j: 330,ri -1, inv 0
+i: 347, j: 330,ri -1, inv 0
+i: 346, j: 330,ri -1, inv 2
+i: 345, j: 329,ri -1, inv 2
+i: 344, j: 328,ri -1, inv 0
+i: 343, j: 327,ri -1, inv 0
+i: 342, j: 326,ri -1, inv 0
+i: 341, j: 325,ri -1, inv 0
+i: 340, j: 324,ri -1, inv 0
+i: 339, j: 323,ri -1, inv 2
+i: 338, j: 322,ri -1, inv 0
+i: 337, j: 321,ri -1, inv 0
+i: 336, j: 321,ri -1, inv 2
+i: 335, j: 321,ri -1, inv 2
+i: 334, j: 321,ri -1, inv 2
+i: 333, j: 320,ri -1, inv 0
+i: 332, j: 319,ri -1, inv 0
+i: 331, j: 318,ri -1, inv 0
+i: 330, j: 317,ri -1, inv 0
+i: 329, j: 316,ri -1, inv 0
+i: 328, j: 315,ri -1, inv 0
+i: 327, j: 314,ri -1, inv 0
+i: 327, j: 313,ri -1, inv 0
+i: 326, j: 312,ri -1, inv 0
+i: 325, j: 311,ri -1, inv 0
+i: 324, j: 310,ri -1, inv 0
+i: 323, j: 310,ri -1, inv 0
+i: 322, j: 309,ri -1, inv 2
+i: 321, j: 308,ri -1, inv 0
+i: 320, j: 308,ri -1, inv 0
+i: 319, j: 308,ri -1, inv 0
+i: 318, j: 308,ri -1, inv 0
+i: 317, j: 308,ri -1, inv 2
+i: 316, j: 307,ri -1, inv 0
+i: 315, j: 306,ri -1, inv 0
+i: 314, j: 306,ri -1, inv 0
+i: 313, j: 306,ri -1, inv 0
+i: 312, j: 305,ri -1, inv 0
+i: 311, j: 304,ri -1, inv 0
+i: 310, j: 304,ri -1, inv 0
+i: 309, j: 303,ri -1, inv 0
+i: 308, j: 303,ri -1, inv 0
+i: 307, j: 303,ri -1, inv 0
+i: 306, j: 302,ri -1, inv 0
+i: 305, j: 302,ri -1, inv 0
+i: 304, j: 302,ri -1, inv 0
+i: 303, j: 301,ri -1, inv 0
+i: 302, j: 301,ri -1, inv 0
+i: 301, j: 301,ri -1, inv 2
+i: 300, j: 300,ri -1, inv 2
+i: 299, j: 299,ri -1, inv 0
+i: 298, j: 298,ri -1, inv 0
+i: 297, j: 297,ri -1, inv 2
+i: 296, j: 296,ri -1, inv 0
+i: 295, j: 295,ri -1, inv 2
+i: 294, j: 294,ri -1, inv 2
+i: 293, j: 293,ri -1, inv 0
+i: 292, j: 292,ri -1, inv 0
+i: 291, j: 291,ri -1, inv 0
+i: 290, j: 290,ri -1, inv 0
+i: 289, j: 289,ri -1, inv 2
+i: 288, j: 288,ri -1, inv 2
+i: 287, j: 287,ri -1, inv 0
+i: 286, j: 286,ri -1, inv 0
+i: 285, j: 285,ri -1, inv 0
+i: 284, j: 284,ri -1, inv 0
+i: 283, j: 283,ri -1, inv 0
+i: 282, j: 282,ri -1, inv 2
+i: 281, j: 281,ri -1, inv 0
+i: 280, j: 280,ri -1, inv 2
+i: 279, j: 279,ri -1, inv 2
+i: 278, j: 278,ri -1, inv 0
+i: 277, j: 277,ri -1, inv 0
+i: 276, j: 276,ri -1, inv 0
+i: 275, j: 275,ri -1, inv 0
+i: 274, j: 274,ri -1, inv 2
+i: 273, j: 273,ri -1, inv 2
+i: 272, j: 272,ri -1, inv 0
+i: 271, j: 271,ri -1, inv 0
+i: 270, j: 270,ri -1, inv 0
+i: 269, j: 269,ri -1, inv 0
+i: 268, j: 268,ri -1, inv 2
+i: 267, j: 267,ri -1, inv 0
+i: 266, j: 266,ri -1, inv 0
+i: 265, j: 265,ri -1, inv 0
+i: 264, j: 264,ri -1, inv 0
+i: 263, j: 263,ri -1, inv 0
+i: 262, j: 262,ri -1, inv 0
+i: 261, j: 261,ri -1, inv 0
+i: 260, j: 260,ri -1, inv 2
+i: 259, j: 259,ri -1, inv 2
+i: 258, j: 258,ri -1, inv 2
+i: 257, j: 257,ri -1, inv 0
+i: 256, j: 256,ri -1, inv 0
+i: 255, j: 255,ri -1, inv 2
+i: 254, j: 254,ri -1, inv 0
+i: 253, j: 253,ri -1, inv 2
+i: 252, j: 252,ri -1, inv 0
+i: 251, j: 251,ri -1, inv 0
+i: 250, j: 250,ri -1, inv 2
+i: 249, j: 249,ri -1, inv 0
+i: 248, j: 248,ri -1, inv 0
+i: 247, j: 247,ri -1, inv 0
+i: 246, j: 246,ri -1, inv 2
+i: 245, j: 245,ri -1, inv 0
+i: 244, j: 244,ri -1, inv 0
+i: 243, j: 243,ri -1, inv 0
+i: 242, j: 242,ri -1, inv 0
+i: 241, j: 241,ri -1, inv 0
+i: 240, j: 240,ri -1, inv 0
+i: 239, j: 239,ri -1, inv 2
+i: 238, j: 238,ri -1, inv 2
+i: 237, j: 237,ri -1, inv 0
+i: 236, j: 236,ri -1, inv 2
+i: 235, j: 235,ri -1, inv 2
+i: 234, j: 234,ri -1, inv 2
+i: 233, j: 233,ri -1, inv 0
+i: 232, j: 232,ri -1, inv 0
+i: 231, j: 231,ri -1, inv 0
+i: 230, j: 230,ri -1, inv 2
+i: 229, j: 229,ri -1, inv 0
+i: 228, j: 228,ri -1, inv 0
+i: 227, j: 227,ri -1, inv 0
+i: 226, j: 226,ri -1, inv 0
+i: 225, j: 225,ri -1, inv 0
+i: 224, j: 224,ri -1, inv 2
+i: 223, j: 223,ri -1, inv 2
+i: 222, j: 222,ri -1, inv 0
+i: 221, j: 221,ri -1, inv 0
+i: 220, j: 220,ri -1, inv 0
+i: 219, j: 219,ri -1, inv 0
+i: 218, j: 218,ri -1, inv 0
+i: 217, j: 217,ri -1, inv 2
+i: 216, j: 216,ri -1, inv 2
+i: 215, j: 215,ri -1, inv 0
+i: 214, j: 214,ri -1, inv 0
+i: 213, j: 213,ri -1, inv 0
+i: 212, j: 212,ri -1, inv 0
+i: 211, j: 211,ri -1, inv 0
+i: 210, j: 210,ri -1, inv 2
+i: 209, j: 209,ri -1, inv 2
+i: 208, j: 208,ri -1, inv 2
+i: 207, j: 207,ri -1, inv 0
+i: 206, j: 206,ri -1, inv 0
+i: 205, j: 205,ri -1, inv 2
+i: 204, j: 204,ri -1, inv 0
+i: 203, j: 203,ri -1, inv 0
+i: 202, j: 202,ri -1, inv 0
+i: 201, j: 201,ri -1, inv 2
+i: 200, j: 200,ri -1, inv 2
+i: 199, j: 199,ri -1, inv 0
+i: 198, j: 198,ri -1, inv 0
+i: 197, j: 197,ri -1, inv 0
+i: 196, j: 196,ri -1, inv 0
+i: 195, j: 195,ri -1, inv 0
+i: 194, j: 194,ri -1, inv 2
+i: 193, j: 193,ri -1, inv 0
+i: 192, j: 192,ri -1, inv 0
+i: 191, j: 191,ri -1, inv 0
+i: 190, j: 190,ri -1, inv 0
+i: 189, j: 189,ri -1, inv 2
+i: 188, j: 188,ri -1, inv 2
+i: 187, j: 187,ri -1, inv 0
+i: 186, j: 186,ri -1, inv 0
+i: 185, j: 185,ri -1, inv 0
+i: 184, j: 184,ri -1, inv 0
+i: 183, j: 183,ri -1, inv 0
+i: 182, j: 182,ri -1, inv 0
+i: 181, j: 181,ri -1, inv 0
+i: 180, j: 180,ri -1, inv 0
+i: 179, j: 179,ri -1, inv 0
+i: 178, j: 178,ri -1, inv 0
+i: 177, j: 177,ri -1, inv 0
+i: 176, j: 176,ri -1, inv 0
+i: 175, j: 175,ri -1, inv 0
+i: 174, j: 174,ri -1, inv 0
+i: 173, j: 173,ri -1, inv 2
+i: 172, j: 172,ri -1, inv 0
+i: 171, j: 171,ri -1, inv 0
+i: 170, j: 170,ri -1, inv 0
+i: 169, j: 169,ri -1, inv 0
+i: 168, j: 168,ri -1, inv 2
+i: 167, j: 167,ri -1, inv 2
+i: 166, j: 166,ri -1, inv 2
+i: 165, j: 165,ri -1, inv 0
+i: 164, j: 164,ri -1, inv 2
+i: 163, j: 163,ri -1, inv 2
+i: 162, j: 162,ri -1, inv 0
+i: 161, j: 161,ri -1, inv 0
+i: 160, j: 160,ri -1, inv 0
+i: 159, j: 159,ri -1, inv 0
+i: 158, j: 158,ri -1, inv 2
+i: 157, j: 157,ri -1, inv 0
+i: 156, j: 156,ri -1, inv 0
+i: 156, j: 155,ri -1, inv 0
+i: 155, j: 154,ri -1, inv 0
+i: 154, j: 153,ri -1, inv 2
+i: 153, j: 153,ri -1, inv 2
+i: 152, j: 152,ri -1, inv 0
+i: 151, j: 151,ri -1, inv 2
+i: 150, j: 150,ri -1, inv 2
+i: 149, j: 149,ri -1, inv 0
+i: 148, j: 148,ri -1, inv 0
+i: 147, j: 147,ri -1, inv 0
+i: 146, j: 146,ri -1, inv 2
+i: 145, j: 145,ri -1, inv 0
+i: 144, j: 144,ri -1, inv 2
+i: 143, j: 143,ri -1, inv 0
+i: 142, j: 142,ri -1, inv 0
+i: 141, j: 141,ri -1, inv 0
+i: 140, j: 140,ri -1, inv 0
+i: 139, j: 139,ri -1, inv 2
+i: 138, j: 138,ri -1, inv 2
+i: 137, j: 137,ri -1, inv 0
+i: 136, j: 136,ri -1, inv 0
+i: 135, j: 135,ri -1, inv 0
+i: 134, j: 134,ri -1, inv 0
+i: 133, j: 133,ri -1, inv 0
+i: 132, j: 132,ri -1, inv 0
+i: 131, j: 131,ri -1, inv 0
+i: 130, j: 130,ri -1, inv 0
+i: 129, j: 129,ri -1, inv 0
+i: 128, j: 128,ri -1, inv 0
+i: 127, j: 127,ri -1, inv 0
+i: 126, j: 126,ri -1, inv 0
+i: 125, j: 125,ri -1, inv 0
+i: 124, j: 124,ri -1, inv 2
+i: 123, j: 123,ri -1, inv 2
+i: 122, j: 122,ri -1, inv 0
+i: 121, j: 121,ri -1, inv 0
+i: 120, j: 120,ri -1, inv 0
+i: 119, j: 119,ri -1, inv 0
+i: 118, j: 118,ri -1, inv 2
+i: 117, j: 117,ri -1, inv 2
+i: 116, j: 116,ri -1, inv 2
+i: 115, j: 115,ri -1, inv 0
+i: 114, j: 114,ri -1, inv 0
+i: 113, j: 113,ri -1, inv 0
+i: 112, j: 112,ri -1, inv 0
+i: 111, j: 111,ri -1, inv 0
+i: 110, j: 110,ri -1, inv 0
+i: 109, j: 109,ri -1, inv 0
+i: 108, j: 108,ri -1, inv 2
+i: 107, j: 107,ri -1, inv 0
+i: 106, j: 106,ri -1, inv 0
+i: 105, j: 105,ri -1, inv 2
+i: 104, j: 104,ri -1, inv 2
+i: 103, j: 103,ri -1, inv 2
+i: 102, j: 102,ri -1, inv 0
+i: 101, j: 101,ri -1, inv 0
+i: 100, j: 100,ri -1, inv 0
+i: 99, j: 99,ri -1, inv 2
+i: 98, j: 98,ri -1, inv 0
+i: 97, j: 97,ri -1, inv 0
+i: 96, j: 96,ri -1, inv 0
+i: 95, j: 95,ri -1, inv 0
+i: 94, j: 94,ri -1, inv 0
+i: 93, j: 93,ri -1, inv 0
+i: 92, j: 92,ri -1, inv 2
+i: 91, j: 91,ri -1, inv 0
+i: 90, j: 90,ri -1, inv 0
+i: 89, j: 89,ri -1, inv 2
+i: 88, j: 88,ri -1, inv 0
+i: 87, j: 87,ri -1, inv 2
+i: 86, j: 86,ri -1, inv 0
+i: 85, j: 85,ri -1, inv 0
+i: 84, j: 84,ri -1, inv 0
+i: 83, j: 83,ri -1, inv 0
+i: 82, j: 82,ri -1, inv 0
+i: 81, j: 81,ri 0, inv 0
+i: 81, j: 0,ri 0, inv 0

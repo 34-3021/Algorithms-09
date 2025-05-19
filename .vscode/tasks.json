@@ -14,9 +14,6 @@
                 "-std=c++20",
                 "-Wall"
             ],
-            "options": {
-                "cwd": "C:\\cygwin64\\bin"
-            },
             "problemMatcher": ["$gcc"],
             "group": "build"
         },
@@ -33,9 +30,6 @@
                 "-std=c99",
                 "-Wall"
             ],
-            "options": {
-                "cwd": "C:\\cygwin64\\bin"
-            },
             "problemMatcher": ["$gcc"],
             "group": "build"
         }
