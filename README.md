@@ -63,7 +63,7 @@ $ref$ 和 $query$ 的长度分别为 $n$ 和 $m$ 。下标从 1 开始。
 考虑到 Dijkstra 算法的一个特例：对于 0-1 边权的图，这可以退化为 BFS 算法。我们可以使用双端队列来实现，由于队列的复杂度为 $O(1)$ ，所以我们可以将复杂度降到 $O(nm)$ 。
 - 使用双端队列，时间复杂度为 $O(nm)$ 。
 
-## 伪代码：
+## 伪代码（请到 PDF 查看，由于渲染器）：
 <!--According to the Node type-->
 <pre class="pseudocode">
 \begin{algorithm}
