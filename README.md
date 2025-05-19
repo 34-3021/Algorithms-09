@@ -12,33 +12,33 @@
 
 我们逆向思维一下，最大化得分就是最小化代价。这样我们可以考虑用最短路算法来实现。
 
-设 $ref$ 为参考序列，$query$ 为查询序列。另外预处理一个 $ref$ 的互补（但不反向）序列 $ref_{rev}$。
-$ref$ 和 $query$ 的长度分别为 $n$ 和 $m$。下标从 1 开始。
+设 $ref$ 为参考序列， $query$ 为查询序列。另外预处理一个 $ref$ 的互补（但不反向）序列 $ref_{rev}$ 。
+$ref$ 和 $query$ 的长度分别为 $n$ 和 $m$ 。下标从 1 开始。
 
 我们认为有以下的点：
 
-- 第 A 类：$NodeA(i,j)$ 表示正向匹配完 $ref[i]$ 与 $query[j]$ 的状态。 
-- 第 B 类：$NodeB(i,j)$ 表示反向匹配完 $ref[i]$ 与 $query[j]$ 的状态。 
-- 第 C 类：$NodeC(k)$ 表示某一匹配段以 $query[k]$ 结尾的状态。
+- 第 A 类： $NodeA(i,j)$ 表示正向匹配完 $ref[i]$ 与 $query[j]$ 的状态。 
+- 第 B 类： $NodeB(i,j)$ 表示反向匹配完 $ref[i]$ 与 $query[j]$ 的状态。 
+- 第 C 类： $NodeC(k)$ 表示某一匹配段以 $query[k]$ 结尾的状态。
 
 对于 A 类点为起点的边：
 
-- $NodeA(i,j) \to NodeA(i+1,j+1)$ ，当 $ref[i+1]$==$query[j+1]$ 边权为 0，否则边权为 1。
-- $NodeA(i,j) \to NodeA(i+1,j)$ ，边权为 1。
-- $NodeA(i,j) \to NodeA(i,j+1)$ ，边权为 1。
-- $NodeA(i,j) \to NodeC(j)$ ，边权为 1。
+- $NodeA(i,j) \to NodeA(i+1,j+1)$ ，当 $ref[i+1]=query[j+1]$ 边权为 $0$，否则边权为 $1$。
+- $NodeA(i,j) \to NodeA(i+1,j)$ ，边权为 $1$。
+- $NodeA(i,j) \to NodeA(i,j+1)$ ，边权为 $1$。
+- $NodeA(i,j) \to NodeC(j)$ ，边权为 $1$。
 
 对于 B 类点为起点的边：
 
-- $NodeB(i,j) \to NodeB(i-1,j+1)$ ，当 $ref_{rev}[i-1]$==$query[j+1]$ 边权为 0，否则边权为 1。
-- $NodeB(i,j) \to NodeB(i-1,j)$ ，边权为 1。
-- $NodeB(i,j) \to NodeB(i,j+1)$ ，边权为 1。
-- $NodeB(i,j) \to NodeC(j)$ ，边权为 1。
+- $NodeB(i,j) \to NodeB(i-1,j+1)$ ，当 $ref_{rev}[i-1]=query[j+1]$ 边权为 $0$，否则边权为 $1$。
+- $NodeB(i,j) \to NodeB(i-1,j)$ ，边权为 $1$。
+- $NodeB(i,j) \to NodeB(i,j+1)$ ，边权为 $1$。
+- $NodeB(i,j) \to NodeC(j)$ ，边权为 $1$。
 
 对于 C 类点为起点的边：
 
-- $NodeC(j) \to NodeA(i,j)$ ，边权为 0。
-- $NodeC(j) \to NodeB(i,j)$ ，边权为 0。
+- $NodeC(j) \to NodeA(i,j)$ ，边权为 $0$。
+- $NodeC(j) \to NodeB(i,j)$ ，边权为 $0$。
 
 因此，总代价就是 $NodeC(0)$ 到 $NodeA(k,m)$ 的最短路径。
 
@@ -51,8 +51,8 @@ $ref$ 和 $query$ 的长度分别为 $n$ 和 $m$。下标从 1 开始。
 - B 类点有 $\Theta(nm)$ 个，每个 B 类点有至多 $4$ 条边，这是 $O(nm)$。
 - C 类点有 $\Theta(m)$ 个，每个 C 类点有至多 $n$ 条边，这是 $O(nm)$。
 
-故点数为 $O(nm)$，边数为 $O(nm)$。
-- 使用 Dijkstra 算法，时间复杂度为 $O((nm) \log(nm))$。
+故点数为 $O(nm)$，边数为 $O(nm)$ 。
+- 使用 Dijkstra 算法，时间复杂度为 $O((nm) \log(nm))$ 。
 
 **这个时间复杂度并不满足不差于平方量级的要求，我们需要进一步优化。**
 
@@ -60,8 +60,8 @@ $ref$ 和 $query$ 的长度分别为 $n$ 和 $m$。下标从 1 开始。
 
 这个 $\log(nm)$ 的复杂度是由于优先队列中最差情况可能会有 $O(nm)$ 个元素。问题来自于优先队列本身。
 
-考虑到 Dijkstra 算法的一个特例：对于 0-1 边权的图，这可以退化为 BFS 算法。我们可以使用双端队列来实现，由于队列的复杂度为 $O(1)$，所以我们可以将复杂度降到 $O(nm)$。
-- 使用双端队列，时间复杂度为 $O(nm)$。
+考虑到 Dijkstra 算法的一个特例：对于 0-1 边权的图，这可以退化为 BFS 算法。我们可以使用双端队列来实现，由于队列的复杂度为 $O(1)$ ，所以我们可以将复杂度降到 $O(nm)$ 。
+- 使用双端队列，时间复杂度为 $O(nm)$ 。
 
 ## 伪代码：
 <!--According to the Node type-->
