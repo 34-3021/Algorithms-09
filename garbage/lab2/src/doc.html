@@ -514,13 +514,16 @@ $ref$ 和 $query$ 的长度分别为 $n$ 和 $m$。下标从 1 开始。</p>
 \end{algorithm}
 </pre>
 <h2 id="%E7%BB%93%E6%9E%9C">结果</h2>
-<p>最终，可以在第一个样例拿到 29.813k（距离基线 7），在第二个样例拿到 2080（距离基线 10）。</p>
-<p>考虑达不到基线的原因是没有考虑长度为 30 以下的片段被忽略的问题。</p>
+<p>最终，可以在第一个样例拿到 29.82k（距离基线 0），在第二个样例拿到 2103（高于基线 13）。</p>
 <h2 id="%E7%A8%8B%E5%BA%8F">程序</h2>
 <ul>
 <li><code>main2.cpp</code> <strong>需要使用 C++20 编译，因为使用了 std::unordered_map::contains 这个语法糖，若没有对应环境请改成std::unordered_map::find != std::unordered_map::end</strong></li>
 </ul>
-<p>常数比较大，而且需要遍历所有的点，大概需要的内存为 $200\times n\times m\text{Bytes}$</p>
+<p>常数比较大，而且需要遍历所有的点，大概需要的内存为 $200\times n\times m\text{Bytes}$，例如对样例 1 这大概需要 190GB。</p>
+<p>对内存占用做了一些优化，可以去掉一些点，大约节省了 $40%$ 的内存，但会导致时间加倍：</p>
+<ul>
+<li><code>main2_mem.cpp</code> <strong>需要使用 C++20 编译，因为使用了 std::unordered_map::contains 这个语法糖，若没有对应环境请改成std::unordered_map::find != std::unordered_map::end</strong></li>
+</ul>
 <script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous" onload="renderMathInElement(document.body, {delimiters: [{left: '$$', right: '$$', display: true},{left: '$', right: '$', display: false},{left: '\\(', right: '\\)', display: false},{left: '\\[', right: '\\]', display: true}],throwOnError : false});"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pseudocode@latest/build/pseudocode.min.css">
 <script src="https://cdn.jsdelivr.net/npm/pseudocode@latest/build/pseudocode.min.js" onload="pseudocode.renderClass('pseudocode')"></script>

@@ -221,11 +221,11 @@ int main(int argc, char* argv[]) {
     int seg_end_i = entry.i, seg_end_j = entry.j;
     while (entry.type != 'C' || entry.i != 0 || entry.j != 0) {
         if (entry.type == 'A' && entry.type != dis[entry].entry.type) {
-            fprintf(plot_file, "(%d,%d,%d,%d),\n", entry.j + 1, seg_end_j, entry.i + 1, seg_end_i);
+            fprintf(plot_file, "(%d,%d,%d,%d),\n", entry.j, seg_end_j, entry.i, seg_end_i);
             fflush(plot_file);
         }
         if (entry.type == 'B' && entry.type != dis[entry].entry.type) {
-            fprintf(plot_file, "(%d,%d,%d,%d),\n", entry.j + 1, seg_end_j, seg_end_i, entry.i - 1);
+            fprintf(plot_file, "(%d,%d,%d,%d),\n", entry.j, seg_end_j, seg_end_i - 1, entry.i - 1);
             fflush(plot_file);
         }
         if (entry.type == 'C' && entry.type != dis[entry].entry.type) {
